@@ -1,0 +1,2414 @@
+Page 1: Preface & Introduction
+General Notes: Generally, Astrology is based on three major divisions.
+1.	The first part involves calculating the positions of planets and creating various notes based on mathematics. This section is primarily used by those who calculate the Panchangam (Almanac).
+2.	Using the information obtained from this to write a horoscope based on date of birth, time, and place is another division. However, this is not as difficult as calculating the Panchangam.
+3.	Writing the horoscope based on the notes in the Panchangam constitutes "Horoscope Mathematics." Regardless, in modern times, even astrologers provide horoscopes written with the help of computers.
+(Source: Rajanadi Shastra / Rajanadi K.B)
+Page 2: Introduction Continued
+This book does not contain notes on how to write (calculate) a horoscope. This book focuses on predicting results. Therefore, since many free software options are now available online, use one of them. Regardless of whose horoscope is given to you, generate the chart using your preferred software and use the notes in this book to predict the results.
+Note: To learn about calculating planetary positions, understanding the Panchangam, or learning how to calculate planetary positions for several hundred years ago, or for training and books regarding scientific and mathematical explanations of astrology, please contact: Astrologer & Almanac Mathematician, Mr. R. Arulvel. Address: Anmigan Jothida Kuzhumam, Chettiar Street, Ayyampalayam - 624204, (Near Athur), Dindigul District. Mobile: 9842841497.
+To predict results fundamentally, one requires a strong understanding of Planetary names, Rasi (Sign) names, and Planetary Karakas (Significations). It is also necessary to know certain other details.
+I do not agree with giving bundles of rules and asking you to memorize them. Until now, as soon as we say "Astrology," we talk about Rasi Palan (predictions based on Moon sign). Moving past that, we talk about Lagana Palan (predictions based on Ascendant).
+Although we speak generally about birth month predictions or daily predictions, Formal Astrology involves the 12 Bhavas (Houses):
+1.	Tanur Bhava (Body)
+2.	Dhana Bhava (Wealth)
+3.	Sahodara Bhava (Siblings)
+4.	Mathru Bhava (Mother)
+5.	Puthira Bhava (Children)
+6.	Sathru Bhava (Enemy)
+7.	Kalathira Bhava (Spouse)
+8.	Ayul Bhava (Longevity)
+9.	Pithru Bhava (Father)
+10.	Jeevana Bhava (Career/Livelihood)
+11.	Labha Bhava (Profit)
+12.	Viraya Bhava (Loss/Expense)
+We usually analyze the Lords of these houses, the house where the Lord is seated, the stars (Saram) obtained by that Lord, and the lordship of that Star Lord.
+We also look at the strength of the house where he sat, the natural qualities of the planets, the houses they aspect, Friend/Enemy/Neutral status, Shunya, Thiyajyam, Amsham, Drishti Yoga, Varga strength, Dasa (Major Period), Bukthi (Sub-period), Antharam, and Sukshumam. Predictions are usually given based on various complex calculations.
+However, our method is designed to bring you out of such complex understandings and allow you to predict results using very minimized rules.
+Do not be confused that fewer rules might mean inaccurate results. In previous methods, errors might occur in understanding and calculating because the rules are vast. You might have predicted based on the few rules you knew, but unknowingly, you might have forgotten or been unaware of auxiliary rules. Therefore, more rules are often the main cause of more errors.
+In our Rajanadi method, since we state the fundamental concepts without making you memorize rules, you can formulate the rules in your own subconscious mind. Therefore, there is no chance for errors.
+The field of Astrology predicts a person's life based on three things: Planets, Rasis (Signs), and Bhavas (Houses). Rasi has a static character; planets and Bhavas have a changing nature for everyone. Therefore, we understand one through the other.
+Page 3: Core Methodology
+We understand:
+•	Bhava strength through Planets.
+•	Planetary strength through other Planets.
+•	Bhava strength through Bhavas.
+•	Planetary strength through Bhavas.
+•	Planetary and Bhava strength through Rasis.
+Predictions are given on this basis. Among these, the rule "Understanding Planetary and Bhava strength through Rasis" is the only common rule. Other astrological systems pick one of the other rules and build their system around it. Mostly, there are no rules beyond these fundamentals.
+We are also going to take some fundamentals from this and predict results.
+1.	Understanding a planet's strength through another planet.
+2.	Understanding a planet's strength through Rasis.
+We can give satisfactory predictions using just these two rules.
+Generally, the basis of all astrological systems is centered on the Kalapurusha Tattva (Time Personified). According to this, Aries (Mesham) is the first house (Lagana) and indicates the character of the "Self". Gradually, the subsequent houses indicate the subsequent Bhavas and their natures.
+In Traditional Astrology, since Aries (the first house of Kalapurusha) holds the qualities of the Lagana, we understand that regardless of whose horoscope it is, the Lagana holds the qualities of the first house of the Kalapurusha.
+But we understand that the qualities of Aries (the first house of Kalapurusha) are enacted by its Lord, Mars (Sevvai). All are one and the same. Because the Kalapurusha philosophy is structured such that the qualities of a House and the qualities of that House Lord align.
+•	Lagana: Appearance, Body, Physique — Mars
+•	2nd Bhava: Wealth, Family, Speech proficiency — Venus
+•	3rd Bhava: Contacts/Communication, Education — Mercury
+•	4th Bhava: Mother, Mind, House, Vehicle — Moon
+•	5th Bhava: Ancestry, Creation, Nuance — Sun
+•	6th Bhava: Litigious thoughts, Bad contacts — Mercury
+•	7th Bhava: Spouse, Society, Wealth — Venus
+•	8th Bhava: Health, Trouble, Sudden actions — Mars
+•	9th Bhava: Charity (Dharma), Purpose of birth — Jupiter
+•	10th Bhava: Karma, Livelihood, Profession — Saturn
+•	11th Bhava: Profits from profession — Saturn
+•	12th Bhava: Purpose of the native, Success — Jupiter
+We understand the same thing from different angles. But simply put: From now on, we don't need to search for a "Bhava." We can know the necessary qualities directly through the Planets.
+Page 4: Planets as Significators
+Therefore, in the horoscopes we analyze henceforth, we will learn the results based on the degrees of the planets in the houses. Instead of "Bhava" or "Lagana," we will predict directly using Planets.
+Just as every Bhava provides specific results, every Planet helps us know specific results. They are:
+1.	Sun: Native's Father, Son, Administrative Ability.
+2.	Moon: Native's Mother, Mind.
+3.	Mercury: Native's Education, Daughter, Listening ability, Speaking ability.
+4.	Venus: Native's Female friends, Wife, Wealth.
+5.	Mars: Native's Male friends, Husband, Health, Debt-free life.
+6.	Jupiter: The Native, their character. The Native will hold a decision or experience about themselves within. Whether it is pride or disgust, their "Self"—which only they know—is Jupiter.
+7.	Saturn: Native's Profession, Profit.
+(Note: Though Rahu and Ketu have separate qualities, generally we do not use them here. The qualities listed above for the planets are for high-frequency usage. More planetary and Rasi qualities are given in the book.)
+From now on, you do not need to find the "Bhava" to predict. We can see it directly with the help of the Planet.
+Example: To see a native's profession or job, we can understand it based on where Saturn is seated. This is explained in the relevant section.
+In our method, we determine the good and bad effects a primary planet delivers to the native based on:
+•	The place the planet is seated.
+•	The conjunction of planets.
+•	The nature/quality of the planet.
+Conjunction: "Conjunction" does not necessarily mean they must be in the same Rasi. According to our method, from a Rasi, the 1st, 5th, 7th, and 9th Rasis have the same nature. Furthermore, if you look at the 1st, 5th, 7th, and 9th Rasis from those Rasis, you will find the 3rd and 11th Rasis from the original spot. Therefore, the 3rd and 11th Rasis provide half-conjunction.
+In Stellar Astrology (Nakshatra Jothidam), more importance is given to the Lords of the stars than the stars themselves. For example, whether a planet or Bhava is in Ashwini, Magam, or Moolam, since these three stars belong to Ketu, we say generally that the planet/bhava is in "Ketu Saram" (Star of Ketu).
+Page 5: Rasis (Zodiac Signs)
+These three star-paths will be in the 1st, 5th, and 9th houses at specific degrees. We use the same basis.
+Furthermore, all planets do not rotate on the exact same flat plane in the cosmic plate. Every planet has its own path, moving up and down. When viewed from the side, since one is up and the other down, light waves pass the earth and reflect on the opposite side (the 7th Rasi). Therefore, 1, 5, 7, 9 and 3, 11 are considered equals. Thus, from the Rasi where a planet is seated, the 1, 5, 7, 9 and 3, 11 (50%) Rasis are considered "Connected Rasis" in our method.
+The Rasis: "Rasi" means a group or cluster. When we view the universe from Earth, to identify the location of objects rotating in the universe, we need regions with specific boundaries. Since the universe is vast, expanded, and dark with no definable beginning or end, we identify objects based on the reflection of light from the star closest to us—the Sun.
+To state where these identified objects are, we need divisions, so we have divided the total universal area and set boundaries. When viewed from Earth, this Zodiac belt (Rasi Mandalam) appears like a ring passing through East, Zenith (Overhead), West, and behind the Earth.
+To understand this better, keep the path of the Sun in mind. The Sun rises in the East, travels to the Zenith, sets in the West, travels behind the Earth, and reaches the East again. All planets rotate in the same angular path that we view the Sun rotating in. But distances vary.
+Even if distances vary, all planets deviate only slightly (North or South) from the Sun's path—maximum 7 degrees. They do not deviate entirely to the South or North. Since all planets rotate only in this path, this Rasi Chakra (Zodiac Wheel) helps us know planetary positions.
+The Earth rotates around the Sun. The Moon rotates around the Earth. When viewing from Earth, as we see the Moon reflecting the Sun's light, the Moon's phases appear to change. Since the Moon's revolution period around the Earth is faster than the Earth's revolution around the Sun, the Moon moves fast, and its reflection status keeps changing.
+We call these changes "Thithis." When the Moon comes between the Sun and Earth, the Sun's light falls on the side of the Moon opposite to our view, so we see the dark side of the Moon. We call this state Amavasya (New Moon). Since we cannot distinguish it in the darkness, it appears as if the Moon is not there.
+Similarly, when the Earth is between the Sun and the Moon (Earth's backside), we see the full reflection of Sun's light on the Moon, making it appear fully bright. We call this Pournami (Full Moon). Within the time the Earth goes around the Sun once, 12 Amavasyas and Pournamis occur.
+Page 6: The 12 Divisions
+Therefore, we divided this total universe into 12 parts. When viewed from Earth, we compared the star clusters facing these specific divisions with shapes known to us and named them. Rasi is just a unit we separated for measurement. But within those separated measurements, we found the time-mathematics required for our life.
+We divided the 360-degree circle surrounding us into 12 parts, allotting 30 degrees to each part, and named them Rasis. We call the total cluster the "Rasi Mandalam" (Zodiac Belt).
+The 12 Rasis:
+1.	Mesham (Aries): Ram's horns / Goat.
+2.	Rishabam (Taurus): Bull.
+3.	Mithunam (Gemini): A man with a mace and a woman with a Veena (Musical instrument).
+4.	Kadagam (Cancer): Crab.
+5.	Simham (Leo): Lion.
+6.	Kanni (Virgo): A woman sitting in a boat with paddy sheaves.
+7.	Thulam (Libra): Weighing Scale (Balance).
+8.	Viruchigam (Scorpio): Scorpion.
+9.	Dhanusu (Sagittarius): Horse-man holding a bow (Centaur).
+10.	Makaram (Capricorn): An animal with a goat's head and fish's body.
+11.	Kumbam (Aquarius): A dark man carrying an empty pot on his shoulder.
+12.	Meenam (Pisces): Twin Fishes.
+Rasi Lords: [Diagram of orbits] In the diagram, the paths are:
+1.	Sun, 2. Mercury, 3. Venus, 4. Moon...
+Page 7: Planetary Rulerships
+5.	Mars, 6. Jupiter, 7. Saturn.
+All planets, including Earth, rotate with the Sun as the center. As seen in the previous chapter, "Rasi Lords" essentially state the unification of the Geocentric and Heliocentric theories.
+The intersection point where the imaginary path of other planets rotating around the Sun meets the imaginary path of the Sun rotating around us (Earth) points to a specific Rasi in the zodiac. That intersection point acquires the character of the Lord of that planetary path.
+Observe the Diagram:
+•	2 is the intersection point of Mercury's path. This indicates Gemini and Virgo Rasi areas.
+•	3 is the intersection point of Venus's path. This indicates Taurus and Libra.
+•	5 is the intersection point of Mars's path. This indicates Aries and Scorpio.
+•	6 is the intersection point of Jupiter's path. This indicates Pisces and Sagittarius.
+•	7 is the intersection point of Saturn's path. This indicates Aquarius and Capricorn.
+•	1 indicates the Sun and Leo.
+•	4 indicates the Amavasya Moon (12 degrees behind the Sun) and Cancer. (We will see later why Amavasya Moon is relevant).
+This Zodiac belt creates an appearance as if viewed from Earth. Furthermore, the Zodiac belt is not horizontal from the Earth's equator but tilted; this is due to the Earth's tilt axis. Therefore, the vibrations coming from this Zodiac belt are not the same for all Rasis; they differ. Since their qualities align perfectly with the nature of their Lords, we can know the nature of the Rasis through the nature of the Lords.
+However, there are things to understand about Rasi qualities beyond just planetary qualities. We can understand many qualities based on the symbols/images of each Rasi.
+Generally, in astrology today, Rasi predictions are given based on the Rasi where the Moon is present. But we do not use Rasis that way. Instead, giving importance to planetary qualities, we connect planets with the Rasis they are in, identifying the relationships and objects that the planet indicates, and segregate them by quality.
+[Table showing Rasi structure - corner signs are Pisces, Gemini, Virgo, Sagittarius etc.]
+Page 8: Application of Rasi Qualities
+Therefore, whichever object or person a planet indicates, that object or person will possess the natural qualities of the Rasi that planet is in.
+Do not look at the Rasi qualities given in the section below as you would for standard "Rasi Palan" (Horoscope reading). You must match them with the planet seated in that Rasi. Match it with the matter or relationship that the planet indicates.
+Furthermore, match the Education, Profession, Place, Body Part, Disease, and Items listed for each Rasi with the planets present in that Rasi in the horoscope.
+Example: If Saturn is in a Rasi, since Saturn indicates the native's profession, the native's profession will depend on the trade indicated by that Rasi. Similarly, if the Sun is in that Rasi, the native's father or son will possess the character, profession, education, and residence indicated by that Rasi.
+You must tell these results to the Native's father or son. Similarly, when each planet is in a Rasi, the relationships indicated by that planet will exist with the nature of that Rasi. This alone does not determine the result; one must also come to a conclusion based on the planets conjoined with them and their various statuses. (We have provided details on Nadi and Planetary Conjunctions in the following section).
+In the coming section, we will see the Karakas (Significations) of Rasis and Planets. This section is fundamental for you to predict results. The more Rasi and Planetary Karakas one knows, the more expert they are in astrology. Even more important is handling the known Karaka with presence of mind.
+Example: A person comes for a consultation. In the bag he brought, a bottle was not closed properly, water leaked, and his shirt/dhoti got wet.
+•	Instant deduction: Wet cloth indicates Mercury. So, you should think it is a matter related to Mercury's Karaka.
+•	Similarly, if the native's name is "Premalatha" - Prem means Love. That is Moon. So, conclude the native is a Moon-related person.
+•	Not just this, when predicting, one must handle many Karakas according to the situation.
+In this section, I have given only a minimum amount of Karakas (those used frequently in general usage). So, without memorizing, read patiently and absorb them. Similarly, I have given the tree, plant, place, metal for each Rasi. Handle this according to the occasion.
+Example: In a horoscope, Mercury is very important. You can immediately say there is a Park near his house. You can say someone is in a job related to Cement or Electricals. You can say the house entrance faces South. Similarly, Mercury's plant is Tulsi (Holy Basil). Tulsi is named Brindha. So, you can say help will come from a person named Brindha.
+But you must use these by practicing and applying them according to the experience and environment.
+Another Example: In a horoscope, Venus is in Aries. You can say near the house where the native's wife lives, there is a Mine, Tollgate, or Hospital. You must handle this with presence of mind.
+________________________________________
+Page 9-11: MESHAM (ARIES)
+Symbol: Represented by the head of a Goat/Ram. Degrees: 0 to 30 degrees in the Zodiac. General: Generally indicates the Head area. It is the starting Rasi of the Zodiac. Indicates agility/activity like a goat. Indicates receiving National level awards, specifically bravery awards. Indicates a stubborn character. If Venus is here: Marriage within relatives or to a known person. Indicates the ability to withstand anything.
+Items: Electrical instruments, Furnace, Stove, Electrical tools, Weapons, Stones, Sharp objects, Thorns.
+Places: Aries has the quality of moving towards the East or attracting everyone from that direction. Politicians, Leaders, places where VIPs gather, Forest areas.
+•	In Tamil Nadu: Areas bordering Andhra, Vellore, Thiruvannamalai, Ranipet, Arcot.
+•	In India: Areas bordering Kashmir.
+•	Generally, for any town/country/small place, this Rasi indicates the Northern border areas.
+Professions: Central Government jobs, Medicine, Barber, Engineering, Mechanic, Vehicle-related, Fighting/Combat, Henchmen, Police, Theft, Sports players, Martial arts, Cooking, Restaurants, Mining, Weapon manufacturing, Armed forces, Military, Government dictatorship, Electrical, Sculpture/Masonry, Real Estate, Construction material sales, Coolie/Hard labor, Showing tricks/Stunts, War equipment production, Terrorism, Pottery, Magic/Sorcery, Steel plant, Machine manufacturing, Team leadership, Agricultural engineering, Fire department, Brick kiln, Chemical industry, Cooking vessel manufacturing/sales, Lathe factory, Medicine production, Tailoring, Mineral industry, Insurance, Rowdyism, Welding, Security, Artisan, Lab/Medical equipment production/sales, Commander, Archaeology, Excavation.
+Education: Mechanical techniques, Medicine, Agriculture, Politics.
+Indicating Areas: Mine, Hot regions, Tollgate, Fire-prone areas, Valley, Garbage dump, Butcher shop, Hospital, Operation theatre, Graveyard, Maternity centers, Kitchen, Forest, Roads.
+Body Parts: Male/Female private parts, Nail, Teeth, Forehead, Nostrils, Shoulders, Bone marrow, Motor nerves, Nose, Red blood cells, Heart, Eyebrows.
+Diseases: Smallpox/Chickenpox, Cuts, Boils/Tumors, Blisters, Burns, Blood cancer, Abrasions, Liver diseases, Dental diseases, Miscarriage, Septic, Tonsils, Diseases from widow-association (STDs), Pain/Swelling in joints, Scars, Pitta (Bile) diseases, Brain fever, Handicap.
+General Qualities: Valor, Bravery, Prowess, Victory, Accident, Greed, High lust, Behavioral flaws, War, Anger, Wisdom, Authority, Desire for freedom, Holding grudges, Pulsating energy, Boldness, Smartness, Enemy, Fear of fire, Debt, Revenge, Mental strength.
+(Instruction: Apply these qualities to the relative indicated by the planet in this sign. E.g., if Sun is in Aries, the father may have a scar on the eyebrow or back, or be in debt involving numbers 7 or 9).
+________________________________________
+Page 11-12: RISHABAM (TAURUS)
+Symbol: Bull. Degrees: 30 to 60 degrees. General: Second Rasi. Indicates Cash crop agriculture, Sales. Indicates Fame. Planets here indicate prosperous/famous qualities. Marriage within relatives. Indicates prosperity/fertility.
+Places: Taurus moves towards South or attracts from that direction. Banks, Markets, Investments, Loans, Places where cash crops are produced/sold. Fields, Farms, Marshy lands.
+•	In TN: Chennai, Thiruvallur, Kanchipuram, Chengalpattu, Villupuram North.
+•	In India: Uttarakhand, UP, Bihar borders.
+•	Generally indicates North-East or Northern border areas in any space.
+Items: Cars, Perfumes, Glass, Clothing/Ornaments, Luxury food, Furniture, Liquor, Aromatics, Money, Sweets, Costly food, Fruits, Flowers, Vehicles, Rexine, Mica, Spring crops.
+Professions: Singer, Actor, House sales, Wedding-related, Media, Makeup, Marketing, Painting, Selling expensive livestock, Cash crop trading, Banking, Luxury vehicle production/sales, Foreign jobs, Star Hotels/Lodges, Treasury, Decorative items sales, Glass factory, Beauty parlor, Gem merchant, Gold trade, Fruit trade, Finance/Interest, Poet, Government guest house, Palace work, Medicine sales, Opticals, Silk sales, TV, Dance, Advertising, PR, Musical instruments, Auditor, Laundry, Jobs employing women, Teaching foreign languages.
+Education: Economics, Commerce, Food/Catering, Hotel Management, Mathematics.
+Indicating Areas: Places where wealth is invested (Stock market symbol is Bull), Mines, Luxury houses, Clubs, Theaters, Gardens, Places where women gather, Showrooms, Stadiums, Auditoriums, Houses.
+Body Parts: Face, Facial organs, Eyes, Throat, Penis, Cheeks, Jaw, Senses, Uterus, Face, Ovum, Neck, Shoulders.
+Diseases: Pitta, Delirium (Sanni), Penile diseases, Pimples, Diabetes, STDs, Hormone deficiency, Excess salt, Skin diseases, Sperm deficiency, Strangury, Skin diseases from Anemia, Drug-related diseases.
+General Qualities: Love, Charm, Art, Acting, Glamour, Enjoyment, Sexuality, Desire for sensual pleasures, Marriage, Nicknames, Youth, Speech ability, Hard work, Ability to attract others.
+________________________________________
+Page 12-13: MITHUNAM (GEMINI)
+Symbol: Twins (A man with a weapon and a woman with a musical instrument). Symbolizes "Maithunam" (Union/Copulation). Degrees: 60 to 90 degrees. General: Third Rasi. Indicates learning ability to contact society. Music, Dance, Expressing grace.
+Items: Books, Telephone, Letter, Speaker, Paintings, Soft items, Creepers/Vines.
+Places: Moves towards West or attracts from there. Educational institutions, Registration offices, Places with land-related people, Gardens.
+•	In TN: Bay of Bengal coastal areas, Villupuram, Puducherry, Perambalur, Cuddalore, Ariyalur.
+•	In India: Jharkhand, West Bengal, Chhattisgarh.
+•	Generally indicates North-East (specifically East) border areas.
+Professions: Teacher, Book writer, Accountant, Registration dept, Orator, Postal dept, Retail, Math expertise, All trades, Law, Sculpture, Painter, Historian, Telecom, Embassy, News, Book shop, Stationery, Printing, Brokerage, Gambling, Media, IT, Camera, Grocery, Educational research, Modern technology.
+Education: Math, Computer, Engineering, Commerce, Education field.
+Indicating Areas: Grain warehouse, School, Library, Hidden areas, Study room, Reception, Park, Bazaar, Mandapam, Near sea, Flower garden.
+Body Parts: Neck/Throat and Shoulder area, Neural links to brain, Shoulders, Skin, Palm, Throat, Ear, Tongue, Nervous system, Lungs, Spinal cord, Senses, Nose, Hip/Waist.
+Diseases: Deafness, Stammering, Vision defects, Dumbness, Diseases from prostitution, Arthritis/Rheumatism, Nervous weakness, Brain disorders, Madness, Coma, Skin diseases, Scabies, Leucoderma.
+General Qualities: Arts, Communication, Love, Education, Writing, Expression, Speech, Listening skill, Knowledge by hearing, Smartness, Illicit relationships, Sharp intellect.
+________________________________________
+Page 14-15: KADAGAM (CANCER)
+Symbol: Crab. Degrees: 90 to 120 degrees. General: Fourth Rasi. Indicates the foundation/support of every moment in a native's life. Protection, Comfort, Rich thoughts, Continuation of maternal relations, Marriage within relatives. Also indicates fickleness and humiliation.
+Items: Boat, Liquids, Soft drinks, Clothes, Vehicle, Milk, Curd, Oil, Pearl, Conch, Watery vegetables, Perishable goods, Food, Salt, White items, Water pumps, Fast-growing plants, AC items.
+Places: Moves towards North or attracts from there. Fields, Gardens, Streams/Canals.
+•	In TN: Bay of Bengal coast, Thanjavur, Tiruvarur, Nagai, Pudukkottai.
+•	In India: Orissa, Telangana, NE Andhra, Yanam.
+•	Generally indicates East border areas.
+Professions: Public amenities, Arts, Astrology, Rice trade, Flower/Fruit trade, Poetry, Literature, Painting, Water-related, Fraud/Cheating, Import/Export, Foreign jobs, Agriculture, Sailor, Nurse, Medicine, Transport, Vehicle repair, AC repair/laundry, Arts education, Orator, Construction, Shifting politician, Cattle rearing, Fish farming, Scripture expert, Acting, Music, Railway, Airport, Tourism, Service orgs.
+Education: Nursing, Arts, Literature, Food science, Agriculture, Marine engineering, Hotel management.
+Indicating Areas: Water bodies, River, Pond, Bathroom, Field, House, Temple, Feast, Dining table, Liquor shop, Sea, Salt pan.
+Body Parts: Chest area, Left eye (Male), Right eye (Female), Glands, Eyebrows, Female Breasts, Kidneys, Senses, Stomach, Blood vessels, Uterus, Brain links.
+Diseases: Cold, Urine infection, Sudden infections, Diarrhea, Vomiting, Phlegm, Mental illness, Indigestion, Menstrual disorders, BP, Appendix, Brain cancer, Esophagus issues, Humidity skin issues, Water-borne diseases, Hydrocele, Anemia, Kidney stones, Insomnia diseases, Cyst.
+General Qualities: Beauty, Travel, Change of place, Art, Imagination, Fickleness, Changing mind, Whiteness, Stubbornness, Happiness, Love, Kindness, Sleep, Instability, Bad name, Tolerance, Cunningness.
+________________________________________
+Page 15-16: SIMHAM (LEO)
+Symbol: Lion. Degrees: 120 to 150 degrees. General: Fifth Rasi. High, pleasant, authoritative status. Leadership, Production place. Marriage within relatives. Paternal relations. Structure that others cannot easily enter.
+Items: Ruby, Valuables, Chief's chair, Shining items, Bulb, Glass, Costly metals, Ancestral property.
+Places: Moves towards East or attracts from there. Hills, Places of Elders/Police.
+•	In TN: Pudukkottai, Sivagangai, Ramanathapuram.
+•	In India: Telangana, Andhra, Puducherry, North TN.
+•	Generally South-East (specifically East) borders.
+Professions: Politics, Govt job, Father's profession, Assisting son, Experience-based job, Administration, Police, Gold trade, Military, Surgery, Gem trade, Detective, Judge, Leader, Social worker, Minister, Doctor, Dignitary, Govt Officer, High post, Research, Govt-aided industries, Neuro-surgery, Orator, Spinning, Chemical.
+Education: Politics, HR, Admin Management, Medicine, Social science, Economics.
+Indicating Areas: Charity org, Stage, Office, Palace, Cave, High places, Admin office, Capital city.
+Body Parts: Upper Stomach/Back surroundings, Right eye (Male), Left eye (Female), Pancreas, Teeth/Bones, Sperm production, Head, Erect hairs.
+Diseases: Bile duct defects, Sperm count issues, Hard parts breaking, Fever, Migraine, STDs, Jaundice, Auto-immune diseases, Heat diseases, Arthritis.
+General Qualities: Supervision, Admin skill, Courage, Fearlessness, Confidence, Respect, Perseverance, Fame, Authority, Leadership, Dignity, Commanding, Influence.
+________________________________________
+Page 16-18: KANNI (VIRGO)
+Symbol: Twin girls (or a girl in a boat with paddy and lamp). Degrees: 150 to 180 degrees. General: Sixth Rasi. Shows trouble caused by native's dry stubbornness. Getting what one wants from society via argument or tricks. Commercial leadership. Land disputes. Love. Maternal attachments.
+Items: Books, Phone, Letter, Speaker, Paintings, Soft items, Creepers.
+Places: Moves towards South or attracts from there. Widows, Virgins, Entertainment places, Watery towns.
+•	In TN: Kanyakumari, Thoothukudi, Nagercoil, Tirunelveli.
+•	In India: Kerala, TN, Lakshadweep.
+•	Generally South-East (specifically South) borders.
+Professions: Document work, Offices, News, Teacher, Writer, Accountant, Registration, Orator, Post, Retail, Math, Law, Sculpture, Artist, Historian, Telecom, Embassy, Broker, Stationery, Printing, Gambling, Media, IT, Camera, Grocery, Educational Research, Modern Tech.
+Education: Math, Education, Computer, Engineering, Electronics, Commerce, Law.
+Indicating Areas: Granary, School, Library, Hidden area, Study room, Reception, Park, Bazaar, Hall, Bedroom, Near sea, Relaxing garden, Women's hostel, Gambling clubs, Discussion spots, Dance stages, Panchayat halls, Courts.
+Body Parts: Lower Abdomen/Lower Back, Brain links, Shoulder, Skin, Palm, Throat, Ear, Tongue, Nerves, Lungs, Spinal cord, Senses, Nose, Hip.
+Diseases: Dumbness, Deafness, Stammering, Vision loss, STD, Arthritis, Nervous weakness, Brain disorder, Madness, Coma, Skin diseases, Scabies, Leucoderma.
+General Qualities: Arts, Contact, Love, Education, Writing, Expression, Speech, Listening, Questioning wisdom, Smartness, Illicit contact, Sharpness.
+________________________________________
+Page 18-19: THULAM (LIBRA)
+Symbol: Weighing Scale (Balance). Degrees: 180 to 210 degrees. General: Seventh Rasi. Social contacts, Business, Exchange, Suitable relationships, Sharing oneself, Luxury, Marketing, Advertising, Spreading fame, Marriage within relatives, Preaching one's principles.
+Items: Car, Perfume, Glass, Clothes/Ornaments, Luxury food, Furniture, Liquor, Aromatics, Money, Sweets, Costly food, Fruits, Flowers, Vehicle, Rexine, Mica.
+Places: Moves towards West or attracts from there. Business/Political places, River banks, Pond banks.
+•	In TN: Indian Ocean areas, Kerala border, Tirunelveli, Tenkasi, Virudhunagar.
+•	In India: Kerala, Karnataka, Andhra West.
+•	Generally South borders.
+Professions: Singer, Actor, House sales, Wedding, Media, Makeup, Marketing, Painting, Livestock sales, Cash crops, Bank, Luxury vehicle, Foreign job, Star hotel, Treasury, Decor, Glass, Beauty parlor, Scent, Gem, Gold, Fruit, Interest/Finance, Poet, Guest house, Palace, Medicine, Opticals, Silk, TV, Dance, Ads, PR, Prostitute, Music instruments, Vehicle, Innovation, Auditor, Laundry, Women-labor jobs, Language teaching, Spring crop agriculture.
+Education: Foreign literature, Media, Makeup art, Commerce, Mineralogy.
+Indicating Areas: Luxury house, Club, Theater, Garden, Women's gathering, Showroom, Stadium, Auditorium, House, Market, Port.
+Body Parts: Hip and surroundings, Eyes, Throat, Penis, Cheeks, Jaw, Senses, Uterus, Face, Ovum, Neck, Shoulders.
+Diseases: Pitta, Sanni, Penile diseases, Pimples, Diabetes, STDs, Hormone defect, Excess salt, Skin disease, Sperm defect, Strangury, Anemia skin issues, Drug issues.
+General Qualities: Love, Charm, Art, Acting, Glamour, Enjoyment, Sexuality, Sensual desire, Marriage, Nickname, Youth, Eloquence.
+________________________________________
+Page 19-21: VIRUCHIGAM (SCORPIO)
+Symbol: Scorpion. Degrees: 210 to 240 degrees. General: Eighth Rasi. Health, Smooth relation with partners, Surgery, Wilderness work, Solitude, Sudden events, Secrets known only to self, Marriage within relatives, Riotous marriage, Protecting wealth.
+Items: Stove, Electrical tools, Sharp items, Thorns, Weapons, Stones.
+Places: Moves towards North or attracts from there. Animals, Medical, Police, Machine places, Wells, Ditches, Ponds.
+•	In TN: Kerala border, Theni, Periyakulam, Dindigul, Cumbum, Kumily.
+•	In India: Maharashtra, Gujarat, MP West.
+•	Generally South-West borders.
+Professions: Medicine, Barber, Engineering, Mechanic, Vehicle, Police, Theft, Fighting, Henchmen, Sports, Martial arts, Cooking, Restaurant, Mining, Weapon making, Armed forces, Military, Dictatorship, Electrical, Sculpture, Real Estate, Construction materials, Hard labor, Revolutionary, Magic, War equipment, Terrorism, Pottery, Sorcery, Steel, Machines, Team lead, Agri-engineering, Fire dept, Brick kiln, Chemical, Vessels, Lathe, Medicine production, Tailoring, Minerals, Insurance, Rowdy, Welding, Security, Artisan, Lab, Medical equipment, Commander, Archaeology, Excavation.
+Education: Medicine, Chemicals, Sociology, Mechanical, Management, Agriculture.
+Indicating Areas: Fire area, Valley, Dump, Mine, Butcher shop, Hospital, OT, Graveyard, Maternity, Kitchen, Electricals, Forest, Battlefield, Road, Area of poisonous creatures, Furnace.
+Body Parts: Private parts (Hidden areas), Nail, Teeth, Forehead, Nostrils, Shoulders, Marrow, Motor nerves, Nose, RBC, Heart, Eyebrow, Pox.
+Diseases: Cuts, Tumors, Boils, Burns, Carbuncle, Hernia, Blood cancer, Surgery, Abrasions, Liver disease, Dental, Miscarriage, Septic, Tonsils, STD, Joint pain/swelling, Scars, Pitta, Brain fever, Handicap.
+General Qualities: Valor, Bravery, Prowess, Victory, Accident, Greed, Lust, Behavioral flaw, War, Anger, Wisdom, Smartness, Authority, Freedom, Grudge, Pulsating, Boldness, Enemy, Fire fear, Debt, Revenge, Mental strength.
+________________________________________
+Page 21-22: DHANUSU (SAGITTARIUS)
+Symbol: Centaur with Bow. Degrees: 240 to 270 degrees. General: Ninth Rasi. Charity, Cunning mind, Counseling ability, Dignity, Honor, Establishing oneself as a mastermind.
+Items: Gold, Pen, High-value uniforms, Treasury lockers, Officer's desk.
+Places: Moves towards East or attracts from there. VIPs, Auspicious people, Gardens.
+•	In TN: Kerala border, Coimbatore, Tiruppur, Erode.
+•	In India: Rajasthan, Gujarat, MP West.
+•	Generally West borders.
+Professions: Teacher, Finance, Gold, Wisdom seeker, Honorary posts, High post, Pilgrimage, Priesthood, Public works, Devotion path, Advisory, Service org, Judiciary, Spiritual, Trustee, HRCE, Leader, Higher Education, Defense, Holy service.
+Education: HR, Economics, Vedas, Math, Psychology.
+Indicating Areas: Courts, Temples, Royal halls, Colleges, Service orgs, Sabhas, Panchayat, Puja room.
+Body Parts: Thigh to Knee, Brain, Stomach, Muscles, Liver, Fat, Foot, Nose, Digestive organs.
+Diseases: Brain diseases, Itching, Indigestion, Intestine issues, Cramps, Stomach pain, Gas, Swelling, Respiratory, Liver swelling, Jaundice.
+General Qualities: Honor, Sweetness, Welfare, Influence, High status, Wealth, Fame, Tricks, Memory, Skills, Genius, Advice.
+________________________________________
+Page 22-23: MAKARAM (CAPRICORN)
+Symbol: Crocodile / Goat-Fish. Degrees: 270 to 300 degrees. General: Tenth Rasi. Wealth earning, Livelihood ways, Social harmony, Labor, Results of action, Travel across seas for wealth, Slavery/Service.
+Items: Hair, Wool, Smooth items, Earth chemicals, Oils, Charcoal, Stone, Mud.
+Places: Moves towards South or attracts from there. Friends, Traffic, Popular places, Moat, River.
+•	In TN: Karnataka border, Erode, Ooty, Dharmapuri, Krishnagiri, Salem.
+•	In India: Rajasthan, Haryana, Punjab, Delhi.
+•	Generally North-West (specifically North) borders.
+Professions: Coolie, Menial job, Conspiracy, Stone/Mud trade, Theft, Oil/Grease, Iron, Tea shop, Hotel, Cleaning, Black grain trade, Mining, Minerals, Jailer, Scrap, Slavery, Cattle, Hair trade, Wool, Carpentry, Slave driving, Waste, Barber, Leather, Real estate, Gambling, Long-term projects, Foreign jobs.
+Education: Chemicals, Foreign education, Agriculture, Mining, Chemistry.
+Indicating Areas: Court, Graveyard, Gallows, Warehouse, Well.
+Body Parts: Knee surroundings, Knee, Bone, Ankle, Thigh, Jaw, Ear, Motor nerves.
+Diseases: Handicap, Delusion, Pitta, TB, Leprosy, Emaciation, Whooping cough, Barrenness, Limb deformity, Leg/Joint pain, Premature graying, Varicose veins, Corns, Gas, Tooth decay, Indigestion, Gangrene, Ear pus, Hair disease, Paralysis, Drug addiction, Stress.
+General Qualities: Laziness, Panic, Hesitation, Sorrow, Doubt, Dullness, Fear of failure, Delay, Miserliness, Punishment, Imprisonment, Low-class association, Stubbornness, Frustration.
+________________________________________
+Page 23-24: KUMBAM (AQUARIUS)
+Symbol: Dark man with Empty Pot. Degrees: 300 to 330 degrees. General: Eleventh Rasi. Hidden Rasi. Result of action, Benefits of labor, Profit, Searching, Finding, Testing. Holds secrets inside.
+Items: Hair, Wool, Smooth items, Earth chemicals, Oil, Charcoal, Stone, Mud, Treasure, Hidden things, Research tools.
+Places: Moves towards West or attracts from there. Labs, Rooms, Search spots.
+•	In TN: Karnataka border, Salem, Namakkal, Karur, Trichy, Tiruppur West.
+•	In India: Delhi, Rajasthan East, UP West, MP North.
+•	Generally North borders.
+Professions: Investigation, Research, Coolie, Menial, Conspiracy, Stone/Mud, Theft, Oil/Grease, Iron, Tea shop, Hotel, Cleaning, Black grain, Mining, Minerals, Jailer, Scrap, Slavery, Cattle, Hair, Wool, Carpentry, Slave driving, Waste, Barber, Leather, Real estate, Gambling, Long-term projects, Foreign jobs.
+Education: Research, Psychology, Law, Philosophy, Traditional medicine.
+Indicating Areas: Court, Graveyard, Gallows, Warehouse, Well.
+Body Parts: Ankle surroundings, Knee, Bone, Thigh, Jaw, Ear, Motor nerves.
+Diseases: Handicap, Delusion, Pitta, TB, Leprosy, Emaciation, Whooping cough, Barrenness, Limb deformity, Leg/Joint pain, Premature graying, Varicose veins, Corns, Gas, Tooth decay, Indigestion, Gangrene, Ear pus, Hair disease, Paralysis, Drug addiction, Stress.
+General Qualities: Laziness, Panic, Hesitation, Sorrow, Doubt, Dullness, Fear of failure, Delay, Miserliness, Punishment, Imprisonment, Low-class association, Stubbornness, Frustration.
+________________________________________
+Page 25-26: MEENAM (PISCES)
+Symbol: Twin Fishes (Tail in mouth). Degrees: 330 to 360 degrees. General: Twelfth Rasi. Conclusion of every act, Result. What remains at the end. Indicates the total score of a man's life.
+Items: Gold, Pen, High-value uniforms, Treasury lockers, Officer's desk.
+Places: Moves towards North or attracts from there. Sea, Gold making/trading, Springs, Waterfalls.
+•	In TN: Central TN, Dindigul, Madurai, Sivagangai.
+•	In India: MP, Chhattisgarh, Maharashtra, Telangana North.
+•	Generally Central areas.
+Professions: Gold trade, Teacher, Finance, Wisdom seeker, Honorary post, High post, Pilgrimage, Priesthood, Public works, Devotion, Advice, Service org, Judiciary, Spiritual, Trustee, HRCE, Leader, Higher Ed, Defense Minister, Holy service.
+Education: Economics, Finance Management, HR, Commerce.
+Indicating Areas: "Treasury of the Zodiac". Money circulation areas, Courts, Temples, Royal courts, Panchayat, Colleges, Service orgs, Puja room.
+Body Parts: Toes, Feet, Brain, Stomach, Muscles, Liver, Fat, Thigh, Nose, Digestive organs.
+Diseases: Brain disease, Itching, Indigestion, Intestine, Cramp, Stomach pain, Gas, Swelling, Respiratory, Liver swelling, Jaundice.
+General Qualities: Honor, Sweetness, Welfare, Influence, High status, Wealth, Fame, Tricks, Memory, Skills, Genius, Preaching.
+Here is the comprehensive translation of the content from the file Chapter 2.pdf. The pages in the PDF were not in sequential order, so I have reorganized them into logical sections: Fundamental Rules, Planetary Significations (Karakas), Planets in Signs, and Planetary Conjunctions.
+________________________________________
+SECTION 1: FUNDAMENTAL RULES & METHODOLOGY
+Degrees and Orbs (Printed Page 153)
+•	The Rule of Orb: In our method, "conjunction" traditionally meant planets in the 1st, 5th, 7th, or 9th houses. However, for greater accuracy, we must consider the Degrees.
+•	Influence Range: A planet dominates 15 degrees in front and 15 degrees behind its position.
+•	Example: If a planet is at 22 degrees in Aries:
+o	Backward limit: $22 - 15 = 7$ (Starts at Aries 7°).
+o	Forward limit: $22 + 15 = 37$. Since Aries is only 30°, it extends 7° into Taurus.
+o	Result: The planet influences from Aries 7° to Taurus 7°.
+•	Trinal Connection: You must apply the same degree logic to the 5th, 7th, and 9th houses.
+o	5th House connection: Leo 7° to Virgo 7°.
+o	7th House connection: Libra 7° to Scorpio 7°.
+•	Movement Direction: Once experienced, calculate 18 degrees in the direction the planet is moving (front) and 12 degrees behind it.
+•	Note: Do not worry about Friend/Enemy, Exalted/Debilitated, Combustion, or Planetary War. These concepts are for determining strength in other systems. Here, we focus on the Nature/Quality of the planet.
+Adhikara Graham (Authority Planet) (Printed Page 161-164)
+This is a unique concept in Rajanadi. The "Authority Planet" decides the major events in a native's life.
+•	How to Find the Authority Planet:
+1.	A Planet in Retrograde (Vakram).
+2.	A Planet in Exchange (Parivartana).
+3.	A Planet at the Edge of a Rasi (First or last 2 degrees).
+4.	Planets conjoined with the above.
+5.	Planets in Own House or Exalted/Debilitated positions.
+6.	Planets in the 1st, 5th, or 9th from Rahu/Ketu.
+•	Effect: The Authority Planet dictates the native's identity. If Sun is the Authority Planet, the father will be a dominant figure, or the native will work in a government/authority role. Even if the father is absent, the "Sun" quality (authority/ego) will define the native's life struggles and successes.
+Name Nadi (Using Names) (Printed Page 165-170)
+•	You can predict a person's chart using their Name.
+•	Example: Name "Lakshmi" = Venus (Sukra).
+o	Read the results for Venus.
+o	Her profession, family trade, and health will match Venus significations.
+•	Example: Name "Muthurathinam".
+o	Muthu (Pearl) = Moon. Rathinam (Gem) = Venus.
+o	This indicates a Moon + Venus combination. Prediction: "Someone in the family is a Teacher or in the cloth trade."
+•	Verification: If a client asks "When will I get a job?", and their Authority Planet is Sun, ask: "Did you have a toothache recently?" (Sun = Teeth). If yes, the planetary energy is active, and the event will happen soon.
+________________________________________
+SECTION 2: PLANETARY SIGNIFICATIONS (KARAKAS)
+The text provides extensive lists of items, places, and traits for each planet.
+SUN (Surya) (Printed Pg 113-116)
+•	Themes: Father, Son, Authority, Government, Creating, Governance.
+•	Places: Capital city, Palace, Fortress, High altitudes, Govt offices, Forests.
+•	Items: Ruby, Mirror, Copper, Wheat, Pepper, Chariot.
+•	Professions: Politician, Govt Official, Doctor (Surgeon), Gold Merchant, Magistrate, Leader.
+•	Diseases: Headache, Fever, Bile issues, Eye defects (Right eye for men), Heart issues, Dental problems.
+•	Nature: Valor, Anger, Dignity, Administrative skill.
+MOON (Chandra) (Printed Pg 117-120, 251-254)
+•	Themes: Mother, Mind, House, Water, Travel, Changes, Blame/Scandal.
+•	Places: Water bodies, Bathrooms, Dining halls, Wells, Canals, Tourist spots.
+•	Items: Milk, Curd, Rice, Salt, White clothes, Pearls, Liquids, Pump sets.
+•	Professions: Agriculture, Dairy, Sailor, Nurse, Cook, Broker, Art/Cinema, Travel agent.
+•	Diseases: Cold, Phlegm, Mental worry, Water-borne diseases, Menstrual issues, Kidney stones.
+•	Nature: Fickle mind, soft nature, love for travel, imagination.
+MARS (Sevvai) (Printed Pg 121-124, 255-258)
+•	Themes: Brother, Husband (for females), Land, Debt, Enemy, Surgery, Power.
+•	Places: Kitchen, Battlefield, Operation theatre, Slaughterhouse, Brick Kiln, Rocky land.
+•	Items: Knife, Weapons, Machines, Needles, Red Coral, Copper, Thorns.
+•	Professions: Police, Military, Engineer, Butcher, Surgeon, Barber, Metal worker, Real Estate.
+•	Diseases: Cuts, Wounds, Burns, BP, Accidents, Piles, Bone marrow issues.
+•	Nature: Anger, Haste, Ego, Bravery, Rough speech.
+MERCURY (Budha) (Printed Pg 125-126, 261-266)
+•	Themes: Education, Maternal Uncle, Younger Sister, Lover, Mathematics, Documents.
+•	Places: School, Library, Park, Registration office, Vishnu temple.
+•	Items: Books, Green gram, Emerald, Pen, Communications devices.
+•	Professions: Teacher, Astrologer, Accountant, Writer, Postman, Broker, Ambassador.
+•	Diseases: Skin disease, Nerve weakness, Dumbness, Deafness, Neck pain.
+•	Nature: Intelligence, Humor, Diplomacy, Dual nature.
+JUPITER (Guru) (Printed Pg 131-132, 271-275)
+•	Themes: The Self (Jiva), Children, Guru, Gold, Fat, Law, Wisdom.
+•	Places: Temple, Treasury, Court, Banks, Colleges.
+•	Items: Gold, Yellow Sapphire, Chana (Chickpeas), Sweets, Holy books.
+•	Professions: Judge, Priest, Banker, Professor, Manager, Trustee.
+•	Diseases: Diabetes, Obesity, Jaundice, Liver issues.
+•	Nature: Respect, calmness, greed for fame, advice-giving.
+VENUS (Sukra) (Printed Pg 127-130, 267-270)
+•	Themes: Wife, Money, Luxury, Semen, Art, Pleasure.
+•	Places: Bedroom, Cinema theatre, Garden, Hotel, Brothel, Silk shop.
+•	Items: Diamond, Silver, Scent, Silk, Fancy items, Vehicles (Car).
+•	Professions: Actor, Singer, Dancer, Finance, Gem merchant, Vehicle dealer.
+•	Diseases: Sexual diseases, Diabetes, Eye trouble, Uterus issues.
+•	Nature: Lust, artistic taste, desire for luxury.
+SATURN (Sani) (Printed Pg 133-136, 275-282)
+•	Themes: Profession (Karma), Older Brother, Servants, Dirt, Delay, Laziness.
+•	Places: Garbage dump, Remote places, Dining hall (mess), Dark rooms.
+•	Items: Iron, Oil, Blue Sapphire, Sesame, Black gram, Old things.
+•	Professions: Laborer, Sweeper, Ironmonger, Oil merchant, Hard labor.
+•	Diseases: Gastric trouble, Paralysis, Arthritis, Leg pain, Chronic diseases.
+•	Nature: Laziness, lying, secrecy, slow action.
+RAHU (Printed Pg 137-138, 283-286)
+•	Themes: Paternal Grandfather, Foreign, Poison, illusion, Big/Huge things.
+•	Places: Main entrance, dilapidated walls, snake pit, foreign lands.
+•	Items: Electronics, Plastics, Gomed (Hessonite), Urad dal.
+•	Professions: Smuggling, Driver, Foreign trade, Chemical/Poison work.
+•	Diseases: Gas trouble, Cancer, Skin disease, Breathing issues (Wheezing).
+KETU (Printed Pg 139-142, 287-289)
+•	Themes: Maternal Grandfather, Moksha, Medicine, Law, Threads/Wires.
+•	Places: Narrow lanes, closed alleys, hospitals, jails, religious spots.
+•	Items: Cat's eye, Horse gram, Thread, Hair, Herbs.
+•	Professions: Lawyer, Doctor, Astrologer, Weaver, Monk/Sanyasi.
+•	Diseases: Wounds that don't heal, suicidal tendencies, insect bites.
+________________________________________
+SECTION 3: PLANETS IN SPECIFIC SIGNS
+Predictions for specific planets placed in specific zodiac signs.
+•	Sun in Gemini: Father is intelligent and business-minded. Son will be educated. Father/Son may work in accounts, comms, or teaching.
+•	Sun in Cancer: Father travels often. Father has a wavering mind or involves in changing professions.
+•	Sun in Leo: Father/Son are authoritative, interested in politics or government administration. Father faces health issues.
+•	Sun in Virgo: Father is diplomatic, good at business, speaks well. Agriculture or Teaching profession.
+•	Sun in Libra: Father/Son desires a luxury life and self-advertisement. May work in sales/marketing.
+•	Sun in Scorpio: Father/Son are hot-tempered, involved in disputes. Mining, Police, or Metal industries.
+•	Sun in Sagittarius: Father is dignified, traditional, and respected.
+•	Sun in Capricorn: Father lives away from birthplace. Works hard but may be lazy at times. Foreign connections.
+•	Sun in Aquarius: Father/Son are secretive. Research or investigative nature.
+•	Sun in Pisces: Father is stingy but lives a respectable life. Finance/Jewelry profession.
+•	Moon in Taurus: Native loves luxury. Mother is from a wealthy family. Native is imaginative.
+•	Moon in Gemini: Mother is intelligent and witty. Native is smart but fickle.
+•	Moon in Cancer: Mother is dominant. Native is emotional, moody, and attached to home.
+•	Moon in Leo: Mother is authoritative. Native aspires to be a leader.
+•	Moon in Virgo: Mother is clever. Native is logical but critical.
+•	Moon in Libra: Native likes decoration/fashion. Mother is affectionate.
+•	Moon in Scorpio: Mother is aggressive or sickly. Native has a confusing mind and respiratory issues.
+•	Moon in Sagittarius: Mother is dignified. Native is proud and helpful.
+•	Moon in Capricorn: Mother is strict/money-minded. Native works in foreign/distant lands.
+•	Moon in Aquarius: Mother is intuitive/secretive. Native is deep thinker/researcher.
+•	Moon in Pisces: Mother is pious. Native loves cleanliness and arts.
+•	(Similar detailed readings are provided for Mars, Mercury, Jupiter, Venus, and Saturn in various signs, linking the planet's relative (e.g., Mars=Brother) to the sign's quality).
+________________________________________
+SECTION 4: PLANETARY CONJUNCTIONS (COMBINATIONS)
+The results when two planets are connected (1, 5, 9, or same sign).
+Sun Combinations
+•	Sun + Moon: Delay in childbirth. Father travels. Father/Son has illicit relationships. Eye defects.
+•	Sun + Mars: Father is short-tempered. Brother is authoritative. Heat-related diseases. Police/Army profession.
+•	Sun + Mercury: Father is intelligent/business-minded. Land disputes. Skin diseases.
+•	Sun + Jupiter: Father is respectable/spiritual. Government favors. High status.
+•	Sun + Venus: Wife is authoritative. Father is wealthy. Eye/Kidney trouble.
+•	Sun + Saturn: Conflict between father and son. Father has a hard life. Bone/Joint pain. Government vs. Labor conflict.
+•	Sun + Rahu: Father affects grandfather's traits. Danger from poison/electricity. Skin/Gas trouble.
+•	Sun + Ketu: Separation from father. Legal issues. Spiritual father.
+Moon Combinations
+•	Moon + Mars: Mother is aggressive. Blood/Menstrual disorders. Brother lives far away.
+•	Moon + Mercury: Mother is witty/business-minded. Native has skin issues. Love affairs.
+•	Moon + Jupiter: Mother is pious. Native attains high status/fame. Good for house/property.
+•	Moon + Venus: Wealthy mother. Beautiful wife. Luxury vehicles. Water-borne diseases.
+•	Moon + Saturn: Mother is sickly or lazy. Delay in profession. Cold/Phlegm issues.
+•	Moon + Rahu: Mother's health affects. Fear/Phobias. Foreign travel.
+•	Moon + Ketu: Mother is spiritual/detached. Legal disputes. Suicidal thoughts.
+Mars Combinations
+•	Mars + Mercury: Engineer/Doctor. Land disputes. Brother is intelligent but cunning.
+•	Mars + Jupiter: Brother is respectable. High blood pressure. Leader in society.
+•	Mars + Venus: Wife is aggressive/dominant. Love marriage. Wealthy but disputed.
+•	Mars + Saturn: Brother works hard. Mechanical/Iron profession. Accidents/Fractures.
+•	Mars + Rahu: Brother is unconventional. Danger from accidents/poison.
+•	Mars + Ketu: Legal disputes. Brother is spiritual or separated. Suicidal tendency.
+Mercury Combinations
+•	Mercury + Jupiter: Learned person. Teacher/Advisor. Stomach/Liver issues.
+•	Mercury + Venus: Romantic nature. Wealthy. Good education (Arts/Commerce).
+•	Mercury + Saturn: Business man. Lying tendency. Nervous weakness.
+•	Mercury + Rahu: Cheating tendency. Foreign languages. Skin disease.
+•	Mercury + Ketu: Break in education. Legal knowledge. Astrology/Writing.
+Jupiter Combinations
+•	Jupiter + Venus: Wealthy. Wife is pious. Diabetes/Liver issues.
+•	Jupiter + Saturn: Dharmakarmadhipati Yoga (Dharma + Work). Respectable profession. Teacher/Judge.
+•	Jupiter + Rahu: Greedy. Breaking social norms. Ulcers/Gas trouble.
+•	Jupiter + Ketu: Spiritual. Moksha. Sanyasi yoga.
+Venus Combinations
+•	Venus + Saturn: Wealthy. Earning through luxury goods/finance. Wife is working or brings money.
+•	Venus + Rahu: Inter-caste marriage or secret affairs. Wife has health issues.
+•	Venus + Ketu: Late marriage or detachment. Wife is spiritual.
+Saturn Combinations
+•	Saturn + Rahu: Slavery/Hard labor. Illegal earnings. Chronic diseases.
+•	Saturn + Ketu: Quits job often. Spiritual inclination in later life. Weaving/Wire profession.
+PDF Page 1 (Book Page 295)
+•	Effects of Planets (Continued)
+o	General Prediction: The native may face health issues, loss of investment, and debt. Treachery through friends is possible. Care is needed in business partnerships, though some friends can be trusted without investment.
+o	If the Native is Female: Obstacles in marriage or a complicated life with the husband. Late marriage can help escape these issues. The husband will be handsome.
+•	Jupiter (Guru): The native will have a charitable mind, many desires, and a wish for a wealthy life. They will provide economic advice to others and be calculating regarding money.
+•	Saturn (Sani): The native will make a living through expensive or beauty-related items. Interested in speculation and share market investments. They and their family will undertake financial tasks. Problems in life will coincide with events in the wife's family.
+•	Sun in Gemini (Mithunam):
+o	Education: Excellent.
+o	Family: The father speaks tactfully (presence of mind) and views everything with a business mindset.
+o	Profession: Father and son may work as teachers, in accounts, telecommunications, computers, or business.
+o	Romance: The son will fall in love.
+•	Moon (Chandra):
+o	Mother: Sharp-witted but may cause trouble by spreading secrets entrusted to her (gossip). Does not know how to keep secrets. However, maintains good relationships with everyone. Pleasant to talk to and skilled at explaining things tactfully.
+o	Native: Identified by witty speech. Interested in learning everything they see. Romantic thoughts. Good fortune regarding houses and vehicles comes easily.
+•	Mercury (Budha):
+o	Maternal Uncle: Very intelligent and skilled in commerce.
+o	Native: Worries regarding sister and daughter. Obstacles in love and education will appear and then resolve.
+o	Family: Daughter and sisters are sharp-witted and well-educated. The native will also have a desire to learn something constantly.
+________________________________________
+PDF Page 2 (Book Page 153)
+•	Rule 21: Degrees and Orbs
+o	Previously, we considered "conjunction" as planets simply being in the 1st, 5th, 7th, or 9th houses. To improve accuracy, we must look at Degrees.
+o	Rule: A planet dominates 15 degrees in front and 15 degrees behind its position.
+o	Example: If a planet is at 22 degrees in Aries:
+	Backward limit: $22 - 15 = 7$ (Starts at Aries 7°).
+	Forward limit: $22 + 15 = 37$. Since Aries has only 30 degrees, it extends 7 degrees into Taurus.
+	Result: The planet connects with any planet situated between Aries 7° and Taurus 7°.
+o	Trinal Connection: You must apply the same degree logic to the 5th, 7th, and 9th houses.
+	If the planet is at Aries 22°, check Leo (5th house) from 7° to Virgo 7°, etc.
+•	Advanced Movement Rule: Once experienced, calculate 18 degrees in the direction of movement (front) and 12 degrees behind.
+o	Example: Saturn at 4° Aries. Front limit: $4+18 = 22$ (Aries 22°). Back limit: 12 degrees back (Pisces 22°). Saturn influences from Pisces 22° to Aries 22°.
+•	Important Note: In this method, do not use traditional concepts like Friend/Enemy, Malefic/Benefic, Planetary War, Combustion, Yogi/Avayogi, or Maraka/Badhaka. These are for determining "strength" in other systems. Here, we focus on the Nature/Quality of the planet.
+________________________________________
+PDF Page 3 (Book Page 349)
+•	Mercury + Saturn:
+o	The native knows business nuances and acts patiently. Defect in communication senses. Help from friends of other religions.
+o	Not special in formal education but high "listening knowledge" (Kelvi Gnanam).
+o	Daughter: Lazy.
+o	Professions: Teacher, Writer, Accountant, Registration Dept, Speaker, Postal, Retail, Math expert, Law, Sculpture, Painter, Historian, Telecom, Broker, News, Bookstore, Printing, Gambling, Media, IT, Camera, Grocery, Educational research.
+o	Diseases (Daughter/Native): Piles, Bile issues, Emaciation, Whooping cough, Leg/Joint pain, Early grey hair, Varicose veins, Corns, Gas trouble, Tooth decay, Indigestion, Ear pus, Hair diseases, Paralysis, Mental stress. Native may face skin, intestinal, and excretory issues.
+•	Mercury + Rahu:
+o	Desire to do things on a grand scale. Desire to earn without working. Cheating/Gambling thoughts.
+o	Defects in speech/hearing. Break in education. Contacts with other religion friends. Failure in love. Lost opportunities due to inability to speak properly.
+o	Daughter: Always in trouble, causing grief to the native. Daughter faces Gas trouble, Bile, Leprosy/Skin issues, Insect bites, Intestinal rot, Food poisoning, Fits, Infectious diseases, Hair loss.
+o	General: Danger from water, cuts, accidents. Native faces skin diseases, mental stress, and ear/eye/mouth issues.
+•	Mercury + Ketu:
+o	Defect in speech/hearing. Obstacles in education. Love failure. Cunning thoughts but noble thinking.
+o	Lack of faith in God (unless cultivated for success). Legal issues. Tries new business techniques but faces failure. Difference of opinion with everyone.
+o	Daughter: Peaceful but searches for meaning in life. Faces hereditary diseases, mental illness, stress, nervous issues, dizziness, fainting, itching, stomach issues, insect bites, weakness, intestinal worms. Native faces nerve, skin, and mental issues.
+________________________________________
+PDF Page 4 (Book Page 303)
+•	(Context: Likely Gemini Results continued)
+o	Mercury: Sister is very responsible. Daughter manages family responsibilities at times. Native speaks authoritatively. Heat boils on skin. Confused/fearful decisions regarding marriage. Guided by maternal uncles but faces conflicts with them. Punctual. Breaks in education. Frequent pain/fracture in small bones (fingers). Studies HR, Medicine, Social Education, Economics.
+o	Venus: Native is focused on earning money/material. Believes wealth can attract anyone. Growth after marriage. Wife is authoritative, dominant, and strict; she runs the family. Family involved in Govt or Own Business. Wife comes from the East. Native is bound by the love of female friends but quarrels due to possessiveness.
+o	Mars: Native is brave. Husband is very authoritative. Earns through industry or authority. Brother is a famous/authoritative person. Native is patient in suffering but stubborn. Controlled by friends and argues that they are right.
+o	Jupiter: Creative. Desires to create and grow things. Earns through Govt/Authority. Interest in politics/social thought. Cares for family prestige. Gets a good Guru/Teacher. Advises others based on experience. Yearns for fame. Worries about children.
+o	Saturn: Unexplained confusion in family. Belief in Black Magic/Sorcery. Charitable. Speaks proudly but fears failure. Helpful to others. Leaves birthplace. Public thinking. Works in Govt or Father's profession. Desires self-employment.
+________________________________________
+PDF Page 5 (Book Page 165)
+•	Name Nadi (Using Names for Prediction):
+o	Learning planetary significations (Karakas) is crucial.
+o	Rule: Predict using the Authority Planet derived from the person's Name or Horoscope.
+o	Example: Name "Lakshmi" = Venus (Sukra).
+	Read results for Venus. Describe her character, profession, and family trade based on Venus.
+o	Example: Mother's name "Muthurathinam".
+	Muthu (Pearl) = Moon. Rathinam (Gem) = Venus.
+	Combination: Moon + Venus.
+	Prediction: "Mother has qualities/diseases of Moon & Venus." "Someone in the family is a Teacher (Moon+Venus = Arts/Cloth/Teaching)."
+o	Verification: Ask if relatives have names associated with that planet.
+	If Brother is "Ram" (Mercury), ask: "Is there an electrical shop, school, bank, or post office near your house?" (Mercury significations).
+	Ask: "Is there someone in Banking or Textiles?"
+o	This confirms the Authority Planet. Once confirmed, predict their character, profession, and issues using that planet's rules.
+________________________________________
+PDF Page 6 (Book Page 357)
+•	Jupiter + Moon:
+o	Native has cunning thoughts. Gets insulted or faces shame regarding travel or spirituality. Desires a high life. Undertakes journeys for profession or spirituality. Desires social status.
+o	Friendship with elders. Good name through Mother. Mother is charitable and spiritual. Native likes working in distant places.
+o	Diseases (Mother): Stomach, muscle, liver, fat, digestion issues, brain disease, itching, intestinal issues, cramps, gas, swelling, respiratory issues, jaundice.
+o	Diseases (Native): Liver issues, cold, vomiting, mental illness, indigestion, menstrual disorders, BP, insomnia, cysts, blood flow defects, mental disorders.
+•	Jupiter + Mars:
+o	Emotional, short-tempered, authoritative, arrogant. Brave.
+o	Health issues from childhood (cold, boils, fever). Frequent hospital visits.
+o	Faces court cases (helping others, surety, or family disputes). Likes to control others. Interested in disputes.
+o	Brother/Husband: Dignified, disciplined, respected. From a prestigious background. Holds public posts. Deep love with husband.
+o	Diseases (Husband/Brother): Itching, indigestion, intestinal, cramps, gas, swelling, respiratory, liver, jaundice.
+o	Diseases (Native): Pox, cuts, tumors, boils, burns, surgery, abrasions, liver/tooth disease, miscarriage, septic, tonsils, joint pain, scars, bile, brain fever.
+•	Jupiter + Mercury:
+o	High thinking, intelligent, attractive speech. Higher education. Romantic thoughts. Friendship with elders/older people.
+o	Daughter: Lives in a prestigious family.
+o	Education: Administration, Public work, Vedas, Religious texts. Knows business nuances. Views everything commercially.
+o	Diseases (Daughter): Indigestion, intestine, cramps, stomach pain, gas, swelling, respiratory, liver/jaundice.
+o	Diseases (Native): Speech defects, Vision defects, etc.
+________________________________________
+PDF Page 7 (Book Page 311)
+•	(Context: Scorpio/Viruchigam Results)
+•	Saturn:
+o	Native has business nuance. Earns through luxury items. Lives away from birthplace. Family scatters to different towns. Desires ancestral property. Public thinking. Charitable.
+o	Family: Leg problems. Young people die suddenly; old people live long. Feeling that someone has done "medicine/magic" on the family. Holds grudges against enemies but apologizes outwardly. One relative in Advertising/Marketing.
+•	Sun:
+o	Father & Son: Both are arrogant ("I am the best"). Interested in fights.
+o	Profession: Mining, Law, Security, Hard labor, Heat-related jobs.
+o	Son: Health issues in early life, then recovers.
+o	General: Father/Son face debts, cases, disappointments. Sharp speech that hurts others.
+•	Moon:
+o	Mixed relationship with Mother (fights + happiness). Native goes overseas or earns through foreign lands/Online business.
+o	Mother: Aggressive/Moody. Runs family with authority. Strict with kids.
+o	Native: Short-tempered. Faces insults. Interested in Arts/Languages. Health issues: Breathing, Cold, Eyes, Stomach, Uterus.
+o	Profession: IT, Medicine, Foreign.
+o	Mind: Confused. Desires House/Vehicle (income + trouble from it). Complains to others. Mother is selfish but capable.
+•	Mercury:
+o	Nerve and BP issues. Income through Electrical/Construction. Daughter and Sister face medical expenses and give trouble to native. Land cases. Mechanical/Medical field.
+________________________________________
+PDF Page 8 (Book Page 113)
+•	Predicting Events (Continued):
+o	Example: If Moon is the Authority Planet, look for Moon significations. Caste: Vellalar/Konar. House Direction: South. House Number: 21. Family Deity: 16km East.
+•	Sun (Surya) - Primary Significations:
+o	Represents: Personality, Creation skill, Self-employment, Father, Father-in-law, Children (Son).
+o	Places: Capital city, Woodworking places, Godown, Forest Dept, Charity Org, Stage, Palace, Cave, High places, Admin office.
+o	Objects: Valuable items, Chief's chair, Shining objects, Expensive metals, Glass, Bulb, Ancestral property.
+o	Professions: Politics, Govt job, Father's job, Assisting son, Experience-based job, Admin, Police, Gold, Army, Surgery, Gems, Detective, Judge, Leader, Social Worker, Minister, Doctor, High official, Research, Neuro-surgery, Speaker, Spinning, Chemical.
+o	Qualities: Supervision, Admin skill, Courage, Fearlessness, Confidence, Respect, Perseverance, Fame, Patience, Responsibility, Leadership, Dignity, Commanding, Influence.
+________________________________________
+PDF Page 9 (Book Page 365)
+•	Saturn + Mercury:
+o	(Repeated from Page 349 - see PDF Page 3 translation).
+o	Native knows business, patient, defects in communication. Help from other religions.
+o	Daughter: Lazy.
+o	Professions: Teaching, Writing, Accounts, Registration, Post, Retail, Math, Law, Sculpture, etc.
+o	Diseases: Daughter faces Piles, Bile, Emaciation, Cough, Leg pain, etc. Native faces Skin, Intestine, Nerve issues.
+•	Saturn + Venus:
+o	Native becomes wealthy. Enjoys desired life. Economy grows. Earns through business.
+o	Wife: Lazy. Likes luxury. Not very greedy but focused on money.
+o	Professions: Singer, Actor, House sales, Wedding, Media, Makeup, Marketing, Bank, Luxury Vehicle, Foreign job, Hotel, Treasury, Decor, Glass, Beauty Parlor, Scent, Gems, Gold, Fruit, Finance, Poet, Palace, Medicine, Optics, Silk, TV, Dance, Ads, Auditor, Laundry.
+o	Diseases (Wife): Diabetes, Genital diseases, Gland defects, Salt excess, Skin disease, Water blockage, Anemia skin issues.
+o	Diseases (Native): Eye, Leg, Genital defects. Lack of interest in marital life.
+•	Saturn + Jupiter:
+o	Talented. Can turn any situation to their advantage. Creates prestige in any job. Professional growth. Public service. Satisfied life.
+________________________________________
+PDF Page 10 (Book Page 319)
+•	(Context: Capricorn/Makaram Results)
+•	Mars:
+o	Female Native: Marriage life is deficient. Husband is handsome but life is not peaceful. Better if married after 27 or love marriage.
+o	General: Stress from debts, friends, partners. Health issues. Rift with brother but support in emergency. Water body near house. Betrayal in partnership.
+o	Profession: Medicine, Engineering, Machines, Cooking.
+•	Jupiter:
+o	Careful about identity. Issues in child birth/raising. Fear regarding son/daughter. Earns through Finance/Consulting.
+o	Health: Piles, Hernia in family.
+o	Nature: Inferiority complex but acts important. If insulted, holds a grudge and retaliates (tit-for-tat), which ruins their life. "I threw him out," "Everyone learned from me" - boasts like this. Helps others even when poor (begs to help others).
+•	Saturn:
+o	Leaves birthplace. Family scatters. Desires ancestral property. Public thinking. Charitable. Leg trouble in family.
+•	Aquarius (Kumbam) Results:
+o	Any planet in Aquarius indicates the native or family is involved in Quality Control, Testing, Detective, Finding, Research jobs.
+•	Sun:
+o	Father and Son have characters misunderstood by others. Good at keeping secrets.
+________________________________________
+PDF Page 11 (Book Page 263)
+•	Mercury (Budha) Significations:
+o	Places near Native: Living room, Children's room, Study room, School, Library, Park, Electric shop, Bank, Coop Bank, Rama Temple, Mall, Home Appliance store, Courier, Press, Astrologer office, Hidden place, Bazaar, Hall, Sea.
+o	House Direction: South.
+o	Caste/Clan: Ambalakarar, Chettiar, Naidu, Reddiar, Poosari (Priest), Sculptor, Komutti, Pillai, Melakkarar, Nattuvar, Othuvar, Vaisya, Artist, Poet.
+o	Metal: Brass.
+o	Color: Green.
+o	Cloth: Wet cloth.
+o	Fruit: Guava.
+o	Grain: Fenugreek, Green Gram.
+o	Flower: Venkanthal (Gloriosa superba).
+o	Tree: Creeper, Tulsi.
+o	Shape: Triangle.
+o	Distance: 120.
+o	Number: 9, 5.
+o	Mole/Scar: Below the arm, small bones area, fingers.
+o	Objects: Cement, Watch, Book, Phone, Coins, Bond, Letter, Speaker, Paintings, Soft items, Creepers, Granary, Pencil, Pen, Iron box, Electric items, Mat. (Events happen when these objects are involved).
+o	Professions: Education, Accounts, Commission, Postal, Textile, Construction, Home Appliances, Finance, Print, Sticker, News, Acting, Folding items, Art, Magic, Writer, Accountant, Registration, Telecom, Embassy, Cellphone, Electric, Graphics, Retail, Math, Law, Sculpture, Broker, News, Bookstore, Stationery, Gambling, Media, IT, Camera, Modern Tech.
+________________________________________
+PDF Page 12 (Book Page 117)
+•	Moon (Chandra) Significations:
+o	Represents: Mother, Mother-in-law, Mind, Other Woman, House, Vehicle, Foreign Travel.
+o	Places: Water body, River, Pond, Bathroom, Field, House, Temple, Public facility, Feast, Dining table, Liquor shop, Sea, Salt pan, Boat house.
+o	Objects: Liquids, Soft drinks, Clothes, Vehicle, Milk, Curd, Oil, Pearl, Conch, Watery vegetables, Perishable goods, Food, Salt, White items, Water pumps, Fast growing plants, AC items.
+o	Professions: Arts, Astrology, Rice, Flower/Fruit trade, Poetry, Essay, Literature, Painting, Water trade, Cheating, Export/Import, Foreign job, Agriculture, Sailor, Ship, Nurse, Medicine, Transport, Vehicle repair, AC repair/Laundry, Architecture, Shifting politician, Cattle, Fish, Scripture, Acting, Music, Writer, Railway, Airport, Tourism, Service, Garden.
+o	Qualities: Beauty, Travel, Transfer, Art, Imagination, Temptation, Fickle mind, White, Stubbornness, Happiness, Love, Kindness, Sleep, Instability, Bad name, Tolerance, Cunningness.
+o	Body Parts: Face, Left eye (Male), Right eye (Female), Glands, Eyebrows, Breasts, Kidneys, Senses, Stomach, Blood vessels, Uterus, Brain links.
+________________________________________
+PDF Page 13 (Book Page 327)
+•	(Context: Pisces/Meenam Results continued)
+o	(Saturn continued): Not skilled at monetizing imagination. Searches for money even if they say it's not important. Leg boils/Blood flow issues. One childless person in family.
+•	Planetary Conjunctions (General Rules):
+o	Conjunction is defined by planets sitting in the 1st, 5th, 7th, 9th, 3rd, and 11th houses from the primary planet.
+o	1, 5, 7, 9: 100% Conjunction.
+o	3, 11: 50% Conjunction.
+o	Note: For diseases/negatives, check degrees with Rahu/Ketu. Avoid scaring the client with disease predictions unless necessary; advise caution instead.
+•	Sun + Moon:
+o	Delay in childbirth. Native has admin skills. Desires leadership. Arrogant ("I am everything").
+________________________________________
+PDF Page 14 (Book Page 271)
+•	Jupiter (Guru) - Authority Planet:
+o	Diagram: Shows Jupiter in Gemini, Cancer, Virgo, Sagittarius, Capricorn, Pisces. If Jupiter is in these signs, it has "Authority".
+o	Note: Check if Retrograde (Vakram), Edge (Vilimbu), or Exchange (Parivartana).
+o	Effect of Retro/Edge/Exchange: Native's decisions about self are complicated. Karaka of planet joining Jupiter also becomes complicated. One person in family acts like a Sanyasi (Ascetic). Issues with childbirth (miscarriage). Family involved in Consulting, Pawn, Interest, Spiritual jobs.
+o	Good Results: Loves prestige. Interested in Gold. Protects wealth. Famous in their circle. Struggles to keep identity. Pious. Reaches high status. Intelligent.
+o	Bad Results: Gets tired of small insults. Spoils own name. Advice given to others doesn't help self. Unnecessary waste. Income from Interest/Chit funds but faces deception. Yearns for fame. Obstacles in saving money. Preaches but doesn't practice. Emotional crimes. Lack of faith in social rules.
+o	Primary Nature: Jupiter = Dignified person. Native thinks about this constantly.
+________________________________________
+PDF Page 15 (Book Page 126)
+•	Mercury (Budha) - Significations (Continued):
+o	Color: Bermuda Grass Green.
+o	Animals: Cat, Pigeon, Parrot, Small Eagle, Panda, Jallikattu Bull.
+o	Age: 20.
+o	Shape: Triangle.
+o	Distance: 120, 70 km.
+o	Taste: Salty (Uvarppu).
+o	Incense: Camphor.
+o	Metal: Brass.
+o	Flower: Venkanthal.
+o	Grain: Green Gram, Fenugreek.
+o	Cloth: Damp cloth at the edge.
+o	Fruit: Guava.
+o	Place: Study room, Reception.
+o	Tree: Guava.
+o	Number: 9, 5.
+o	Direction: South (Looking down).
+o	Plant: Tulsi, Creeper.
+o	Food: Greens (Keerai).
+•	(Duplicate list of professions from Page 263): News, Book, Stationery, Print, Broker, Gambling, Media, IT, Camera, Grocery, Research, Modern Tech.
+________________________________________
+PDF Page 16 (Book Page 335)
+•	Moon + Mars:
+o	Brother travels for business. Artistic. Native is clear, stubborn, and suspicious of everyone.
+o	Frequent separation from husband. Suspicion of husband's character. Worries about weight gain.
+o	Mother's Diseases: Cuts, tumors, boils, burns, hernia, surgery, abrasions, liver/tooth disease, septic, tonsils, joint pain, bile.
+o	Brother's Diseases: Cold, Urine infection, Infections, Diarrhea, Vomiting, Phlegm, Mental illness, Indigestion, BP, Appendix, Esophagus issues, Humidity skin issues, Water diseases, Hydrocele, Anemia, Kidney stone, Insomnia.
+o	Native's Diseases: Irregular periods, Heart issues, Water diseases, Mental confusion.
+•	Moon + Mercury:
+o	Mother: Smart, business talk, handles situations well. Knowledgeable, nuanced, gossips.
+o	Native: Studies Psychology, Food, Arts, Vehicle Design, Agriculture. Romantic, fickle mind. Insulted by women. Travels for education/training. Friendly but deceptive. Cheated in land deals.
+o	Mother's Diseases: Skin disease, Dumbness, Deafness, Stammering, Vision, Arthritis, Nerves, Brain, Coma, Scabies.
+o	Daughter/Uncle Diseases: Cold, Urine infection, Diarrhea, BP, Appendix, Skin, Anemia, Kidney stone, Cysts.
+o	Native's Diseases: Communication organ defects, Skin, Mouth, Stomach, Digestion.
+•	Moon + Venus:
+o	Beautiful wife and mother. Wife suspicious, likes travel, from far away.
+o	Mother: Sweet talker, wealthy.
+o	Native: Lustful. Desires luxury.
+o	Wife: Deceptive nature.
+o	Mother's Diseases: Bile, Sanni, Diabetes, Gland defects, Salt excess, Skin, Hydrocele, Anemia skin issues.
+o	Wife's Diseases: Cold, Urine infection, Diarrhea, BP, Anemia.
+________________________________________
+PDF Page 17 (Book Page 279)
+•	Saturn (Sani) - Significations:
+o	Places near Native: Store room, Dining place, Noisy machine, Medical ward, Muniswaran temple, Mud heap, Garbage dump, Old building, Tire shop, Court, Graveyard, Gallows, Warehouse, Well, Cleaning place, Mortuary, Butcher shop.
+o	House Direction: East.
+o	Caste/Clan: Nadar, Pallar, Parayar, Sakkiliyar, Ilai Vaniar, Moopar, Vanibar, Senaikudiyar, Kuluvar, Mixed caste.
+o	Metal: Iron.
+o	Color: Blue.
+o	Cloth: Torn cloth.
+o	Fruit: Grapes (Black).
+o	Grain: Mustard, Sesame.
+o	Flower: Karunkuvalai.
+o	Tree: Bamboo, Palm (Panai).
+o	Shape: Winnow (Sulagu).
+o	Distance: 300.
+o	Number: 4, 8.
+o	Mole/Scar: Leg, Thigh, Spinal cord, Hand bones.
+o	Objects: Walking stick, Dustbin, Broom, Balm, Hair, Wool, Smooth items, Earth chemicals, Oil, Charcoal, Stone, Mud.
+o	Professions: Iron, Insurance, AC, Judiciary, Jailer, Oil/Grease, Iron works, Cattle, Auto mobile, Tire, Wood work, Panchayat/Local politics, Cleaning, Noisy places, Coolie, Scrap, Menial jobs, Long-term jobs, Stone/Mud, Theft, Mining, Minerals, Slavery, Hair/Wool trade, Leather, Real Estate, Gambling, Foreign jobs.
+________________________________________
+PDF Page 18 (Book Page 133)
+•	(Context: Mercury? No, looks like Saturn Continuation)
+o	Plant: Lemon, Betel.
+o	Food: Natural sweets, Honey, Ghee items.
+o	Medicine: Fruit, Kadukkai, Honey, Ghee, Cumin.
+o	Caste: Jain, Brahmin, Saiva. (This section looks like it might be mixed or belong to Jupiter/Mercury? But heading below says Saturn).
+•	Saturn - Primary Nature:
+o	Indicates Profession, Heritage, Livelihood. Native thinks about this constantly.
+•	Saturn - Places: Court, Graveyard, Gallows, Warehouse, Well.
+•	Saturn - Objects: Hair, Wool, Smooth items, Earth chemicals, Oil, Charcoal, Stone, Mud.
+•	Saturn - Professions: Coolie, Menial, Conspiracy, Stone/Mud, Theft, Oil/Grease, Iron, Tea shop, Hotel, Cleaning, Black grains, Mining, Minerals, Jailer, Scrap, Slavery, Cattle, Hair, Wool, Wood, Slave driving, Waste, Barber, Leather, Real Estate, Gambling, Long-term, Foreign.
+•	Saturn - Qualities: Laziness, Panic, Hesitation, Sorrow, Doubt, Dullness, Fear of failure, Delay, Miserliness, Punishment, Imprisonment, Low-class association, Stubbornness, Frustration.
+•	Body Parts: Knee, Bone, Ankle, Thigh, Jaw, Ear, Motor nerves.
+•	Diseases: Handicap, Delusion, Bile, TB, Leprosy, Emaciation, Whooping cough, Barrenness, Limb deformity, Leg/Joint pain, Early grey hair, Varicose veins, Corns, Gas, Tooth decay, Indigestion.
+________________________________________
+PDF Page 19 (Book Page 343)
+•	(Context: Mars + Saturn continued)
+o	...Miscarriage, Septic, Tonsils, Joint pain, Bile, Brain fever, Scar.
+•	Mars + Saturn:
+o	Husband/Brother: Patient, focused on profession. Works hard for money.
+o	Native: Professional troubles/cases. Argues often. Professional diseases. Hates brother/husband occasionally.
+o	Professions: Medical, Barber, Engineering, Mechanic, Vehicle, Police, Theft, Fighting, Henchmen, Sports, Martial Arts, Cooking, Hotel, Mining, Weapons, Army, Dictatorship, Electrical, Sculpture, Real Estate, Construction materials, Coolie, Revolution, Magic, Steel, Machines, Team Lead, Agri-engg, Fire, Brick kiln, Chemical, Vessels, Lathe, Medicine prod, Tailor, Minerals, Insurance, Rowdy, Welding, Security, Lab, Commander, Archaeology.
+o	Diseases (Husband/Brother): Pox, Cuts, Tumors, Boils, Surgery, Abrasions, Dental, Septic, Tonsils, STD, Joint pain, Scars, Bile.
+o	Diseases (Native): Teeth, Leg bone joints wear and tear.
+•	Mars + Rahu:
+o	Difference of opinion with brother. Debt, Case, Accident, Chronic disease, Surgery. Separation from husband. Husband works abroad. Delay in marriage for females. Gets into unnecessary trouble. Cheated by partners.
+o	Husband/Brother: Irritating behavior. Jobs in big companies. Sudden income. Illegal income. Lottery/Race.
+o	Diseases (Husband/Brother): Gas, Handicap, Bile, Poison, Food poison, Fits, Infection, Hair loss, Hereditary, Cuts, Accident, Skin, Drug-resistant disease, Chronic, Kidney stones, Piles, Swelling. Fear of death.
+o	Diseases (Native): Tooth infection, Blood poisoning, Bone fracture, Menstrual, Uterus, Sperm defects.
+________________________________________
+PDF Page 20 (Book Page 255)
+•	Diseases (Continued): Humidity skin issues, Hydrocele, Insomnia, Desire-related diseases, Cysts. (Warning: Warn client to be careful).
+•	Death Cause: Vomiting, Diarrhea, Water danger.
+•	Mars (Sevvai) - Authority Planet:
+o	Diagram: Mars in Aries, Taurus, Cancer, Libra, Scorpio, Capricorn.
+o	Effect of Retro/Edge/Exchange: Brother and Husband's life is complicated. Native hurt mentally/physically by them. Fire/Electric accident in family. Family in Cooking, Medical, Electricity, Welding, Vehicle trades.
+o	Good Results: Brave, likes partnership. Giant/Strong body (or bony but strong). Likes gym/health. Expectations from husband. Husband is important. Native controls others, rough nature. Important person in village/family. Active energy. Likes snacks. Addicted to fame. Invests in shares.
+o	Bad Results: Trapped in debt. Health issues.
+o	Female Native: Obstacles/Delay in marriage. Trouble with husband. Fights in family. Unnecessary cases. Betrayal. Friendship cheating.
+________________________________________
+PDF Page 21 (Book Page 141)
+•	Ketu - General Qualities:
+o	Frustration, Wisdom, Clarity, Detachment, Foreign land, Research, Helping, Fearlessness, Acting without thinking of others, Murder/Suicide thought, Poverty.
+•	Body Parts: Legs, Ear, Hair, Nerve, Nail, Anus, Genital, Skin, Intestine.
+•	Diseases: Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Pus, Skin peeling, Itch, Stomach, Nail disease, Cancer, Pain, Blood disease, Burns, Insect bite, Low energy, Unknown disease, Worms, Weight loss.
+•	Ketu Significations:
+o	Color: Dark Red (Merun/Blackish Red).
+o	Animals: Mongoose, Rat, Squirrel (hole dwellers), Scorpion, Centipede, Wasp, Bee.
+o	Age: 10.
+o	Shape: Garland/String.
+o	Distance: 10km, Infinite.
+o	Taste: Bitter.
+o	Incense: Red Lead (Sindoor/Senthooram).
+o	Metal: Turukkal (Kakkapon), Mica.
+o	Flower: Red Lily, Aloe flower.
+o	Grain: Corn (Solam), Horse gram.
+o	Cloth: Twisted/Coiled cloth.
+o	Fruit: Wood apple (Vilampazham).
+o	Place: Rest room, Under tree, Under staircase.
+o	Tree: Banyan, Ashoka.
+o	Number: 4, 7.
+o	Direction: South, West (Looking sideways).
+o	Plant: Aloe.
+o	Food: Smelly medicinal food.
+o	Medicine: Creeper medicine.
+o	Caste: Christian, Barber, Irular, Fisherman, Buddhist, Hunter.
+o	Mole/Scar: On the leg.
+________________________________________
+PDF Page 22 (Book Page 351)
+•	Venus + Sun:
+o	Wife is authoritative and manages family. Frequent friction with wife. Father and Son are handsome and talk attractively. Interest in jewelry/wealth. Parents are close.
+o	Diseases (Wife): Heat issues, Menstrual/White discharge, Migraine (eye/allergy).
+o	Diseases (Father): Kidney, Eye.
+•	Venus + Moon:
+o	Beautiful wife and mother. Wife suspicious, likes travel, from far away. Mother talks sweetly, wealthy. Native lustful. Likes luxury.
+o	Wife: Deceptive.
+o	Mother's Diseases: Bile, Sanni, Diabetes, Gland defect, Salt, Skin, Hydrocele, Anemia skin.
+o	Wife's Diseases: Cold, Urine infection, Infection, Diarrhea, Vomiting, Phlegm, Mental, Indigestion, Menstrual, BP, Anemia.
+o	Native's Diseases: Kidney stone, Menstrual, Phlegm, Eye, Diabetes.
+•	Venus + Mars:
+o	Wife is arrogant, egoistic, angry. Fights often. Difference of opinion. Wife has constant health issues. Deep love between couple. Brother/Husband handsome and charming. Wealthy. Likes luxury.
+o	Wife's Diseases: Pox, Cuts, Tumors, Boils, Burns, Hernia, Surgery, Abrasions, Liver, Dental, Miscarriage, Septic, Tonsils, Joint pain, Scars.
+o	Brother's Diseases: Bile, Sanni, Penile, Pimples, Diabetes, Gland, Salt, Skin, Sperm defect, Hydrocele, Anemia skin.
+o	Native's Diseases: Gland, Menstrual, Boils, Frequent injury.
+•	Venus + Mercury:
+o	Falls in love. Love marriage. Unity with wife. Wife is intelligent, educated. Speaks beautifully. Native looks attractive. Wealth accumulation.
+o	Desires wealth. Arts/Eco/Ad education. Trapped by women. Daughter beautiful/wealthy.
+o	Wife's Diseases: Dumb, Deaf, Stammer, Vision, Vatha, Nerves, Brain, Skin, Scabies, Leucoderma.
+o	Daughter's Diseases: Bile, Sanni, Pimples, Diabetes, Gland, Salt, Skin, Hydrocele, Anemia skin.
+o	Native's Diseases: Gland, Eye, Mouth, Ear.
+________________________________________
+PDF Page 23 (Book Page 147)
+•	General Rules (Continued):
+o	Don't differentiate too much between Exalted and Debilitated. Both provide results (good and bad).
+o	Method:
+1.	Identify the Authority Planet to find the unique life path.
+2.	Check the Rasi of each planet.
+3.	Check connections (1, 5, 7, 9, 3, 11).
+o	Two Stages of Prediction:
+1.	Birth Chart: Overall life nature.
+2.	Transit (Gochar): When events happen.
+o	Rules for Authority Planet (Adhikara Graham):
+1.	Retrograde Planet.
+2.	Exchanged (Parivartana) Planet.
+3.	Planet at Rasi Edge (First/Last 2 degrees).
+4.	Planets conjoined with the above in the same sign.
+5.	Planets in 1, 5, 9 from Rahu/Ketu.
+6.	Planet in Own House.
+7.	Planet in 7th from Own House.
+8.	Exalted or Debilitated Planet.
+9.	Planets conjoined with Own/Exalted/Debilitated/7th from Own.
+10.	Planet that changed signs 1 day before/after birth.
+o	The Authority Planet gives all experiences (Good and Bad).
+________________________________________
+PDF Page 24 (Book Page 151)
+•	Rules (Continued):
+o	
+10.	If Rahu/Ketu is in the next sign to a planet, that planet's karaka faces trouble.
+o	
+11.	A planet takes the nature of the next planet (in any subsequent sign). If slow moving or Rahu/Ketu, effect is stronger.
+o	
+12.	Check if the conjoined planet is Retro/Exchange/Edge.
+o	
+13.	Exchange: Treat the planet as if it is in its Own House. In Transit, when it enters its own house, predict birth chart results.
+o	
+14.	Retrograde: Treat the planet as if it is in the previous sign. In Transit, when it is in 12th, 1st, or 2nd from its placement, use birth position.
+o	
+15.	Transit: Planets trigger birth planets in 1, 5, 7, 9 (100%) and 3, 11 (30%).
+o	
+16.	If a birth planet connected to Rahu/Ketu (1, 5, 9) is triggered by transit (1, 5, 7, 9), the native struggles to enjoy its benefits.
+o	
+17.	Even with Rahu/Ketu connection, transit triggers will give some result (with defect).
+o	
+18.	Transit triggering Rahu/Ketu connected planet spoils either the Relationship or the Feeling (pick one).
+o	
+19.	Sun, Moon, Mars, Mercury, Venus = Short term changes.
+o	
+20.	Saturn, Jupiter, Rahu, Ketu = Long term changes (Marriage, Job, House). Saturn is most important.
+________________________________________
+PDF Page 25 (Book Page 347)
+•	(Context: Mercury + Mars continued)
+o	...Appendix, Esophagus, Humidity skin, Water disease, Hydrocele, Anemia, Kidney stone, Cysts.
+o	Native: Communication organ disease, Skin, Mouth, Stomach, Digestion.
+•	Mercury + Mars:
+o	Native: Engineering, Medicine, Food, Math education.
+o	Brother/Husband: Sharp, gossip, business nuance, close, romantic. Dispute over immovable property. Native faces cases.
+o	Native: Impulsive, rough approach.
+o	Brother/Husband Diseases: Dumb, Deaf, Stammer, Vision, Vatha, Nerve, Mental, Skin, Scabies, Leucoderma.
+o	Native's Diseases: Blood, Nerve, Eye.
+•	Mercury + Venus:
+o	(Repeated from Page 351/348 - see PDF Page 22).
+o	Love marriage. Wife intelligent/educated/attractive. Wealth. Arts/Eco education. Trapped by women. Daughter beautiful/wealthy.
+o	Wife's Diseases: Dumb, Deaf, Stammer, Vision, Vatha, Nerve, Brain, Skin, Scabies, Leucoderma.
+o	Daughter's Diseases: Bile, Sanni, Pimples, Diabetes, Gland, Salt, Skin, Hydrocele, Anemia skin.
+o	Native: Gland, Eye, Mouth, Ear.
+•	Mercury + Jupiter:
+o	High thinking, intelligent, attractive speech. Higher education. Romantic. Friendship with elders.
+o	Daughter: Lives in prestige.
+o	Education: Admin, Public, Veda, Religion. Commercial view.
+o	Daughter's Diseases: Indigestion, Intestine, Cramp, Stomach, Gas, Swelling, Respiratory, Liver/Jaundice.
+o	Native: Vision, Speech, Vatha, Nerve, Skin, Scabies.
+________________________________________
+PDF Page 26 (Book Page 163)
+•	Authority Planet (Adhikara Graham) Philosophy:
+o	Example: Sun as Authority Planet.
+o	Father is in responsible post, Govt, or Ancestral trade. Good name in family/society.
+o	Native identifies self through Father. Father is high status.
+o	Twist: Native might separate from father at young age. The planet gives high benefits but prevents enjoyment, making it a lifelong "lack" or yearning.
+o	"Whether it's a wedding (groom) or funeral (corpse), I must be the center of attention." - This is how Authority Planets act.
+o	If Sun is Authority: Govt job possible, but constant friction with Govt. Relationship with Father is not smooth (scolded most by father), yet Father cares most. Even if Father dies, his aid remains (assets/job). Mother is similar.
+o	The Authority Planet decides everything (Good and Bad).
+o	It defines the native's identity. Relatives, friends, enemies, workplace will reflect that planet.
+o	Multiple Authority Planets can exist; check family commonalities.
+________________________________________
+PDF Page 27 (Book Page 355)
+•	Venus + Rahu:
+o	Delay in marriage or divorce/separation. Wife has chronic disease. Native separates from family for work. Wife causes trouble/cheats. Sudden income.
+o	Wife: Fear, Bad dreams, Black magic fear. Gas, Handicap, Bile, Poison, Intestine rot, Food poison, Fits, Infection, Hair loss, Hereditary, Water danger, Cuts, Accident, Skin, Drug-resistant disease, Chronic, Swelling.
+o	Native: Glands, Gas, Hyper-sexuality, Genital sores.
+•	Venus + Ketu:
+o	Late marriage or legal separation. Wife looks lost/deprived. Spiritual. Native hates women.
+o	Wife: Uterus issues, Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Nail, Cancer, Stomach pain, Blood, Burn, Poison, Low energy, Worms, Genital wound.
+o	Native: Eye, Anus, Erectile dysfunction.
+•	Jupiter (Guru) + Sun:
+o	Admin skill. Responsible. Friendship with big people.
+o	Father: Prestigious family, Spiritual, Thinker.
+o	Son: Improves family prestige. Charitable. Public posts.
+o	Govt offices near birth place.
+o	Diseases (Father/Son): Itching, Indigestion, Intestine, Cramp, Stomach, Gas, Swelling, Respiratory, Jaundice.
+o	Diseases (Native): Sperm defect, Hard parts breaking, Fever, Migraine, Jaundice, Auto-immune, Heat, Vatha.
+________________________________________
+PDF Page 28 (Book Page 293)
+•	(Context: Taurus/Rishabam Results)
+o	...Medical and Health advice given to others. Native fears failure. Charitable. Leaves birthplace. Public thinking.
+•	Sun:
+o	Father: Desires luxury.
+o	Son: Becomes wealthy.
+o	Both: Interest in Interest (finance), Gems, Scents, Funds, Shares. Father wants to be a hedonist (Sukavasi). Native dreams of ancestral property.
+•	Moon:
+o	Native desires luxury/wealth/greed. Fickle. Wants expensive things.
+o	Mother: From wealthy family. Raises kids without hardship. Boasts about family.
+o	Native: Imaginary fear, confused. Wants Foreign job. Inconsistent speech. Yearns for peace.
+•	Mercury:
+o	Daughter/Sisters: Like luxury. Commercial mind.
+o	Native: Constant search for economy/training.
+o	Maternal Uncle: Intelligent, Wealthy.
+o	Education: Economics, Commerce, Food, Math.
+•	Venus:
+o	Late/Confused marriage. Romantic. Wife Beautiful but expensive/authoritative.
+o	Native: Lustful. Family lives on Finance/Luxury. Disappointment in money lending. Lies for money. Civilized life. Wife from nearby/South.
+•	Mars:
+o	Brother: Luxury lover. Friction with native later.
+________________________________________
+PDF Page 29 (Book Page 171)
+•	Predicting with Karakas:
+o	The Authority Planet's Place, Metal, Fruit, Color, Shape, Scar, etc., will be present around the native.
+o	Chain of Events: When an event happens, the native will suddenly use the fruit/color of that planet.
+o	Example: Check the Authority Planet's color. The wife will wear that color when the native first meets her. Meeting place will match the planet's place.
+o	Remedies: Use the planet's items during stress/illness to gain mental strength.
+o	Prediction Technique:
+	Sun Authority: Waiting for job + Toothache (Sun) starts -> Job (Sun) is coming.
+	Moon Authority: Asking about foreign travel + Plumbing work (Moon) done at home? -> Travel is certain.
+o	Names: Planets were named based on their qualities. Understanding the names helps understand the Karakas.
+________________________________________
+PDF Page 30 (Book Page 367)
+•	Saturn + Jupiter:
+o	(Repeated from Page 365 - see PDF Page 9).
+o	Self-made, Honest in business. Earns easily after some struggle. Charitable.
+o	Professions: Teacher, Finance, Gold, Guru, Respectable job, Travel, Priest, Public work, Devotion, Advisor, Service, Judge, Trustee, Leader, Higher Ed, Defense, Temple.
+o	Diseases: Bile, TB, Emaciation, Cough, Barren, Leg pain, Early grey, Varicose, Corns, Gas, Tooth decay, Indigestion, Ear pus, Hair, Paralysis, Drug, Stress.
+•	Saturn + Rahu:
+o	Believes in luck. Does any work. Cunning. Sudden income. Desires grandeur.
+o	Professions: Illegal, Prostitution, Low-class, Jail, Magic, Black magic, Underground, Lonely job, Distant land, Poison, Lottery/Gambling, Shares, Broker, Big company, Spy, Heavy vehicle, Fireworks, Foreign, Detective, Medicine, Siddha, Astrology, Acupuncture, Electronics, Messenger, Photo/Video, Print, Acting, Inter-caste, Conversion, Foreign.
+o	Diseases: Excretory infection, Pain/Bleeding, Skin, Leg nerve damage, Pus in old surgery.
+•	Saturn + Ketu:
+o	Changes jobs often. Dissatisfied. Struggles to keep job due to helping others. Wants perfection but fails.
+o	Success: Public service, Govt high post, Charity. Great wealth through helping, but loses attachment. Bad thoughts lead to jail; Good thoughts lead to high status.
+________________________________________
+PDF Page 31 (Book Page 301)
+•	(Context: Leo/Simham Results)
+o	...Interest in houses. Income from Medical/Engineering.
+•	Jupiter:
+o	Native trusts/loves Mother. Inferiority complex. Confused/Fearful/Self-respecting. Insulted due to interference. Delay in child. Stomach/Gut/Gas issues. Fat. Loves travel. Advises others but ignored. Compassionate but acts strict.
+•	Saturn:
+o	Native/Family goes abroad/far away. Earns through Food. Inter-caste marriage. Leaves native place. Leg/Nerve treatment. Constant worker. Greed for sudden big growth/Treasure/Luck.
+o	Family: Fetus issue. Leg handicap/surgery for one person.
+•	Sun:
+o	Father: Authoritative, Political.
+o	Son: Admin skill, Respected posts.
+o	Both: Desire leadership. Father has health issues.
+o	Native: Govt/Own business. Teeth/Head/Jaw issues. Less benefit from father.
+•	Moon:
+o	Mother: Admin skill. Selfish.
+o	Native: Desires leadership/Politics. Show off.
+o	Both: Stubborn to finish what they start.
+________________________________________
+PDF Page 32 (Book Page 261)
+•	Mercury (Budha) - Authority Planet:
+o	Diagram: Mercury in Gemini, Virgo, Sagittarius, Pisces.
+o	Note: Check Retro/Edge/Exchange.
+o	Effect of Retro/Edge/Exchange: Sister or Daughter's life complicated. Obstacles in Love/Education (but educated). Planet joining Mercury also complicated. Unmarried person in family. Death by poison/drowning in lineage. Family in Ship, Water, Medicine, Bank, Electric. Sister died young or miscarriage.
+o	Good Results: Active. Educated. Learns constantly. Loves daughter. Presence of mind. Adaptable. Curly hair, youthful, attractive smile. Grateful. Green veins visible. Loves Dance/Music. Clear. Social. Intelligent. Punctual. Energetic. Smart. Girl child. Mediator. Childish.
+o	Bad Results: Friction in Daughter's family life. Land disputes. Ancestral property bitterness. Sudden conflict with daughter. Trouble with Sister. Property case. Misunderstood. Trapped in love. Gossiper. Preaches punctuality but doesn't practice.
+o	Primary Nature: Education, Love, Communication, Uncle, Daughter, Lover, Sister.
+________________________________________
+PDF Page 33 (Book Page 115)
+•	Sun Significations (Continued):
+o	Body Parts: Head, Right Eye (M), Left Eye (F), Pancreas, Teeth/Bones, Skull, Sperm prod, Erect hair.
+o	Diseases: Bile duct, Sperm defect, Hard parts breaking, Fever, Migraine, STD, Jaundice, Auto-immune, Heat, Vatha.
+o	Prediction Example: Sun = Headache/Tension. If Sun is important -> Native has tension. House near Govt office. Govt job/Own biz. Friction with Father. Scar/Boil on hip. Family names: Raja, Shankar, Ravi, Surya, Nathan, Bhaskar. Caste: Vanniyar, Vishwakarma, Maravar.
+o	Lists:
+	Color: Orange, Rose, Pink, Maroon.
+	Animal: Lion, Horse, Eagle, Wood beetles.
+	Age: 50.
+	Shape: Square.
+	Distance: 120, 50.
+	Taste: Spicy (Karam).
+	Incense: Sandal.
+	Metal: Copper.
+	Flower: Red Lotus, Sunflower.
+	Grain: Wheat, Coriander, Pepper.
+	Cloth: Rough cloth.
+	Fruit: Apple.
+	Place: Right side window.
+	Tree: Vilvam, Erukku.
+	Number: 5, 1.
+	Direction: West, Top side.
+________________________________________
+PDF Page 34 (Book Page 309)
+•	(Context: Libra/Thulam Results continued)
+o	...Desire for wealth. Shows off.
+o	Mother: Shows family as wealthy to society despite reality. Teacher/Thinker.
+o	Native: Earns through Construction. Lustful.
+•	Mercury:
+o	Romantic. Financial dispute with Sister.
+o	Daughter: Beautiful/Luxury.
+o	Native: Identified by Education. Gain through Commerce. Daughter wealthy. Studies Foreign Lit, Media, Makeup, Art, Commerce, Minerals. Land gain.
+•	Venus:
+o	Marriage: Search for family life. High lust. Trouble from wife. Breakups. Love/Relative marriage reduces trouble. Late marriage (29+) best.
+o	Female Native: Trouble from female friends. Husband older.
+o	Family: Income from Finance/Luxury. Loss in lending. Lies for money. Desire civilized life. Wife from nearby/South.
+•	Mars:
+o	Surrounded by friends. Trouble through friends. Loss in partnership/helping relatives. Lending/Borrowing issues. Brother troublesome but helps in crisis.
+o	Female Native: Late/Complicated marriage. No peace from husband. Health/Case/Betrayal issues.
+o	Family: Medical, Engg, Cooking.
+•	Jupiter:
+o	Charitable (Show off). Beautiful/Wealthy image. Talks attractively to opposite sex. Desires comfort. Break in education. Other interests. Expects income from something. Realizes faults.
+________________________________________
+PDF Page 35 (Book Page 269)
+•	Venus (Sukra) Significations:
+o	Flower: White Lotus.
+o	Tree: Mango, Tamarind, Gooseberry (Nelli).
+o	Distance: 240.
+o	Number: 16, 6.
+o	Mole/Scar: Face (Cheek).
+o	Shape: Octagon.
+o	Objects: Cosmetics, Clothes, Jewelry, House, Car, Scent, Glass, Luxury food, Furniture, Alcohol, Money, Sweets, Expensive food, Fruit, Flower, Rexine, Mica. (Events occur with these).
+o	Professions: Bank, Luxury car, Clothes, Jewelry, Chit fund, Women's group, Art, Flower, Paint, Sweet, Fancy, Gold, Fruit, Interest, Alcohol, Lodge, Sculpture, Auditor, Investment, House sales, Wedding, Media, Marketing, Foreign, Cattle, Cash crop, Hotel, Treasury, Decor, Glass, Beauty, Scent, Gem, Actor, Guest House, Medicine, Optics, Silk, TV, Dance, Ads, PR, Prostitute, Music, Vehicle, Modern/New biz, Laundry, Women labor, Foreign language, Spring crops.
+o	Body Parts: Genitals, Eye, Throat, Penis, Cheek, Jaw, Senses, Uterus, Face, Ovum, Neck, Shoulder.
+o	Diseases: Left nostril, STD, Gland, Vatha, Uterus, Face/Eye, Sperm defect, Diabetes, Genital infection, Ejaculation issues, Lust effects, Intercourse obstacles, Bile, Sanni, Pimples, Salt, Skin, Hydrocele, Anemia skin, Leprosy, Drug.
+o	Death: Infection, STD.
+________________________________________
+PDF Page 36 (Book Page 123)
+•	Mars (Sevvai) Significations (Continued):
+o	Animal: Dog, Horned/Toothed beasts, Mosquito, Ant, Rooster, Eagle.
+o	Caste: Chettiar, Gounder, Kammalar, Potter, Blacksmith, Vadugar, Merchant, Konganar.
+o	Age: 19.
+o	Shape: Hourglass (Damaru).
+o	Mole/Scar: Back, Forehead.
+o	Distance: 150, 19 km.
+o	Taste: Astringent (Tuvarppu).
+o	Incense: Kumkum.
+o	Metal: Copper.
+o	Flower: Shenbagam, Sampangi.
+o	Grain: Toor dal, Bitter gourd, Beetroot.
+o	Cloth: Burnt cloth.
+o	Fruit: Pomegranate.
+o	Place: Bedroom, Beam.
+o	Tree: Neem, Hedge.
+o	Number: 7, 9.
+o	Direction: South (Looking sideways).
+o	Plant: Hook-thorn, Pomegranate.
+o	Food: Hot items.
+•	Mercury (Budha):
+o	Primary Significations: Education, Love, Communication, Uncle, Daughter, Lover, Sister.
+o	Places: School, Library, Hidden place, Study room, Reception, Park, Bazaar, Hall, Near sea.
+o	Objects: Book, Phone, Letter, Speaker, Painting, Soft items, Creeper, Granary.
+________________________________________
+PDF Page 37 (Book Page 317)
+•	(Context: Capricorn/Makaram Results)
+o	Saturn (Continued): Hard worker. Stubborn about not begging. Sacrifices for self-respect.
+•	Sun:
+o	Father/Son: Move away from birth place. Lazy. Foreign contacts. Business mind (making enemies). Foreign jobs, Transport, Medicine, Chemical, Food.
+•	Moon:
+o	Mother: Money-minded. Strict/Rough speech. Irritating.
+o	Native: Likes foreign items. Imaginary fear/confusion. Foreign job. Inconsistent speech. Yearns for peace. Short tempered. Insulted.
+o	Family: Arts, Language.
+o	Health: Breathing, Cold, Eye, Stomach, Uterus.
+o	Profession: IT, Medicine, Foreign.
+o	Mind: Confused. House/Vehicle desire/trouble. Complains.
+•	Mercury:
+o	Leg nerve issues. Hereditary issues. Sudden family confusion (solves with time). Daughter wants luxury. Sister/Daughter suffer then recover.
+o	Education: Chemical, Foreign, Agri, Mineral, Chemistry, Psychology.
+•	Venus:
+o	Wife: From South. Stubborn but patient achiever.
+o	Native: Economic growth after marriage. Tries hard to earn. Sudden life changes.
+________________________________________
+PDF Page 38 (Book Page 277)
+•	Saturn (Sani) - Authority Planet:
+o	Good Results: Public service interest. Does others' work. Jack of all trades. Fearless. Focus on perfection. Proud of skills. Compromising. Neutral in panchayats. Ruthless but forgets old grudges. Leads even as a subordinate. Good at arguments. Hard hearted (helps in accidents without flinching). Long life in family (90+). Preserves old books/tools. Persevering. Charitable. Hard worker. Social thinker.
+o	Bad Results: Unnecessary cases. Unexpected loss. Delays. "Why me?" suffering. Hard work, low gain. Talent unrecognized. Used and forgotten. Hereditary disease/confusion. Confusing speech. Ancestral family separation. Cheating of sister in property. Family assets disintegrate. Short life for some. Cunning. Erratic sleep (early rise or sleeps till noon).
+o	Primary Nature: Profession, Heritage, Livelihood.
+o	General: Laziness, Panic, Sorrow, Doubt, Dull, Fear, Delay, Miser, Punishment, Jail, Low association, Stubborn, Frustrated.
+________________________________________
+PDF Page 39 (Book Page 131)
+•	Jupiter (Guru) Significations:
+o	Objects: Gold, Pen, Uniforms, Lockers, Office desk.
+o	Professions: Teacher, Finance, Gold, Guru, Honorary post, High post, Pilgrimage, Priest, Public work, Devotion, Advisor, Service, Judiciary, Spiritual, Trustee, HRCE, Leader, Higher Ed, Defense, Minister, Temple work.
+o	Qualities: Prestige, Sweetness, Welfare, Influence, High status, Wealth, Fame, Trick, Memory, Skill, Genius.
+o	Body Parts: Stomach, Brain, Muscle, Liver, Fat, Foot, Thigh, Nose, Digestion.
+o	Diseases: Brain, Itch, Indigestion, Intestine, Cramp, Stomach, Gas, Swelling, Respiratory, Liver/Jaundice.
+o	Color: Yellow.
+o	Animal: Elephant, Horse, Pigeon, Swan, Peacock, Kamadhenu.
+o	Age: 30.
+o	Shape: Oval.
+o	Distance: 135, 30 km.
+o	Taste: Sweet (Note: Text says "Kasappu" (Bitter) here? Usually Jupiter is Sweet. Let's stick to text: "Kasappu"). Correction: Standard texts say Sweet, this text says Bitter here, but page 273 says "Inippu" (Sweet). Page 131 says Kasappu. I will translate as per text on Page 131: Bitter.
+o	Incense: Amber, Javvadhu.
+o	Metal: Gold.
+o	Flower: Mullai, Malligai.
+o	Grain: Chana (Sundal), Honey, Cumin.
+o	Cloth: Worn once.
+o	Fruit: Orange, Jackfruit.
+o	Place: Puja room.
+o	Tree: Coconut, Peepal, Lemon.
+o	Number: 10, 3.
+o	Direction: North-East (Text says South, West, Looking Straight).
+________________________________________
+PDF Page 40 (Book Page 325)
+•	(Context: Pisces/Meenam Results)
+o	Mercury:
+	Graceful. Learns Music/Dance. Finger defect. Two names. Youthful/Active. Trouble from women. Love issues. Good education. Trouble for Daughter/Sister. Helpful. Childish/Prankster. Makes enemies by speech. Skin disease.
+	Family: Economics, Finance, HR, Commerce. Bank/Treasury jobs.
+o	Venus:
+	Marriage: Major issue. Delay or family-opposed marriage. Constant search for family life. High lust. Wife trouble. Love/Relative marriage or Late (29+) is good.
+	Female Native: Trouble from friends. Husband older.
+	Wife: From North.
+o	Mars:
+	Husband: Good character. Thinks deep. Intestinal issue. Finance family.
+	Native: Constant worry. Insult from brother. Land gain. Intestine/Piles/BP treatment. Stone issue.
+o	Jupiter:
+	Delay/Worry regarding child. Intestine treatment. High status but insults. Agency/Consulting/Interest/Pawn business in family. Spiritual but perverse thoughts. Stubborn for self-respect.
+o	Saturn:
+	Foreign travel/Finance/Precious metal income. Loves job but unrecognized. Defeated by unworthy people. Interest in Ads/Cinema. Imaginative but fails to monetize. Boasts money but searches for it. Leg boils/Blood issue. One childless person in family.
+________________________________________
+PDF Page 41 (Book Page 285)
+•	Rahu Significations (Continued):
+o	Professions: Share market, Finance, Net business, Fast food, Real estate, Petroleum, Scrap, Chemical, Alcohol, Stone/Mud supply, Illegal, Prostitution, Low class, Jail, Magic, Black magic, Underground, Lonely, Distant, Poison, Lottery, Casino, Broker, Big company, Spy, Heavy vehicle, Fireworks, Foreign language/land, Detective, Medicine, Siddha, Astrology, Acupuncture, Electronics, Messenger, Photo/Video, Print, Acting, Inter-caste, Conversion, Foreign.
+o	Body Parts: Mouth, Hand, Intestine, Lip, Ear, Rectum, Hair.
+o	Diseases: Mouth, Breath, Liver, Wart, Wheezing, Unknown disease, Ear, Head, Intestine, Blood/Acid block, Hydrocele, Mental instability, Ghost fear, STD, Homosexuality, Psoriasis, Amputation, Poison death, Gas, Handicap, Bile, Leprosy, Insect bite, Intestine rot, Food poison.
+________________________________________
+PDF Page 42 (Book Page 139)
+•	Ketu Significations:
+o	Tree: Karuvelam.
+o	Number: 4.
+o	Direction: North, East (Thieving look sideways).
+o	Plant: Tobacco.
+o	Food: Old food, Non-veg.
+o	Medicine: Creeper.
+o	Caste: Adi Dravida, Mudaliar, Pandaram, Hill tribe, Kallar, Pulayar, Snake charmer, Irular, Muslim.
+o	Mole/Scar: Leg.
+o	Primary Nature: Maternal Ancestors, Search, Transgression.
+o	Places: Temple, Ashram, Hospital, School, Narrow lane, Hole, Drainage pipe.
+o	Objects: Wire, Puja item, Antique, Thread.
+o	Professions: Sanyasi, Law, Electronics, Modern Tech, Rope, Basket/Mat weaving, Judge, Chemical, High post, NGO, Magic, Veda, Pottery, Mining, Cheating, Pipe, Philosophy, Old medicine, Tailor, Thread, Touch therapy, Varmam, Research, Astrology, Sinful job, Prostitution, Jail, Tourism, Foreign language, Ashram, End-jobs, Secret job, Travel medicine.
+________________________________________
+PDF Page 43 (Book Page 333)
+•	(Context: Sun Conjunctions continued)
+o	Sun + Saturn (Continued): Separation from Father/Son. Delay in child/marriage. False courage to do evil. Heat sores in mouth, Intestinal disease, Hair loss.
+o	Father/Son Diseases: Gas, Handicap, Bile, Poison, Food poison, Fits, Infection, Hair loss, Hereditary, Cuts, Skin.
+o	Native Diseases: Brain, Spinal cord, Eye.
+•	Sun + Ketu:
+o	Father generous and aware. Separation from Father/Son. Delay in child/marriage. Father/Son face cases. Involved in public work.
+o	Father/Son Diseases: Hair loss, Baldness, Nerve, Nail, Anus, Genital, Skin, Intestine heat, Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Pus, Skin peel, Itch, Nail, Cancer, Stomach pain, Blood, Burn, Poison, Weakness, Worms, Weight loss.
+o	Native Diseases: Brain, Spinal cord, Eye tumors.
+•	Moon + Sun:
+o	Admin skill. Desires leadership. Arrogant ("I am"). Reduced help from Father. Father moves for work. Unstable job. Father has affair. Water near Father's birth place. Son similar.
+o	Mother: Protects family. Authoritative.
+o	Mother's Diseases: Eye, Heat, Menstrual, Bone fracture.
+o	Father's Diseases: Phlegm, Blood block, Cold, Infection, Wet skin disease, Anemia, Hydrocele, BP.
+o	Father's Job: Transport, Cooking, Construction, Outdoor.
+o	Mother's Job: Assisting father, Govt, Admin, Politics.
+o	Native's Diseases: Eye defect, Watery eyes, Mental stress.
+•	Moon + Mars:
+o	Brother handsome. Mother angry/sickly. Brother suspicious/lustful.
+________________________________________
+PDF Page 44 (Book Page 287)
+•	Ketu (Continued):
+o	General Qualities: Frustration, Wisdom, Clarity, Detachment, Foreign, Research, Help, Murder/Suicide, Poverty.
+o	Places near Native: Hospital, Under tree/stair, Temple, Ashram, School, Lane, Hole, Drain, Ganesha temple, Tailor, Saloon, Jail, Church.
+o	House Direction: South, West.
+o	Caste: Barber, Christian, Hunter, Irular, Sikh, Fisherman, Buddhist.
+o	Metal: Mica.
+o	Cloth: Twisted cloth.
+o	Fruit: Wood apple.
+o	Grain: Horse gram, Corn.
+o	Flower: Red Lily.
+o	Tree: Banyan, Ashoka, Aloe.
+o	Shape: Garland.
+o	Distance: Unspecified.
+o	Number: 4, 7.
+o	Mole/Scar: Leg/Excretory area.
+o	Objects: Thread, Rope, Sewing machine, Wire, Puja item, Antique. (Events occur with these).
+o	Professions: Interest, Barber, Law, Tailor, Welding, Traditional Med, Healing, Roofing, Sanyasi, Electronics, Modern Tech, Rope, Basket, High post, NGO, Magic, Veda, Cheating, Pipe, Philosophy, Touch therapy, Varmam, Research, Astrology, Sinful, Prostitution, Jail, Tourism, Language, Ashram, End-jobs, Secret, Travel med.
+________________________________________
+PDF Page 45 (Book Page 145)
+•	Philosophy:
+o	Native judges life by average standards. When they don't get what others get, they call it Dosha/Curse.
+o	Man is born with nothing. Everything he gets is a gift. Planets indicate, they don't give.
+o	Planets give full results (Good & Bad). Reception depends on the chart (like a cellphone signal).
+o	Rules:
+	Rahu/Ketu Trines (1, 5, 9): Delay/Problem in receiving benefits of planets in these houses. Native remains eager.
+	Retro/Exchange/Edge: Changes, Confusion, Importance. Insult through conjoined planets.
+	Own/Exalted/Debilitated/7th Aspect: Identity. Both Good and Bad.
+	Edge Planets: Show secrets.
+	Planets in these states define the native's struggles, yearnings, and identity. Don't label as good/bad; high strength (Exalted) means high good AND high bad.
+________________________________________
+PDF Page 46 (Book Page 341)
+•	(Context: Mars Conjunctions continued)
+o	...Water disease, Hydrocele, Anemia, Kidney stone, Insomnia.
+o	Native: Irregular periods, Heart, Water disease, Mental confusion.
+•	Mars + Mercury:
+o	Native: Engineering, Medicine, Food, Math.
+o	Brother/Husband: Sharp, gossip, business, close, romantic. Land dispute. Case.
+o	Native: Impulsive, rough.
+o	Brother/Husband Diseases: Dumb, Deaf, Stammer, Vision, Vatha, Nerve, Mental, Skin, Scabies, Leucoderma.
+o	Native's Diseases: Blood, Nerve, Eye.
+•	Mars + Venus:
+o	Wife: Arrogant, Angry, Fights. Sickly. Deep love.
+o	Brother/Husband: Handsome/Charming. Wealthy. Luxury.
+o	Wife's Diseases: Pox, Cuts, Tumors, Boils, Hernia, Surgery, Abrasions, Liver, Dental, Miscarriage, Septic, Tonsils, Joint pain, Scars.
+o	Brother's Diseases: Bile, Sanni, Penile, Pimples, Diabetes, Gland, Salt, Skin, Sperm, Hydrocele, Anemia skin.
+o	Native's Diseases: Gland, Menstrual, Boils, Injury.
+•	Mars + Jupiter:
+o	Native: Emotional, Angry, Authoritative, Arrogant, Brave. Action-oriented. Controls others. Litigious. Sickly.
+o	Brother/Husband: Dignified, Disciplined, Respected, Prestigious, Well-off. Public work. Deep love/Unity.
+o	Husband/Brother Diseases: Itch, Indigestion, Intestine, Cramp, Stomach, Gas, Swelling, Respiratory, Liver, Jaundice.
+o	Native's Diseases: Pox, Cuts, Tumors, Boils, Burns, Surgery, Abrasions, Liver, Dental, Miscarriage.
+________________________________________
+PDF Page 47 (Book Page 169)
+•	Prediction with Objects (Continued):
+o	Question about House (Moon): "Did you fix a drainage pipe/buy a pot/water tank recently?" Or "Stomach/Chest pain?" If yes, change is coming.
+o	Authority Planet: Defines Good and Bad.
+o	Change: New person enters family, or change of town -> Life changes. Town name relates to Authority Planet.
+o	Example: Poornima (Moon+Sun) + Saravanan (Moon+Mars+Sun). Lived in Subramaniapuram (Saturn+Mars). Moved to Adyar (Moon). Saravanan's father had Grocery shop. They opened Grocery + Tea shop (Moon/Mars).
+o	Name Nadi: Predict street name, relatives' names using the planet.
+o	Marriage: Predict spouse's name and family.
+o	Unknown Names: Use the chart to find Authority Planet.
+o	Use Lists: Use the Metal, Color, Cloth, Fruit, Grain lists provided to identify the active planet.
+________________________________________
+PDF Page 48 (Book Page 345)
+•	Mars + Ketu:
+o	Native: Cases. Ignores health. Caught in cases. Difference with Brother/Husband. Frustration with them.
+o	Brother/Husband: Careless about life. Spiritual/Public work. Careless about home -> Fights.
+o	Native: Separation from husband. Late marriage. Sickly.
+o	Brother/Husband Diseases: Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Skin peel, Itch, Stomach, Nail, Cancer, Pain, Blood, Burn, Poison, Weakness, Unknown disease, Worms, Weight loss.
+o	Native's Diseases: Consumption excess, Poison, Intestine, Piles.
+•	Mercury + Sun:
+o	Father: Sharp, Attractive speech, Thinker, Presence of mind, Tactful.
+o	Daughter: Authoritative.
+o	Father: Near Edu inst. Has land. Business nuance. Writer. Romantic.
+o	Father's Diseases: Heart, Eye, Skin.
+o	Native: Studied near Govt Inst.
+o	Daughter/Sister: Born near Govt Hospital/Office.
+o	Native's Diseases: Skin.
+o	Father/Native: Stammering/Hearing defect.
+o	Daughter's Diseases: Vatha, Auto-immune, Migraine, Heat, Menstrual.
+•	Mercury + Moon:
+o	Mother: Smart, Business talk, Capable, Knowledgeable, Nuanced, Gossip.
+o	Native: Romantic, Fickle, Insulted by women. Psychology, Food, Art, Vehicle, Agri education. Travel for edu/job. Friendly. Cheating thought. Property cheating.
+o	Mother's Diseases: Skin, Dumb, Deaf, Stammer, Vision, Vatha, Nerve, Brain, Coma, Scabies.
+o	Daughter/Uncle Diseases: Cold, Urine infection, Infection, Diarrhea, Vomiting, Phlegm, Mental, Indigestion, Menstrual, BP.
+________________________________________
+PDF Page 49 (Book Page 259)
+•	Mars (Sevvai) Significations (Continued):
+o	Objects: Oven, Stove, Electric tool, Weapon, Stone, Sharp item, Thorn, Mixer, Grinder, Knife. (Events happen with these).
+o	Professions: Motor, Medical, Cooking tool, Engg, Mechanic, Lathe, Medicine prod, Welding, Lab, Medical equip, Sports, Brick kiln, Army, Gym, Heat, Electrical, Construction material, War equip, Pottery, Magic, Machine, Agri-engg, Fighting, Mining, Arms, Fire, Chemical, Vessel, Sculpture.
+o	Body Parts: Chest, Genitals, Nail, Tooth, Forehead, Nose, Eyebrow, Arm, Bone marrow, Motor nerve, RBC, Heart.
+o	Diseases: Urinary infection, Kidney stone, Blood, Tooth, Heart, Eyebrow scar, Pox, Flu, Heat, Cut, Joint pain, Appendix, Fight injury, Accident, Chest injury, Bone marrow, Electric shock, Dog bite, Surgery, Widow-sex disease, Bile, Brain fever, Blood cancer.
+o	Death: Accident, Weapon.
+•	Mercury (Budha) - Authority Planet:
+o	Diagram: Mercury in Gemini, Virgo, Sagittarius, Pisces.
+________________________________________
+PDF Page 50 (Book Page 353)
+•	(Context: Mercury + Venus continued)
+o	Wife's Diseases: Dumb, Deaf, Stammer, Vision, Vatha, Nerve, Brain, Skin, Scabies, Leucoderma.
+o	Daughter's Diseases: Bile, Sanni, Pimples, Diabetes, Gland, Salt, Skin, Hydrocele, Anemia skin.
+o	Native: Gland, Eye, Mouth, Ear.
+•	Venus + Jupiter:
+o	Attractive, Charming. Likes luxury. Enjoyment. Hedonist. Lustful. Desires specific partner. Scandal if not married to desired person. Covets others' property. Needs control.
+o	Wife: Good character, Prestigious family, Charitable. Respects native.
+o	Wife's Diseases: Brain, Indigestion, Intestine, Cramp, Stomach, Gas, Swelling, Respiratory, Liver, Jaundice.
+o	Native's Diseases: Bile, Penile, Pimples, Diabetes, Gland, Salt, Skin, Sperm, Hydrocele.
+•	Venus + Saturn:
+o	Wealthy. Desired life. Economic growth. Business income.
+o	Wife: Lazy, Likes luxury, Not greedy but money-focused.
+o	Professions: Singer, Actor, House, Wedding, Media, Marketing, Bank, Luxury car, Foreign, Hotel, Treasury, Decor, Glass, Beauty, Scent, Gem, Gold, Fruit, Agri, Interest, Poet, Finance, Palace, Med, Optics, Silk, TV, Dance, Ad, PR, Music, Vehicle, Modern, Auditor, Laundry, Women labor, Language, Spring crop.
+________________________________________
+PDF Page 51 (Book Page 291)
+•	(Context: Cancer/Kadagam Results continued)
+o	...Delay in child. Father's help reduces.
+•	Moon:
+o	Own House/Vehicle.
+o	Mother: Harsh speech, Irritable, Short tempered. Controls family strictly. Arrogant -> Problems.
+o	Native: Dominating thought. Fighter.
+•	Mercury:
+o	Sister/Daughter: Harsh.
+o	Uncle: Strong/Sturdy.
+o	Sister/Daughter: Debt or Health issues.
+o	Uncle: Chronic disease.
+o	Native: Sports interest. Mechanical/Medical/Agri/Political education.
+•	Venus:
+o	Wife: Good character (Angry but Good). Hard worker. Dominating. Relative or known person. From East.
+•	Mars:
+o	Female: Confusion in marriage or Late (27+).
+o	Brother: Health issue. Harsh speech. Angry.
+o	Native: Bone fracture, Tooth issue, Forehead injury. Cheated in money. Friction with husband.
+o	Family: Medical/Engg/Cooking.
+•	Jupiter:
+o	Stubborn, Short tempered. Hasty. Shows self-importance. Case trouble helping others. Gain from Land/Docs. Strict. Handles enemies with thought.
+•	Saturn:
+o	Hereditary mental/family issues. Leg problem. Engg/Machine/Police job. Family involves in constant activity.
+________________________________________
+PDF Page 52 (Book Page 267)
+•	Venus (Sukra) - Authority Planet:
+o	Good Results: Long life for Grandparents. Likes Milk rice. Known marriage. Grooming. Money flow. Liked by women. Improvement after marriage. Surplus income. Affair with relative. Luxury.
+o	Bad Results: Male: Late/Confused/Hasty marriage or Difficult life. Trouble/Loss in lending money. Lies about money. Disappointment. Show off. High lust. Nags partner for sex.
+o	Primary Nature: Wife, Female friends, Wealth. Native thinks about this constantly.
+o	General: Love, Charm, Art, Acting, Glamour, Joy, Sex, Lust, Nickname, Youth, Speech, Ad, Pomp.
+o	Places: Kitchen, Amman temple, Cinema, Beauty parlor, Showroom, Textile, Wedding hall, Luxury house, Garden, Women's place, Stadium, Club.
+o	Direction: North-West.
+o	Caste: Vellalar, Gounder, Yadav, Idaiyar, Vaisya, Vannar, Reddiar.
+o	Metal: Silver.
+o	Color: White.
+o	Cloth: Jeans (Thick).
+o	Fruit: Mango, Pineapple.
+o	Grain: Mochai (Field Bean), Tamarind.
+________________________________________
+PDF Page 53 (Book Page 361)
+•	(Context: Jupiter Conjunctions continued)
+o	...Suicidal thought. Bad event at birth. Lazy. Waits for luck. Expert cheater. Earns outside. Gambling/Share. Hypochondriac.
+o	Native's Diseases: Poison death, Gas, Handicap, Bile, Leprosy, Poison, Intestine rot, Infection, Hair loss, Hereditary, Water, Cuts, Accident, Skin, Drug-resistant, Chronic.
+•	Jupiter + Ketu:
+o	Search for meaning. Spiritual. Detached. Easy going. Ignores social norms (Sudden sanyasi, sudden marriage, illicit relation).
+o	Family: Two marriages or wrong relationship. Addiction. Cases. Focused on job. Cheats if decided. Selfish. Independent. Brave in crime. Disregard for law.
+o	Diseases: Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Skin peel, Itch, Stomach, Nail, Cancer, Stomach pain, Blood, Poison, Unknown, Worms.
+•	Saturn + Sun:
+o	Father: Patient.
+o	Native: Wants authority in job. Govt/Father's job. Political interest.
+o	Family: Head injury, Accident, Suicide. Desires to quit job. Son helps.
+o	Professions: Exp job, Admin, Police, Gold, Army, Surgery, Gem, Detective, Judge, Leader, Social work, Minister, Doctor, Official, High post, Research, Govt aid, Neuro-surgery, Speaker, Spinning, Chemical.
+o	Father/Son Diseases: Leg nerve, Bone, Handicap, Bile, Emaciation, Cough, Barren, Leg/Joint pain, Sores, Early grey, Varicose, Corns, Gas, Tooth decay, Indigestion, Organ rot, Ear pus, Hair, Drug, Stress.
+________________________________________
+PDF Page 54 (Book Page 299)
+•	(Context: Leo/Simham Results continued)
+o	...Speak according to place. Artistic. Fickle.
+o	Mother: Beautiful, Affectionate, Kind.
+o	Native: Insulted. Artistic. Linguistic. Health: Breath, Cold, Eye, Stomach, Uterus. IT/Med/Foreign. Confused. House/Vehicle desire/trouble. Complains. Blocked by others.
+•	Mercury:
+o	Sister: Kind but trouble with property.
+o	Native: Insult in Love. House doc trouble. Fear of bad name through Daughter.
+o	Education: Nursing, Art, Lit, Food, Agri, Hotel.
+o	Health: Kidney/Skin/Leg itch.
+o	Daughter/Sister: Lives far away.
+•	Venus:
+o	Family: Teacher/Tailor.
+o	Native: Lustful. Genital infection.
+o	Wife: From North. Beautiful. Stressed. Water disease. Insults native. Relative match. Trouble from female friends. Watery eyes. Nagging/Suspicious.
+o	Native: House/Vehicle income. Trouble from in-laws (but they help in sickness).
+•	Mars:
+o	Female: Late/Complicated marriage. Debt/Partner loss -> Stress. Health/Case/Betrayal.
+o	Brother: Friction but help.
+o	Husband: Relative (Mother side). Handsome. Unpeaceful life. Better if love/late (27+). Water near husband's house. Vehicle/House interest. Income.
+o	Family: Med/Engg.
+________________________________________
+PDF Page 55 (Book Page 275)
+•	Jupiter (Guru) Significations (Continued):
+o	Body Parts: Stomach, Brain, Muscle, Liver, Fat, Foot, Thigh, Nose, Digestion.
+o	Diseases: Nose, Hernia, Stomach, Fat, Jaundice, Internal organ, Liver, Boil, Ear pain, Ammonia defect/Anxiety, Palpitation, Foot, Corn, Muscle, Gas, Genital change, Sperm defect, Miscarriage, Brain, Itch, Indigestion, Intestine, Cramp, Swelling, Lower Abdomen, Pus, TB, Respiratory.
+o	Death: Phlegm, Intestine/Organ failure.
+•	Saturn (Sani) - Authority Planet:
+o	Diagram: Saturn in Aries, Cancer, Leo, Libra, Capricorn, Aquarius.
+o	Note: Check Retro/Edge/Exchange.
+o	Effect of Retro/Edge/Exchange: Income trouble. Planet joining Saturn complicated. Sanyasi in family. Struggle for income 27-35, then good. Family struggled at birth then grew. Family in Cooking, Medical, Vehicle.
+________________________________________
+PDF Page 56 (Book Page 190)
+•	Planet at Rasi Edge (Vilimbu):
+o	A planet at the beginning or end of a sign gives critical effects via its karaka.
+o	Measurement: 30 degrees per sign.
+o	Example: Saturn in Gemini at 18 degrees can be called Gemini 18 or Zodiac 78.
+o	Rasi Chakra: 360 degrees. Starts at Aries (0).
+o	Zones: 0-30 Aries, 30-60 Taurus, etc. 330-360 Pisces.
+o	Correct notation is from Aries 0, but for ease, we use 0-30 within each sign.
+________________________________________
+PDF Page 57 (Book Page 307)
+•	(Context: Libra/Thulam Results continued)
+o	Mars: ...Land case. Ancestral property trouble.
+o	Husband: Handsome, Looks young. Young character. Travels for business. Math/Broker/Teaching. Debts.
+•	Jupiter:
+o	Child birth issue. Inferiority complex. Worries about prestige. Known as Good/Self-respecting. Does emotional acts and regrets. Miscarriage (self and sibling).
+o	Family: Finance income.
+o	Native: Rebellious. Cunning. Romantic. Thinks young but acts dignified. Confused but experienced. Advisor later in life.
+•	Saturn:
+o	Trouble from sisters. Income from Edu/Bank/Home appliances. Leg nerve issue. Trouble for women in family. Family worships a female deity.
+•	Scorpio (Viruchigam) Results: (Note: Text says Libra results above, then starts Sun. Wait, heading says "Thulathil" (In Libra). Okay. Checking text for Scorpio header... No, heading is "Thulathil" (In Libra). The Sun section starts: "Child trouble...". This matches Libra context (Sun debilitated in Libra, 5th house Aquarius often gives child delay).
+o	Sun: Child trouble. Thinks about kids.
+o	Father/Son: Like luxury. Self-promotion. Wealthy. Attractive. Ad/Art/Sales. Father health issue. Govt/Own biz. Teeth/Head/Jaw issue. Less help from father. Own biz interest.
+o	Moon: Decor lover.
+o	Mother: Content. Kind. Native wants to be wealthy. Show off. Mother hides reality to show status. Teacher/Thinker. Native earns through Construction. Lustful.
+________________________________________
+PDF Page 58 (Book Page 283)
+•	Rahu (Continued):
+o	Qualities: Madness, Poverty, Disease, Fainting, Widow sex, Evil thought, Spoiling clan name, Sudden luck, Negligence, Theft, Bribe, Inter-caste, Harsh words.
+o	Places: Upstairs, Nagamma/Snake temple, Kali/Durga temple, Liquor shop, Ganja spot, Scrap shop, Fast food, Parotta shop, Graveyard, Mosque, Godown, Other religion temple, Shadowy place, Vast area.
+o	Direction: North, East.
+o	Caste: Adi Dravida, Mudaliar, Pandaram, Hill tribe, Kallar, Pulayar, Snake charmer, Muslim, Irular.
+o	Metal: Granite (Black stone).
+o	Color: Black.
+o	Cloth: Old cloth.
+o	Fruit: Banana.
+o	Grain: Mustard, Urad, Tobacco, Ragi.
+o	Flower: Mandarai.
+o	Tree: Karuvelam.
+o	Shape: Garland.
+o	Distance: Infinite.
+o	Number: 4.
+o	Mole/Scar: Leg.
+o	Objects: Radio, Electronics, Dry wood, Tanned skin, Chemical, Tar, Rubber, Plastic, Non-degradable, Wide-mouthed items.
+________________________________________
+PDF Page 59 (Book Page 121)
+•	Mars (Sevvai) Significations:
+o	Places: Fire place, Valley, Dump, Mine, Butcher, Hospital, OT, Graveyard, Maternity, Kitchen, Electric, Forest, Battlefield, Road, Poisonous area.
+o	Objects: Oven, Stove, Electric tool, Weapon, Stone, Sharp item, Thorn.
+o	Professions: Medical, Barber, Engg, Mechanic, Vehicle, Police, Theft, Fighting, Henchmen, Sports, Martial Art, Cooking, Hotel, Mine, Weapon, Army, Dictator, Electric, Sculpture, Real Estate, Construction mat, Coolie, Revolution, Magic, War equip, Terrorism, Pottery, Mantra, Steel, Machine, Team Lead, Agri-engg, Fire, Brick kiln, Chemical, Vessel, Lathe, Medicine prod, Tailor, Mineral, Insurance, Rowdy, Welding, Security, Artisan, Lab, Medical equip, Commander, Archaeology.
+o	Qualities: Valor, Victory, Accident, Greed, Lust, Bad behavior, War, Anger, Wisdom, Skill, Authority, Freedom, Grudge, Pulse, Bravery, Enemy, Fire, Debt, Revenge, Mental strength.
+o	Body Parts: Chest, Genitals, Nail, Tooth, Forehead, Nose, Arm, Marrow, Nerve, RBC, Heart, Eyebrow.
+o	Diseases: Pox, Cut, Tumor, Boil, Burn, Hernia, Blood cancer, Surgery, Abrasions, Liver, Dental, Miscarriage, Septic, Tonsils, STD, Joint pain, Scar, Bile, Brain fever, Handicap.
+o	Color: Light Red.
+________________________________________
+PDF Page 60 (Book Page 315)
+•	Sagittarius (Dhanusu) Results continued:
+o	...Move coins from behind. Important posts. Hereditary trust holders. Advice. Self-respect.
+•	Moon:
+o	Mother: Dignified. Prestigious family. Raises kids with honor. Admin skill. Confident.
+o	Native: High thoughts. Advisor. Helper.
+•	Mercury:
+o	Skin allergy. Delay in Edu/Love. Worry about daughter. Land gain + Case. Surety trouble. HR, Eco, Veda, Math, Psych education.
+•	Venus:
+o	Match from higher prestige family. From East.
+o	Wife: Smart, Cunning. Proves herself. Social conscious. Earns via Finance/Consulting.
+•	Mars:
+o	BP issue.
+o	Husband: Dignified. Sudden prestige issue.
+o	Native: Land gain. Help from friends. Surgery for boil/tumor.
+•	Jupiter:
+o	Child delay/worry. Intestine treatment. High status + Insults. Agency/Consulting/Interest/Pawn family. Spiritual + Perverse thoughts. Unspeakable habits/diseases. Gender confusion.
+•	Saturn:
+o	Advisor/Teacher. Famous in area.
+________________________________________
+PDF Page 61 (Book Page 251)
+•	Moon (Chandra) - Authority Planet:
+o	Good Results: Playful fights. Meets many people. Social. Open minded. Does things without caring for opinion but manages reputation. Advises on mind. Foodie. Friendly. Unrestricted taste. Loves travel.
+o	Bad Results: Emotional. Fearful. Worry about House construction/issues. Claims no peace. Imagines wrongs. Confused. Addicted to stimulation. Lies for convenience. Exaggerates. Praises then avoids. Interferes in others' lives and makes enemies. Suspicious. Sleep issues. Sudden thought change. Inattentive. Works for others then fights about it. Inconsistent speech. Blames others. Complains.
+o	Mother: Important but friction. Quarrel with spouse. Blames spouse family. First child Male, then Female.
+o	Primary Nature: Mother, Mother-in-law, Mind, Other woman, House.
+o	General: Beauty, Travel, Transfer, Art, Imagination, Temptation, Fickle, Stubborn, Happiness, Love, Kindness, Sleep, Instability, Bad name, Tolerance, Cunning.
+o	Places: Ganesha/Shakti temple, River, Pond, Field, Grocery, Laundry, Left window, Dining table, Bathroom, Restaurant, Milk, Courier, Lodge, Hospital, Sea, Salt pan, Boat.
+o	Direction: South, East.
+________________________________________
+PDF Page 62 (Book Page 129)
+•	Venus (Sukra) Significations (Continued):
+o	Places: Kitchen.
+o	Tree: Mango, Tamarind, Gooseberry.
+o	Number: 6, 16.
+o	Direction: North, West (Looking down).
+o	Plant: Lemon, Puliyarai.
+o	Food: Sour items, Artificial sweets.
+o	Medicine: Unripe fruit (Kai).
+o	Caste: Gounder, Vellalar, Yadav, Idaiyar, Barber, Vannar, Reddi, Chetti.
+o	Mole/Scar: Face, Front teeth.
+o	Diseases: Bile, Sanni, Penile, Pimples, Diabetes, STD, Gland, Salt, Skin, Sperm, Hydrocele, Anemia skin, Drug.
+o	Color: White, Sky Blue.
+o	Animal: Cow, Horse, Fancy dog, Love birds, Parrots, Fish.
+o	Age: 7.
+o	Shape: Octagon.
+o	Distance: 240, 7km.
+o	Taste: Sour.
+o	Incense: Cardamom.
+o	Metal: Silver.
+o	Flower: White Lotus.
+o	Grain: Mochai, Tamarind.
+o	Cloth: Thick Jeans.
+o	Fruit: Mango, Pineapple.
+•	Jupiter (Guru) - Primary Nature:
+o	Self, Respected person, Self-Prestige.
+o	Places: Court, Temple, Palace, Panchayat, College, Service Org, Puja room.
+________________________________________
+PDF Page 63 (Book Page 323)
+•	(Context: Aquarius? No, context is Scorpio/Saturn/Jupiter - actually Page 324 says Pisces. This page seems to be Aquarius continued)
+o	Jupiter (Continued): ...reveal self. Patient and experienced. Struggles. Lazy but gets work done. Points out mistakes. Politics in spirituality. Tricky speech.
+•	Saturn:
+o	Family pride, Boasting. Talks about past insults. Suffers for fame/importance. Recovers. Digs deep into source. Family confusion unsolved. Distant job. Feeling of magic spell. Grudge but apologizes. Life criticized by family but feels accomplished.
+•	Pisces (Meenam) Results:
+o	Any planet in Pisces = Native/Family in Cloth, Jewelry, Media, Eco, Ad, Beauty.
+•	Sun:
+o	Father/Son: Thrifty. Dignified. Plan for future. Calculate gain in help. Finance, Accounts, Jewelry, Traditional art/ritual jobs.
+•	Moon:
+o	Mother: Thrifty. Saver. Keeps home/self new. Cares for kids. Pious. Likes jewelry.
+o	Native: Proud of family. Cleanliness. Cinema interest.
+•	Mercury:
+o	Graceful. Music/Dance. Finger defect.
+________________________________________
+PDF Page 64 (Book Page 137)
+•	(Context: Rahu Significations - Duplicate of Page 285)
+o	See translation for Page 41. (Professions, Qualities, Body Parts, Diseases).
+•	Rahu Significations:
+o	Color: Dark Black.
+o	Animal: Lizard, Crocodile, Monitor Lizard, Boar, Owl, Guinea fowl, Snake, Beetle.
+o	Age: 10.
+o	Shape: Garland.
+o	Distance: 10km.
+o	Taste: Bitter.
+o	Incense: Mustard.
+o	Metal: Granite.
+o	Flower: Mandarai.
+o	Grain: Urad, Ragi, Tobacco.
+o	Cloth: Worn out cloth.
+o	Fruit: Banana.
+o	Place: Staircase, Godown.
+________________________________________
+PDF Page 65 (Book Page 331)
+•	Sun + Venus:
+o	Wife: Authoritative, Manager. Frequent friction.
+o	Father/Son: Handsome, Attractive speech, Jewelry interest, Wealth thought. Parents united.
+o	Wife's Diseases: Heat, Menstrual/White discharge, Migraine (eye/allergy).
+o	Father's Diseases: Kidney, Eye.
+•	Sun + Jupiter:
+o	Admin skill. Responsible. Friendship with big people.
+o	Father: Prestigious family, Spiritual, Thinker.
+o	Son: Improves family prestige. Charitable. Public posts.
+o	Govt offices near birth place.
+o	Diseases (Father/Son): Itching, Indigestion, Intestine, Cramp, Stomach pain, Gas, Swelling, Respiratory, Jaundice.
+o	Native's Diseases: Sperm defect, Hard parts breaking, Fever, Migraine, Jaundice, Auto-immune, Heat, Vatha.
+•	Sun + Saturn:
+o	Quits job often.
+o	Father: Patient.
+o	Native: Wants authority in job. Govt/Father's job. Political interest.
+o	Family: Head injury, Accident, Suicide. Desires to quit job. Son helps.
+o	Professions: Exp job, Admin, Police, Gold, Army, Surgery, Gem, Detective, Judge, Leader, Social work, Minister, Doctor, Official, High post, Research, Govt aid, Neuro-surgery, Speaker, Spinning, Chemical.
+o	Father/Son Diseases: Leg nerve, Bone, Handicap, Bile, Emaciation, Cough, Barren, Leg/Joint pain, Sores, Early grey, Varicose, Corns, Gas, Tooth decay, Indigestion, Organ rot, Ear pus, Hair, Drug, Stress.
+•	Sun + Rahu:
+o	Learns from Father.
+o	Grandfather: Authoritative.
+o	Father: Cunning.
+________________________________________
+PDF Page 66 (Book Page 143)
+•	Rajanadi General Rules:
+o	Four Sections:
+1.	Key life info via specific planetary states.
+2.	General character/job/ups and downs via Conjunctions/Aspects.
+3.	Name Nadi (Names, Dress, etc.).
+4.	Timing events.
+o	Astrology is expertise in handling planets.
+o	Philosophy: Man judges life by average. Deviation is called Dosha. Planets indicate, don't give. Chart receives.
+o	Rules:
+	Rahu/Ketu Trines: Delay/Problem.
+	Retro/Exchange/Edge: Changes, Confusion, Importance. Insult through conjoined planets.
+	Own/Exalted/Debilitated/7th Aspect: Identity. Both Good and Bad.
+	Edge Planets: Show secrets.
+	Planets in these states define the native's struggles, yearnings, and identity. Don't label as good/bad.
+________________________________________
+PDF Page 67 (Book Page 339)
+•	(Context: Moon + Ketu continued)
+o	...Intestine rot, Food poison, Fits, Infection, Hair loss, Hereditary, Chronic, Swelling.
+o	Native: Intestine/Digestion defect. Eye defect. Skin. Poison.
+•	Moon + Ketu:
+o	Frustrated. Travel for search. Mother faces cases. Looks lost. Pious. Pilgrimage. Deceptive. Confused. Hates life. Unstable mind. Travel for cases.
+o	Mother: Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Skin peel, Itch, Stomach, Nail, Stomach pain, Blood, Burn, Poison.
+o	Native: Mental, Stomach, Eye.
+•	Mars + Sun:
+o	Father: Sickly. Aggressive.
+o	Brother: Authoritative. Father establishes authority. Brother supports native. Govt office near brother's birth place.
+o	Native: Migraine, Blood clots, Bone issue, Heat.
+o	Father: Heart block, BP.
+o	Brother/Husband: Bile, Sperm, Heat.
+o	Husband: Authoritative.
+o	Professions: Machine, Electric, Engg, Police, Med.
+o	Family: Admin, Father's job, Govt.
+•	Mars + Moon:
+o	Brother: Handsome.
+o	Mother: Angry, Sickly.
+o	Brother: Suspicious, Lustful. Travels. Artistic.
+o	Native: Clear, Stubborn, Suspicious. Separation from husband. Suspicion on husband. Weight gain worry.
+o	Mother: Cuts, Tumors, Boils, Burns, Hernia, Surgery, Abrasions, Liver, Dental, Septic, Tonsils, Joint pain, Bile.
+o	Brother: Cold, Urine, Infection, Diarrhea, Vomiting, Phlegm, Mental, Indigestion, BP, Appendix, Esophagus, Humidity skin.
+________________________________________
+PDF Page 68 (Book Page 359)
+•	(Context: Jupiter + Mercury continued)
+o	...Nerve, Vision, Speech, Vatha, Skin, Scabies.
+•	Jupiter + Venus:
+o	(Duplicate of Page 353 - see PDF Page 50).
+o	Charming. Luxury. Hedonist. Lust. Scandal. Covetous. Control needed.
+o	Wife: Good, Prestigious, Charitable. Respects native.
+o	Wife's Diseases: Brain, Indigestion, Intestine, Cramp, Stomach, Gas, Swelling, Respiratory, Liver, Jaundice.
+o	Native's Diseases: Bile, Penile, Pimples, Diabetes, Gland, Salt, Skin, Sperm, Hydrocele.
+•	Jupiter + Saturn:
+o	Stops education early for money. Learns later. Family responsibility. Degree vs Job mismatch.
+o	Native: Talented. Turns situation to advantage. Prestige in job. Growth. Public service. Satisfied. Self-made. Detached from relatives initially, helps later. Honest reputation. Easy income after work. Charitable.
+o	Professions: Teacher, Finance, Gold, Guru, Respectable, Travel, Priest, Public, Devotion, Advisor, Service, Judge, Trustee, Leader, Higher Ed, Defense, Temple.
+o	Native's Diseases: Bile, TB, Emaciation, Cough, Barren, Leg pain, Early grey, Varicose, Corns, Gas, Tooth decay, Indigestion, Ear pus, Hair, Paralysis, Drug, Stress.
+•	Jupiter + Rahu:
+o	Fearful. Bad dreams. Negative. Thinks self as supernatural.
+________________________________________
+PDF Page 69 (Book Page 155)
+•	Prediction Technique:
+o	Combine: Planet Status + Rasi Quality + Planets in 1, 5, 7, 9, 3, 11.
+o	Example: Saturn in Libra.
+	Saturn = Profession.
+	Libra = Trade/Luxury qualities.
+	Planets in 1, 5, 7, 9, 3, 11 from Libra modify the profession.
+o	Blend these to find the actual profession. Match with native's education.
+________________________________________
+PDF Page 70 (Book Page 367)
+•	Saturn + Jupiter: (Repeated).
+•	Saturn + Rahu: (Repeated from Page 367/368 - see PDF Page 30).
+•	Saturn + Ketu: (Repeated from Page 368 - see PDF Page 30).
+________________________________________
+PDF Page 71 (Book Page 289)
+•	Ketu (Continued):
+o	Body Parts: Legs, Ear, Hair, Nerve, Nail, Anus, Genital, Skin, Intestine.
+o	Diseases: Assault injury, Anus, Implant, Nail, Genital, Virus, Hereditary, Mental, Stress, Nerve, Fainting, Dizziness, Pus, Skin peel, Itch, Stomach, Cancer, Pain, Blood, Burn, Poison, Weakness, Unknown, Worms, Weight loss.
+o	Death: Suicide, Assault due to bad behavior.
+•	Conclusion: Practice with many charts to become an expert. Perseverance is key.
+________________________________________
+PDF Page 72 (Book Page 167)
+•	Name Nadi (Continued):
+o	Derive relatives from names. Example: "Vijaya" -> "Vijayalakshmi" (Sister).
+o	Vijayalakshmi = Mercury + Venus. Check for money/daughter issues.
+o	Husband "Manikandan" (Saturn + Mars). Check Transport job.
+o	Confirm Authority Planet (e.g., Mercury for Ram). Predict House direction, Caste, etc.
+o	Check mixed planetary effects.
+o	Predict current problem (Authority Planet's problem is lifelong).
+o	Predict timing without chart: If Question is Job (Sun) and native had Toothache (Sun) recently -> Job coming in next transit of Saturn/Jupiter/Rahu/Ketu.
+________________________________________
+PDF Page 73 (Book Page 119)
+•	Moon (Continued): (See PDF Page 12 for full translation).
+•	Mars (Sevvai) - Primary Nature:
+o	Brother, Friend, Health, Debt-free life, Husband.
+________________________________________
+PDF Page 74 (Book Page 297)
+•	(Context: Cancer/Kadagam Results continued)
+o	Mercury:
+	Thought of cheating.
+	Daughter/Sister: Gossips.
+	Native: Math, Computer, Commerce, Edu. Looks young.
+o	Venus:
+	Wife: Smart, Gossip, Grateful. From Bank/Edu family. From West. Distant relative.
+	Native: Falls in love.
+	Wife: Nerve/Skin issue. Fight between Wife and Sister.
+	Native: Trouble from female friends in college.
+o	Mars:
+	Native: Anemia, Low BP.
+	Husband: Young, Smart, Romantic. Misunderstood -> Fights.
+	Brother: Property case (settled by talk).
+o	Jupiter:
+	Attracts with speech. Struggle for self-respect. Respected. Child birth stress/miscarriage. Family in Finance. Advice/Training habit.
+o	Saturn:
+	Contradictory thoughts/actions. Lazy/Active mix. Accounts/Teaching job. Leg nerve issue. Elders argue about land.
+o	Sun (in Cancer? No, text says "Sun in Cancer" at bottom):
+	Father: Travels. Fickle.
+	Son: Insulted. Unstable.
+	Both: Transport, Agri, State Politics, Arts.
+________________________________________
+PDF Page 75 (Book Page 257)
+•	Mars Authority Planet (Continued):
+o	...Betrayal, Friendship cheating. Hasty. Irritates others. Harsh words. Unnecessary fights. Avoid Share/Partnership/Lending. Likes to raise Dogs. Dog bite.
+•	Mars Significations:
+o	Direction: North.
+o	Caste: Chettiar, Gounder, Kammalar, Carpenter, Blacksmith, Mileccha, Konganar, Vadugar, Potter, Merchant, Artist.
+o	Nature: Brother, Friend, Health, Debt-free, Husband.
+o	Qualities: Valor, Victory, Accident, Greed, Lust, Bad behavior, Anger, Skill, Authority, Freedom, Grudge, Pulse, Bravery, Enemy, Fire, Debt, Revenge, Mental strength.
+o	Places: Medical, Mechanic, Transformer, Tower, Murugan temple, Workshop, Hardware, Kitchen, Baba temple, Accident spot, Cracker factory, Fire place, Valley, Dump, Mine, Butcher, Hospital, OT.
+o	Metal: Copper.
+o	Color: Dark Red.
+o	Cloth: Burnt cloth.
+o	Fruit: Pomegranate.
+o	Grain: Toor dal.
+o	Flower: Shenbagam, Sampangi.
+o	Tree: Neem, Hedge.
+o	Bark: Patai.
+o	Distance: 105 km.
+o	Number: 9, 7.
+o	Mole/Scar: Back, Eyebrow, Jaw.
+________________________________________
+PDF Page 76 (Book Page 127)
+•	Venus Significations: (See PDF Page 35 for translation).
+o	Medicine: Leaf, Vasambu, Tulsi.
+o	Caste: Mudaliar, Naidu, Pillai, Ambalakarar, Reddiar, Komutti, Chettiar, Melakkarar, Vaisya, Merchant, Carpenter, Artist, Poet.
+o	Mole/Scar: Below hand.
+o	Primary Nature: Wife, Female Friends, Wealth.
+o	Places: Luxury house, Club, Cinema, Garden, Women's place, Showroom, Stadium, Hall.
+o	Objects: House, Car, Scent, Glass, Jewel, Luxury food, Furniture, Alcohol, Money, Sweet, Expensive food, Fruit, Flower, Rexine, Mica.
+o	Professions: Singer, Actor, House sales, Wedding, Media, Makeup, Marketing, Paint, Cattle, Cash crop, Bank, Luxury car, Foreign, Hotel, Treasury, Decor, Glass, Beauty, Scent, Gem, Gold, Fruit, Agri, Interest, Poet, Finance, Guest house, Palace, Med, Optic, Silk, TV, Dance, Ad, PR, Prostitute, Music, Vehicle, Modern, Auditor, Laundry, Women labor, Language, Spring crop.
+o	Qualities: Love, Charm, Art, Acting, Glamour, Joy, Sex, Lust, Wedding, Nickname, Youth, Speech.
+o	Body Parts: Eye, Throat, Cheek, Jaw, Senses, Uterus, Face, Ovum, Neck, Shoulder.
+________________________________________
+PDF Page 77 (Book Page 305)
+•	(Context: Virgo/Kanni Results)
+o	Saturn (Continued): Leg treatment. Inter-caste marriage. Twins in family.
+o	Sun:
+	Father/Son: Tactful speech. Business apt. Adaptable. Agri, Teacher, Accounts, Broker, Food retail.
+o	Moon:
+	Mother: Tactful. Handles family well. Smart speech.
+	Native: Logic. Romantic. Wants to learn all.
+o	Mercury:
+	Graceful, Nuanced, Young, Active. Trouble from women. Love trouble. Good education. Trouble for Daughter/Sister. Helpful. Childish. Enemies via speech. Skin disease. Math, Arch, Edu, Comp, Electronics, Commerce, Law. Textile/Electronic/Construction interest.
+o	Venus:
+	Male: Marriage confusion/Late.
+	Female: Husband 28+. Love marriage.
+	Native: High lust. Money via Chit/Interest. Lies for money. Cheek/Urinary infection.
+	Wife: Young, Beautiful, Curly hair. From South.
+o	Mars:
+	RBC defect. Feels inferior. Help from brother.
+________________________________________
+PDF Page 78 (Book Page 265)
+•	Mercury (Budha) (Continued):
+o	Body Parts: Waist, Back, Brain links, Shoulder, Skin, Palm, Throat, Ear, Tongue, Nerve, Lung, Spine, Senses, Nose, Hip, Finger.
+o	Diseases: Finger issue, Left ear, Skin, Scabies, Leucoderma, ENT, Forgetfulness, Shoulder pain, Throat, Nerve, Growth defect, Phlegm cyst, TB, Brain, Fits, Baldness, Hydrocele, Stammer, Small bone fracture, Navel, Dumb, Deaf, Vision, STD, Vatha, Coma.
+o	Death: Anemia, Nerve failure.
+•	Venus (Sukra) - Authority Planet:
+o	Diagram: Venus in Pisces, Aries, Taurus, Virgo, Libra, Scorpio.
+o	Effect of Retro/Edge/Exchange: Family life complicated. Conjoined planet complicated. Murder/Suicide in family (Female/Money). Hurt by Wife/Women. Insult from women. Family in Teaching, Interest, Lending.
+________________________________________
+PDF Page 79 (Book Page 135)
+•	Saturn (Sani) Diseases (Continued): (See PDF Page 18).
+•	Rahu Significations:
+o	Plant: Bamboo.
+o	Food: Preserved food.
+o	Medicine: Root, Sambrani, Karisalai.
+o	Caste: Nadar, Kuluva, Senaikudi, Pallar, Vanibar, Ilai Vannar, Arundathiyar, Parayar, Moopar, Tribe.
+o	Mole/Scar: Leg, Thigh.
+o	Color: Blue.
+o	Animal: Ox, Eagle, Pig, Donkey, Crow, Cuckoo.
+o	Age: 13.
+o	Shape: Winnow (Asymmetrical).
+o	Distance: 300, 10km.
+o	Taste: Bitter.
+o	Incense: Karimulli.
+o	Metal: Iron, Steel.
+o	Flower: Karunkuvalai.
+o	Grain: Sesame, Mustard.
+o	Cloth: Torn cloth.
+o	Primary Nature: Paternal Ancestors, Yearning, Greed.
+o	Places: Other religion temple, Shadow, Vast area.
+o	Fruit: Grapes.
+o	Places: Dining, Store.
+o	Tree: Bamboo, Palm.
+o	Number: 4, 8.
+o	Objects: Dry wood, Tanned skin, Chemical, Tar, Rubber, Plastic, Non-degradable, Wide mouth.
+o	Direction: East, Looking around.
+________________________________________
+PDF Page 80 (Book Page 313)
+•	(Context: Sagittarius/Dhanusu Results continued)
+o	Mercury (Continued): ...Chemical, Social, Mgmt, Agri education.
+o	Venus:
+	Wife: From North. Strict. Marriage trouble.
+	Native: Lustful. Obeys wife but confusion. Love/Relative marriage helps. Late (28+) is best. Husband 29+.
+	Income: Finance, Luxury, Beauty, Teacher, Construction.
+	Wife: Health issues.
+o	Mars:
+	Trusts friends.
+	Female: Late/Complicated marriage. No peace. Health/Case/Betrayal.
+	Native: Trouble finds him. Brother/Friends help then cheat. Med/Engg/Auto job. Quarrelsome.
+o	Jupiter:
+	Rough, Fighter, Angry, Stubborn. Egoistic in family. Case trouble helping others. Land/Doc gain. Knows some medicine. Surgery.
+o	Saturn:
+	Moving/Active job. Engg/Machine edu/income. Leg/Hip treatment. Brother helps in job. Med/Metal contact.
+•	Sun in Sagittarius:
+o	Father/Son: Dignified. Responsible. Traditional. Learned. Avoid evil. Move coins from behind.
+________________________________________
+PDF Page 81 (Book Page 273)
+•	Jupiter (Guru) Significations: (See PDF Page 39 for translation).
+o	Qualities: Prestige, Sweet, Self-care, Influence, Status, Wealth, Fame, Trick, Memory, Skill, Genius.
+o	Places: Puja room, Bank, Finance, Puja shop, Yoga/Tuition center, Trust, Court, Temple, Palace, Panchayat, College.
+o	Direction: South, West.
+o	Caste: Brahmin, Gounder, Jain, Nadar.
+o	Metal: Gold.
+o	Color: Yellow.
+o	Cloth: Worn once.
+o	Fruit: Orange.
+o	Grain: Chana, Cumin.
+o	Flower: Jasmine (Mullai/Malligai).
+o	Tree: Coconut, Peepal, Lemon, Betel.
+o	Shape: Oval.
+o	Distance: 135 km.
+o	Number: 10, 3.
+o	Mole/Scar: Hand, Fleshy part.
+o	Objects: Puja items, Wisdom books, Gold, Pen, Uniform, Locker, Desk.
+o	Professions: Teacher, Judge, Gold, Travel, Rent, Spiritual, Priest, Public, Devotion, Advisor, Service, Trustee, Leader, Education, Defense, Temple.
+________________________________________
+PDF Page 82 (Book Page 143)
+•	(Duplicate of Page 66)
+o	General Rules of Rajanadi. Four sections. Philosophy.
+________________________________________
+PDF Page 83 (Book Page 321)
+•	(Context: Aquarius/Kumbam Results continued)
+o	Sun (Continued): Advisors. Critics. Lazy but effective. Psychology, Quality, Research, Unexplainable jobs.
+o	Father: Health issue.
+o	Native: Govt/Own biz. Teeth/Head/Jaw issue. Less help from father.
+o	Moon:
+	Mother: Mind reader. Secretive. Antiques lover/collector.
+	Native: Researcher. Deep thinker. Tester.
+o	Mercury:
+	Daughter: Secretive. Indirect speech. Hateful behavior. Trapped in problems.
+	Family: Research, Psych, Law, Philosophy, Trad Med.
+	Sister: Intuitive.
+	Native: Guide for complex issues.
+o	Venus:
+	Native can't read spouse's mind. Friction.
+	Wife: Secretive/Blackmailing. From West. Patient/Focused. Shows love only in private.
+o	Mars:
+	Can't understand husband. Average unity.
+	Female: Sad about husband.
+	Husband: Fault-finder. Advisor.
+	Brother: Helps. Silent achiever. Property friction.
+o	Jupiter:
+	Loner. Misunderstood.
+________________________________________
+PDF Page 84 (Book Page 281)
+•	Saturn (Sani) Significations (Continued):
+o	Body Parts: Knee, Bone, Ankle, Thigh, Jaw, Ear, Motor nerve.
+o	Diseases: Leg break, Nerve curl, Paralysis, Fall, Stone hit, Right ear, Jaw, Buttock, Fits, Tooth break, Delusion, Bile, TB, Leprosy, Emaciation, Cough, Barren, Deformity, Leg/Joint pain, Corn, Depression, Ulcer, Dry skin/tongue, Sneeze, Bone curve breath issue, Bad dream, Grey hair, Guilt, Gas, Tooth decay, Indigestion, Organ rot, Ear pus, Hair, Drug, Stress.
+o	Death: Typhoid, Viral fever, Fall.
+•	Rahu & Ketu - Authority Planet:
+o	Diagram: Rahu/Ketu in Taurus, Cancer, Aquarius.
+o	Results (Rahu): Fear, Confusion, Debt, Family problem, Spoil clan name, Innovation, Bad company, Strange disease, Skin burst, Drug addiction, Insult, Disgusting state.
+________________________________________
+PDF Page 85 (Book Page 149)
+•	Analysis Order:
+1.	Authority Planet (Retro/Exchange/Edge).
+2.	Planets conjoined with Authority Planet.
+3.	Planets in 1, 5, 9 from Rahu/Ketu.
+4.	Own/7th/Exalted/Debilitated.
+5.	Planets conjoined with type 4.
+o	Rules:
+	Authority Planet decides life.
+	Conjoined planet gets 50% authority.
+	If conjoined planet is Retro/Exch/Edge, its karaka is used by others (e.g., Venus Exch = Married woman).
+	Planet behind Retro is affected.
+	Planet takes nature of its Rasi.
+	Check Rasi of Karaka.
+	1, 5, 7, 9 = 1st level connection.
+	3, 11 = 2nd level (50%).
+	Rahu/Ketu in 1, 5, 9 = Defect/Delay.
+________________________________________
+PDF Page 86 (Book Page 329)
+•	(Duplicate of Page 13 - Sun Conjunctions)
+o	Sun + Moon. Sun + Mars. Sun + Mercury.
+________________________________________
+PDF Page 87 (Book Page 253)
+•	Moon Significations (Continued): (See PDF Page 12).
+o	Caste: Vellalar, Konar, Barber, Valluvar, Nattiyar, Lime maker, Nadar.
+o	Metal: Lead (Eeyam).
+o	Color: Pale Ash.
+o	Cloth: New cloth.
+o	Fruit: Sathukudi (Sweet Lime).
+o	Grain: Rice.
+o	Flower: White Oleander.
+o	Tree: Drumstick, Sugarcane, Banana.
+o	Shape: Circle.
+o	Distance: 15km.
+o	Number: 21, 2.
+o	Mole/Scar: Head.
+o	Objects: Vessel, Pipe, Tank, Liquid, Drink, Cloth, Vehicle, Milk, Curd, Oil, Pearl, Conch, Watery veg, Salt, White, Pump.
+o	Professions: Food, IT, Water, Sweet, Transport, Foreign, Grocery, Construction, Grill, Oil, Audio/Video, Visa, Cellphone, Agri, Ship, Nurse, Med, Tourism, Fertility, Railway, Airport, Art, Astrology, Rice, Flower/Fruit, Lit, Paint, Cheating, Export, Vehicle prod, Laundry, Cattle, Fish, Act, Write, Service, Garden.
+o	Body Parts: Face, Left eye (M), Right eye (F), Gland, Breast, Kidney, Sense, Stomach, Blood vessel, Uterus, Brain link.
+o	Diseases: Cold, Sinus, Mental, Eye, Stomach, Breast lump, Heart, Diabetes, Urine, Menstrual, Horned beast attack, Food pipe, Water danger, Sex disease, Skin, Spleen, Lung, Lazy, Hereditary, Infection, Diarrhea, Vomiting, Phlegm, Air humidity skin, Hydrocele, Insomnia, Desire disease, Cyst.
+________________________________________
+PDF Page 88 (Book Page 161)
+•	Rules for Finding Authority Planet (Adhikara Graham):
+o	Retrograde.
+o	Exchanged.
+o	Edge (Rasi Vilimbu).
+o	Conjoined with above in same sign.
+o	Own House.
+o	7th from Own House.
+o	Exalted/Debilitated.
+o	Conjoined with Own/Exalted/Debilitated/7th.
+o	Conjoined in 1, 5, 7, 9.
+o	1, 5, 9 from Rahu/Ketu.
+o	Changed sign 1 day +/- birth.
+o	Priority: Own House, 7th from Own, Exalted/Debilitated are most important.
+o	Note: Retro/Edge/Exchange = Authority. Planets conjoined with them = Authority.
+o	Name Nadi: The planet associated with the name is the Authority Planet. Relatives will also have names/traits of this planet.
+o	Example: Sun Authority -> Father important, Govt.
+________________________________________
+PDF Page 89 (Book Page 337)
+•	(Context: Moon Conjunctions continued)
+o	...Kidney stone, Menstrual, Phlegm, Eye, Diabetes.
+•	Moon + Jupiter:
+o	Cunning. Shame in travel/spirituality. Desires high life. Travel. Social status. Elder friends. Good name via Mother. Mother charitable. Distant job.
+o	Mother's Diseases: Stomach, Muscle, Liver, Fat, Digestion, Brain, Itch, Intestine, Cramp, Gas, Swelling, Resp, Jaundice.
+o	Native's Diseases: Liver, Cold, Vomit, Mental, Indigestion, Menstrual, BP, Insomnia, Desire disease, Cysts, Blood, Mental.
+•	Moon + Saturn:
+o	Patient/Lazy. Mother lazy. Travel job. Professional insults.
+o	Professions: Arts, Astro, Rice, Flower/Fruit, Lit, Paint, Water, Cheating, Export, Foreign, Agri, Ship, Nurse, Med, Transport, Vehicle, AC, Laundry, Construction, Politician, Daily goods, Cattle, Fish, Priest, Act, Write, Railway, Airport, Tourism, Service, Garden.
+o	Mother's Diseases: Handicap, Delusion, Bile, Emaciation, Cough, Leg pain, Early grey, Varicose, Corn, Gas, Tooth decay, Indigestion, Organ rot, Ear pus, Hair, Paralysis, Stress.
+o	Native: Mental stress, Joint pain, Water in legs, Nerve curl.
+•	Moon + Rahu:
+o	Mother sickly. Friction with mother. Mother struggles. Native confused. Bad thoughts/dreams. Fear. Ancestor traveler. Suicidal thought. Theft/Cheating thought.
+o	Mother's Diseases: Gas, Handicap, Bile, Leprosy, Poison.
+PDF Page 1 (Book Page 473, 474)
+•	[Context: Likely continuing from a previous section about a Planet/Sign]
+o	General Results: When explaining things to others, they have to give small explanations (clarifications). Similarly, they will do innovative work. The native will not shy away from doing any kind of work for their own gain. They will gain the friendship of many people.
+o	Fame: They will become famous by helping others and giving advice. They will attain fame and pride through their own experiences.
+o	Health: They will face suffering related to leg nerves and mental stress.
+o	Career: Although they face great confusion in their early career, they will attain high status in later life. They have the quality of forgetting offenses (forgiving/forgetting crimes).
+o	Character: They have to lose many things to prove themselves. They are fond of vehicles and travel. They will be interested in luxury/enjoyment (Bhoga).
+o	Beliefs: They desire to perform ancestral rituals. They have fear of the supernatural, black magic (Pilli), and sorcery/ink (Mai).
+o	Family: The family environment will be filled with pressure. They will have a conflict-oriented attitude with relatives. They will sing the praises of their own clan/lineage. They will also experience results as if they have authority.
+•	Saturn (Sani) [as Authority]:
+o	They will undertake travels. They have a sense of guilt. They hesitate to reveal themselves. They will face humiliations. They will have big plans about life.
+o	Career/Family: They will try to reach high positions. There will be confusion in the lives of their children. There will be some trouble regarding the birth of children or raising them.
+o	Nature: They will have faith in Punya (Merit/Good deeds). Sometimes they will be deceived by not knowing the value of objects. They will become addicted to some continuous habit. Many times, they will severely hurt others mentally.
+o	Resilience: No matter what happens, they will gain the ability to cross everything happening in life by finding small satisfactions in every action.
+•	Jupiter (Guru) [as Authority]:
+o	(Note: The text briefly mentions "Guru" and "Meenam" below).
+•	If Pisces (Meenam) becomes Authority:
+o	Fame/Career: The native will become famous. They will earn income through public relations, advertising, media, finance, online jobs, print, clothing/ornaments, and beauty-related fields. Online trade and delivery jobs are also possible.
+o	Wealth: The native will accumulate wealth, but they must cross many losses in the early stages.
+o	Health: There are issues related to the stomach, heart, liver, intestines, and mind. They will also provide advice to many regarding these issues.
+o	Mindset: They will think of their own life as a big deal and feel proud and relieved about it. They will suffer from dreams and imagination.
+o	Legacy: They will accumulate what is needed for their descendants. To finish their work, they will antagonize many people. For self and spiritual reasons... (Text ends).
+________________________________________
+PDF Page 2 (Book Page 471, 412)
+•	[Context: Continuation of Mars/Scorpio?]
+o	Result: Due to greed and haste in business, they will face trouble initially, but through the experience gained, they will attain satisfaction in matters of trust in the latter part of life.
+o	Health: They will face health complications. They will experience results as if Mars has authority.
+•	If Sagittarius (Dhanusu) becomes Authority:
+o	Character: The native is smart/tactful and has a charitable mind. They have leadership qualities and are full of self-respect. They desire fame.
+o	Hidden Nature: They have fickle/lustful thoughts but will not show it outside.
+o	Career: They will rise to a position of giving advice to others. They will earn income through Finance, Spirituality, Teaching, and Agencies.
+o	Life Path: They will show keenness in understanding the truth of life. They will find satisfaction in helping others. They will take care in accumulating Punya (Merit). They will undertake pilgrimages.
+o	Children: They will cross complications related to child birth. They will be fearful about their children's life.
+o	Health: They will face ailments in intestinal digestion and the muscular system.
+o	Interests: They are interested in long-distance travel. They will constantly talk about morals, arts, and life.
+o	Attitude: They often think they know everything. They will try to walk in the path of someone based on some policy/principle.
+o	Status: Though ignored by others in the early stages, they will attain an unavoidable good status in later times. They will attain fame through their activities.
+o	Education: They will face obstacles in education related to profession and income. They will show interest in documenting their opinions according to the times.
+o	Social: They will gain the goodwill of high-ranking people in society. They will experience results as if Jupiter (Guru) has authority. They will become famous through charity.
+•	If Capricorn (Makaram) becomes Authority:
+o	Character: Socially responsible. They will have traditional mental issues (or mindset). They will live away from their ancestral place.
+o	Nature: They have a helping nature. They act by understanding the status of others. They will have professional expertise and pride in their skills.
+o	Career: Though they have great talent in their profession, they will be tossed around without recognition in the early stages. In the latter part of life, they will find peace through their profession. They will fight for their ambition.
+o	Work Ethic: They will do even menial jobs (jobs considered low by others) with responsibility. They can create novelty in anything.
+o	Income: Though there are obstacles regarding income initially, they will receive good income during the most important period of life.
+o	Service: They have a helping nature. They will help orphans, the elderly, and the abandoned. They will stand in front for public causes. They will face criticism regarding their talent in professional matters and will fight against it.
+o	Beliefs: They have pride and faith in clan traditions, yet they are filled with innovative thoughts.
+o	Sources of Income: Service, transport, restless/travel-heavy jobs, politics, and foreign lands.
+o	Wisdom: They would have learned life through experience. They act realizing their duty. They will experience results as if Saturn (Sani) has authority. They are composed/steady. They will attain satisfaction in life through their income and services.
+•	If Aquarius (Kumbam) becomes Authority:
+o	Character: The native is full of secrets. It will appear as if their family members are also hiding something when they speak.
+o	Career: They will do investigative jobs like Research, Magic, Archaeology, Detective, Quality Control Labs, etc.
+________________________________________
+PDF Page 3 (Book Page 469, 470)
+•	[Context: Aquarius continued?]
+o	General: They will get some support. Loss of material objects. There will be financial losses due to disappointment. They are full of suspicion towards others but will not show it outside.
+o	Skill: A person who manages everything with prudence/wisdom.
+o	Danger: Danger to one person in their family due to Water or Poison.
+o	Livelihood: They will make a living through Land, Accounts, Medicine, Chemicals, Bottle, Cement, Paint, Ink. Income is also possible through Luxury, Finance, and Beauty products.
+o	Social: They will stand in front for public causes. Socially attached, revolutionary thinker, innovative thinker. Capable of teaching.
+o	Fame: They will become famous through their intelligence, presence of mind, and argumentative skills. They can provide solutions to many people's problems. Very smart. They speak with humanitarianism and humor, but all words will have an inner meaning (Sarcasm/Double meaning - Shakuni character).
+o	Later Life: They will attain satisfaction in later life through Property, Knowledge, and Talent.
+•	If Libra (Thulam) becomes Authority:
+o	Marriage: The native will face obstacles in marriage matters. Delayed marriage or opportunities to marry someone they already know (love/relative) may arise. Either way, they will be mentally confused due to family affairs.
+o	Later Life: In the latter part, they will develop skills to handle relationships tactfully and find satisfaction in the family.
+o	Career: They possess business nuance. They will cross disappointments caused by money in professional matters.
+o	Income: Marketing, Business, Advertising, Finance, and Luxury/Beauty/Decoration industries.
+o	Health: The native will have Diabetes, Urinary infection, and Eye-related problems.
+o	Character: Fond of a luxurious and showy life. Desires to accumulate excessive wealth. They will give others' money to someone else and get stuck when it doesn't come back. They will be suspicious of their spouse. They have the habit of speaking without knowing the other person's situation. Severe headache.
+o	Pleasure: They will attain satisfaction through enjoyment (Bhoga). They will suffer from side effects caused by enjoyment.
+o	Health (Reproductive): Infection in Uterus and Genitals. They will cross delays in progeny (childbirth).
+o	Skills: They will achieve things through their charm. Though there are differences of opinion with family and partners, they will attain some satisfaction as they are liked by everyone.
+o	Growth: Though they desire everything in the early stages, in later times they will attain relatives, happiness, and comforts. They will become famous through their relationships.
+o	Result: They will experience results as if Venus (Sukra) has authority.
+•	If Scorpio (Viruchigam) becomes Authority:
+o	Friends: The native will face trouble through friends. However, they have a fighting spirit and will achieve what they think without giving up. They will be threatened by others.
+o	Income: Vehicles, Machines, Medicine.
+o	Life: They will cross many types of betrayals. They have faith in luck. They will face loss and betrayal in Speculation (Gambling/Stocks) and investments made on trust. They have a lot of fear regarding life (fear of death).
+o	Health/Work: They will face health complications. They will cross obstacles in work due to conflicts with high officials.
+o	Accidents: Falling down, blood-related ailments, accidents via Fire or Electricity. They are in danger of being attacked by poisonous creatures and animals.
+o	Family: Enmity in the family. Friction with Brother and Husband.
+o	Finance: Expenditure exceeding income. Countless investments (or reckless investments).
+________________________________________
+PDF Page 4 (Book Page 467, 468)
+•	[Context: Continuation of Cancer/Moon Authority?]
+o	Life: They will enjoy vehicle comforts. Income through Food, Vehicle, Medicine, and Computers. Travel lover, and will succeed in it after crossing obstacles.
+o	Character: The native yearns for others' appreciation. They live by observing others' opinions. They will enter others' lives voluntarily and get humiliated. They will be an important person.
+o	Health: Eye, Cold, Stomach, Chest, and Kidney problems.
+o	Knowledge: They will become famous through their efforts by traveling to many places. Excellent in "Hearing Knowledge" (Kelvi Gnanam - learning by listening). Wise.
+o	Resilience: Though they face frequent health ailments, they will get medical help. Though confused by dreams and excessive imagination, they will gain the ability to fix problems using that imaginative skill. They will find logical solutions to many problems.
+o	Memory: They will forget many things. This will bring them good sometimes.
+o	Mother: Though the Mother is very important, there will be occasional friction with her. The mother's life will have great difficulties. However, the mother's cooperation will be significant for the native's rise in life.
+o	Health: The native will face Uterus-related complications. Phlegm (Kapha) related body problems will arise.
+o	Result: Generally, they will experience results as if Moon (Chandra) has authority.
+•	[Context: Leo/Sun Authority starts here]
+o	Health: Issues regarding children's health.
+o	Income: Government job, Own business, or Foreign lands.
+o	Character: They are proud of their tradition and heritage. They have high leadership qualities and the nature to control and rule others. They have mercy and generosity to help others.
+o	Flaws: Sometimes they act selfishly. They will make enemies by not knowing how to speak diplomatically/nicely. They will antagonize many by speaking directly (bluntly). They will live for vain pride.
+o	Troubles: They will face trouble through Government and Politics.
+o	Spirituality: They are spiritual and devoted. They have the ability to guide others.
+o	Legacy: They will benefit from ancestral properties, but there are issues in obtaining them. They have the power to build everything anew. They will attain a good name through the fame of their clan and their own energy. They will become famous through their personality.
+o	Result: Generally, they will experience results as if Sun (Surya) has authority. They have management qualities. They will find peace in Investment and Administration.
+•	If Leo (Simham) becomes Authority:
+o	Environment: The native desires a unique environment for themselves. Therefore, if they have to work under someone, it is difficult to stay there.
+o	Family: Though the Father is important, there are complications in him helping the native directly. The native always cares about the welfare of children.
+•	If Virgo (Kanni) becomes Authority:
+o	Legal: The native will face trouble through court cases. They will cross betrayals of trust.
+o	Health: Health-related problems and small surgeries are possible.
+o	Property: There are cases regarding properties due to them. Properties that should come to them will be usurped by family members.
+o	Medical: Treatments related to Skin, Sensory nerves, and Small bones.
+o	Trouble: Even unnecessary cases may come. Some even go to the Police Station or Jail. Though there is trouble through Mother's relatives... (Text ends).
+________________________________________
+PDF Page 5 (Book Page 465, 466)
+•	[Context: Aries/Mars Authority ending]
+o	Early Life: In the early stages, they will make mistakes due to hasty intelligence.
+o	Health: Hair, Tooth, Eye, and Head related complications.
+o	Female Native: If the native is female, she will cross some obstacles in family life. She will definitely prove herself as a correct person to those around her.
+o	Satisfaction: She will feel that she has attained proper satisfaction in her life. She will live for a long time. She would have accumulated wealth for the later period.
+o	Nature: Whatever state they are in, they will be interested in doing noble deeds. They will be charitably minded. They will become famous due to their qualities.
+o	Result: Generally, they will experience results as if Mars (Sevvai) has authority.
+•	If Taurus (Rishabam) becomes Authority:
+o	Family: They will cross complications in family matters. In the early stages, they will face some struggles in handling marital life. They will marry someone known or acquainted.
+o	Education: They will excel through education.
+o	Nature: They are interested in showing themselves off (pomp/showy).
+o	Finance: They will lose money by trusting some people with investments. They will make investments in known and unknown places and gain good experience later.
+o	Income: Luxury goods, financial jobs, cash crops, expensive items. Interested in Gold/Land investment.
+o	Skills: Eloquent speaker. Capable of attracting others with speech.
+o	Health: Trouble in Eye, Cheek, Teeth. Food lover (glutton) - addicted to tasty food. They will face side effects from medicines.
+o	Habits: Educated. Habit of collecting Silver and other metals. Capable of tactfully shifting their work onto others.
+o	Later Life: They will attain peace through a good family in later times. They will benefit from saved assets.
+o	Result: Generally, they will experience results as if Venus (Sukra) has authority.
+•	If Gemini (Mithunam) becomes Authority:
+o	Skills: Clever intellect. Skilled in tricks/arts. Capable of handling anything deftly. No matter what obstacle comes in any task, they have the tact to handle the situation effectively.
+o	Health: Ear, Shoulder pain, Skin, and Nerve related ailments.
+o	Learning: Ability to learn anything upon seeing it. Interested in arts/tricks. Capable of speaking to everyone as if they are neutral.
+o	Career: Broker, Medicine, Electronic, Math education, Liquid items.
+o	Family: Obstacles through Sister and Female children.
+o	Self-Expression: Though they face obstacles in expressing themselves in a way everyone understands, they will excel in it in an innovative way. They have a female child.
+o	Enemies: They will gain enemies through speech, but later they have the ability to speak peace and fix it.
+o	Nature: High lust/desire. Ability to attract the opposite sex. Interest in learning Arts, Dance, Song, Music.
+o	Later Life: In the latter part of life, they will live a satisfied life with the skills learned in society. They will live with property and wealth. Interest in learning foreign languages.
+o	Fame: They will attain fame through self-effort.
+o	Result: Generally, they will experience results as if Mercury (Budha) has authority.
+•	If Cancer (Kadagam) becomes Authority:
+o	Mind: The native has mental confusion and inferiority complex.
+o	Mother: The native's mother will be a person of authority/dominance.
+o	Nature: The native will be merciful.
+o	Property: They will face complications in House/Land matters, but later... (Text ends).
+________________________________________
+PDF Page 6 (Book Page 463, 464)
+•	Authority Signs (Adhikara Rasigal):
+o	In astrology, Karakas (Significations) are very important. The basis of all astrology is understanding life.
+o	In traditional astrology, they check how each House (Bhava) is. In all astrologies, they check planetary positions. Similarly, Rasis (Signs) also have Karakas.
+o	Every astrology system states what each Rasi indicates. As we saw before, the qualities of the Rasis are roughly the Karakas of their Lords.
+o	Similarly, if we look at the Houses (Lagana, 2nd house, etc.) keeping Aries as the first house, the qualities are that of the respective House Lords.
+o	Concept: In Rajanadi method, if a planet sits in a specific Rasi, we call it an "Authority Planet" (Adhikara Graham). We say all its Karakas become important in the native's life. Similarly, based on the operating state of each Rasi, we can give predictions. We call this "Authority Rasi" (Adhikara Rasi).
+o	How to find it: It is very simple. Whatever Rasi a planet sits in, that Rasi becomes an Authority.
+o	Effect: Through the significations (Karaka) of that Authority Rasi, the native will face obstacles in the early stages but will attain goodness through it in later times.
+o	Success: Clients often ask, "Will I be successful in anything?". You can say they will succeed in the significations of the Rasis where their planets are placed.
+o	Multiple Planets: Even if one or more planets are in the same Rasi, that Rasi becomes Authority. In a horoscope, all Rasis containing planets become Authority.
+o	Timing: The results should be stated keeping the native's age in mind.
+o	Complications: Rasis containing Retrograde, Exchange, or Edge planets will create trouble in the beginning but do good later. Similarly, Rasis with Exalted, Debilitated, Own House planets, or planets in the 7th from their own house will give confusion initially and a feeling of satisfaction later.
+o	Priority: Give priority to Rasis where Authority Planets (defined in Ch 2) are seated. However, any Rasi with a planet is also an Authority Rasi.
+o	Struggle: The native will attain satisfaction in the signification of the Authority Rasi only after struggling.
+•	If Aries (Mesham) becomes Authority:
+o	Character: The native will become famous. Interested in Politics. Possesses Self-respect and Generosity. Ability to understand others' status. They will become an important person in the family.
+o	Struggle: In the early stages, to maintain their status, they will cross various complications. Debt trouble, breach of trust, and facing small court cases may occur.
+o	Health: Ailments in Head organs. Treatment for Heart and Head related problems.
+o	Mindset: Mind and body built to control everyone. Harshness in words. When they face trouble, they will seek the help of the Law.
+________________________________________
+PDF Page 7 (Book Page 461, 462)
+•	[Context: Aries continued]
+o	Troubles: Enmity caused by controlling nature. High desire, big efforts, faith in luck, unnecessary fear of accidents and health, confusion regarding black magic/sorcery, insect bites, continuous allergies.
+o	Health: Skin diseases, blood clots, boils/abscesses on the body.
+•	Results during Jupiter (Guru) Dasa and Bhukti:
+o	Ambition: Desire for fame, but struggle for it.
+o	Finance: Changes in decisions regarding Savings and Gold.
+o	Life: Receiving excellent guidance in life.
+o	Family: Worries regarding child birth, treatments for it. Humiliating incidents. Child birth. Relocation of family, Promotions.
+o	Career: Interest in starting a business, pilgrimage.
+o	Health: Suffering from excess body weight.
+o	Income: Gain through Brokerage, Agencies. Income through Interest, Chit funds.
+o	Relationships: Forming many relationships. Marriage and child birth. Understanding the true face of relatives. Getting into and recovering from addiction.
+o	Spirituality: Performing ancestral practices related to deity worship.
+o	Events: Promotion, Transfer, Intestinal ailments. Love marriage in family, Inter-caste marriage, Marriage against family wishes. Abortion (Miscarriage). Trouble from high officials.
+•	Results during Saturn (Sani) Dasa and Bhukti:
+o	Life: New responsibilities, riots/conflict with relatives, receipt of property from ancestry, professional efforts.
+o	Risk: Creating high risks in business voluntarily and losing peace.
+o	Health: Problems in Hip, Legs, and Bones.
+o	Service: Interest in public service, social thinking, thought of helping others.
+o	Growth: Huge progress in profession.
+o	Family: Worry about heirs. Happiness in family but longing for old memories. Danger to young people if old people are present (implying death of young). Continuous inter-caste marriages. Situation of mingling with the public.
+o	Events: Birth of twins. Humiliation by profession. Victory over enemies. Long distance travel. Increase in patience/slowness. Habit with unnecessary friendships. Danger to life. Indecisiveness in profession. Suffering from hereditary diseases. Experiencing punishments.
+•	Results during Mercury (Budhan) Dasa and Bhukti:
+o	Health: Treatment for Speech, Hearing, and Vision defects in the family.
+o	Family: Confusion regarding female children. Fear about puberty. Losing peace due to education or gaining benefit from education.
+o	Career: Frequent construction work. Connection with Plastic-related jobs. Income through liquid items. Opportunity for Higher Education.
+o	Property: Asset accumulation like Land. Benefit through cases.
+o	Troubles: Confusion in Sister's life. Fear of losing peace due to sister. Business desire. Nerve and Skin disease. Sudden mental health issues. Trouble through cases and witnesses. Medical expenses for children. Sarcasm in speech increasing. Interest in learning Dance and Music.
+________________________________________
+PDF Page 8 (Book Page 459, 460)
+•	[Context: Continuation of Mercury or start of Sun?] Actually, looking at the content "Puberty... Father health... Court...", this matches the Sun Dasa description found in typical texts, but here it might be a continuation of Mercury or the start of Sun Dasa which is explicitly labeled on Page 9. However, Source 7197 discusses "Puberty... Father's health... Court... Theft...". This block seems to be the Sun Dasa section but the header is missing or it's the end of Mercury? Wait, let's look at Page 9. Page 9 has "Suryan Dasa" header at the bottom. This implies the text on Page 8 is likely Mercury Dasa continued or Ketu? No, "Father's health" and "Court" are Sun qualities. It is possible the pages are mixed up or this is a sub-section. Let's translate carefully.
+o	Events: Puberty. Struggle for recognition in workplaces. Change of responsibilities. Complications in Father's health. Cases. Going to Court/Police station for problems. Loss by thieves. Fear of attack on life by others.
+o	Assets: Acquisition of Vehicles. Involvement in various trades.
+o	Medical: Treatments for Teeth, Head, Jaw, and Hair. Eye treatment.
+o	Mindset: Longing for children. Doing Fire or Heat related jobs with interest. Fear about diseases in Head and vital organs. Going to important cities. Clarity of knowledge will occur.
+o	Authority: Getting a place to rule/administer newly. Relationship with ancestry will improve. Going to important holy places. Humiliation by/in relatives. Fear about children's future.
+•	Results during Moon (Chandra) Dasa and Bhukti:
+o	Health: Body becoming obese.
+o	Education: Interest in learning new education. Completing higher studies.
+o	Ailments: Water-related ailments. Health defects.
+o	Interests: Interest in Astrology, Photography, and Arts. Eagerness to learn new languages.
+o	Social: Moving friendly with everyone but constantly suspicious of them.
+o	Family: Events like Puberty in the family. Continuous travel.
+o	Property: Interest/Effort in building a house, facing struggles in it.
+o	Relationships: Difference of opinion with Mother. Understanding the mind, but mental stress increases. Confusion. Sudden humiliation. Smooth trend with elderly female relatives. Fear arises.
+o	Conflict: Harassment by unnecessary enemies. Vain fights. Difference of opinion with neighbors.
+o	Recovery: Recovering from intoxication/addiction. Suffering from Stomach and Respiratory infections. Getting humiliated by interfering in others' matters. Blind courage. Health issues related to travel. Fear of venereal diseases due to improper habits.
+•	Results during Mars (Sevvai) Dasa and Bhukti:
+o	Relationships: Brother favorable. Disagreement with Husband. Help from friends but also loss through them.
+o	Career: Benefit through Brick, Grill, Electric. Interest in Partners and Share markets, loss through them. Understanding friends. Facing betrayal. Facing cases by going to help others. Getting disappointed by those trusted like a King.
+o	Fear: Physical fear and fear of health.
+o	Ambition: High interest in Wealth. Necessity to win arises. Treatment for chronic diseases. Buying professional vehicles. New investment confidence increases. Any undertaken task faces an obstacle.
+o	Animals: Raising Dog/Cat and getting attacked by them.
+o	Money: Belief in savings. Participating in gambling to earn suddenly.
+•	Results during Rahu Dasa and Bhukti:
+o	General: Brings an end to long-standing disturbances and cases. Success in efforts. Foreign travel. Long distance jobs. Feeling of loneliness. Rise in life due to sudden decisions.
+o	Family: Sudden accidents or mishaps in the family. Fear and situation like auspicious events getting stopped, then correcting.
+o	Mindset: Negative thoughts appear. Fear that everything is going wrong. Suicidal feelings. Enmity without reason and trouble from it. Excessive expectation in family.
+________________________________________
+PDF Page 9 (Book Page 457, 458)
+•	[Context: Dasa Bhukti Intro & Ketu/Venus/Sun]
+o	Non-Authority Planets: The Dasa Bhukti of a planet that has not obtained Authority will be without major changes.
+o	Conjunction Effect: In a Dasa and Bhukti, the result will be of the conjunction of those two planets. Example: Moon Dasa Guru Bhukti = Moon + Guru conjunction result (Humiliation).
+•	Results during Ketu Dasa and Bhukti:
+o	Learning: Opportunity to learn new education. Understanding the nuances of life. Interest in lineage/clan. Environment to learn life.
+o	Mindset: Blind belief that someone will take care. Laziness. Courage/Mindset to criticize social controls.
+o	Troubles: Humiliation through Government. Infections caused by waste in the body. Ailments through waste channels (excretory). Suffering from hereditary diseases. Continuous medical treatment. Attacks by animals and insects.
+o	Family: Loss of relative in important situation. Enmity and separation in relationships. Bad name for family. Extreme interest in economy but also a frustrated attitude. Pain in internal organs. Unnecessary fear. Fear that something will happen to self due to ancestors' deeds. Body slimming. Piles and Intestinal infections.
+•	Results during Venus (Sukra) Dasa and Bhukti:
+o	General: Marriage related results. Acquisition of House, Vehicles, Ornaments. Desire for everything. Receiving rewards and appreciation. Bad name related to women.
+o	Relationships: Antagonizing relatives by taking independent decisions. Antagonizing or losing an important elderly person.
+o	Wealth: Recovering property/economy waited for long. Facing cases. Interest to enjoy everything.
+o	Fear: Fear about life. Child birth. Getting close to relatives and creating enmity.
+o	Health: Facial paralysis appearing and disappearing. Diabetes. Urinary infection. Interest in private matters and trouble via infections there. Skin disease. Treatment for Eye and Genitals. Puberty. Problems in marital intimacy. Differences of opinion. Separation between couple for some reason.
+o	Income: Attachment to relatives. Business profit. Income via Interest.
+•	Results during Sun (Surya) Dasa and Bhukti:
+o	Ambition: Desire for Fame. Stubborn hold on undertaken tasks. Interest in Politics and Governance. Business thinking. Child birth. Attention on Self-worth.
+o	Career: Rise in job. New confusion in relationship with Father. New effort in Government/Politics and troubles through it.
+o	Family: Important functions taking place in family. Undertaking efforts for family progress.
+________________________________________
+PDF Page 10 (Book Page 453, 454)
+•	[Context: Dasa Bhukti Tables]
+o	Mercury (Budhan) Bhukti: 30 months 18 days.
+o	Ketu Bhukti: 12 months 18 days.
+o	Venus (Sukra) Bhukti: 36 months 0 days.
+o	Sun (Surya) Bhukti: 10 months 24 days.
+o	Moon (Chandra) Bhukti: 18 months 0 days.
+o	Mars (Sevvai) Bhukti: 12 months 18 days.
+o	Guru Dasa: 16 Years.
+o	Budhan Dasa: 17 Years.
+o	Bhuktis for Budhan Dasa:
+	Budhan: 28 months 27 days.
+	Ketu: 11 months 27 days.
+	Sukra: 34 months 0 days.
+	Surya: 10 months 6 days.
+	Chandra: 17 months 0 days.
+	Sevvai: 11 months 27 days.
+	Rahu: 30 months 18 days.
+	Guru: 27 months 6 days.
+	Sani: 32 months 9 days.
+o	(Note: The page lists Bhuktis for Guru Dasa and Budhan Dasa mainly).
+________________________________________
+PDF Page 11 (Book Page 451, 452)
+•	Calculation of Bhukti Periods:
+o	Example: Finding Venus Bhukti in Venus Dasa.
+o	Venus Dasa Years = 20. Venus Bhukti is being found, so take 20.
+o	Multiply: $20 \times 20 = 400$.
+o	Take the last digit off (right side). Result: 40.0.
+o	The 40 is Months. The decimal 0 is multiplied by 3 to get Days. (0 * 3 = 0).
+o	Result: 40 Months.
+o	Example: Saturn Bhukti in Rahu Dasa.
+o	Rahu Years = 18. Saturn Years = 19.
+o	$18 \times 19 = 342$.
+o	Split: 34.2.
+o	Months = 34.
+o	Days = $2 \times 3 = 6$.
+o	Result: 34 Months 6 Days.
+•	Tables Provided:
+o	Sun Dasa (6 Years): List of Bhuktis (Sun 3m 18d ... Venus 12m 0d).
+o	Moon Dasa (10 Years): List of Bhuktis (Moon 10m ... Venus 20m).
+o	Mars Dasa (7 Years): List of Bhuktis (Mars 4m 27d ... Venus 14m).
+o	Rahu Dasa (18 Years): List of Bhuktis (Rahu 32m 12d ... Mars 12m 18d).
+o	Jupiter Dasa (16 Years): List of Bhuktis.
+o	Saturn Dasa (19 Years): List of Bhuktis.
+o	Ketu Dasa (7 Years): List of Bhuktis.
+o	Venus Dasa (20 Years): List of Bhuktis.
+________________________________________
+PDF Page 12 (Book Page 449, 450)
+•	Dasa Balance Calculation:
+o	Example: Moon in Aries (Mesham) in Bharani Star.
+o	Analogy: Moon lives in Tamil Nadu (Rasi), Madurai District (Star), Ward 3 (Pada).
+o	Bharani belongs to Venus. Venus Dasa is 20 Years.
+o	If Moon is at the start of Bharani, the native gets full 20 years.
+o	If Moon is in 3rd Pada (crossed half), they get half (10 years).
+o	This is "Dasa Balance" (Dasa Iruppu).
+•	Dasa Lords and Years:
+o	Sun (6 Years): Krittika, Uthiram, Uthiradam.
+o	Moon (10 Years): Rohini, Hastam, Thiruvonam.
+o	Mars (7 Years): Mrigasira, Chitra, Avittam.
+o	Rahu (18 Years): Thiruvadirai, Swati, Sathayam.
+o	Jupiter (16 Years): Punarpoosam, Visakam, Poorattathi.
+o	Saturn (19 Years): Poosam, Anusham, Uthirattathi.
+o	Mercury (17 Years): Ayilyam, Kettai, Revathi.
+o	Ketu (7 Years): Ashwini, Magam, Moolam.
+o	Venus (20 Years): Bharani, Pooram, Pooradam.
+•	Sub-divisions: Each Dasa is divided into 9 Bhuktis. Bhukti is divided into Antharam. Antharam into Sookshmam.
+•	Order: The first Bhukti is always the Dasa Lord's own Bhukti (Swa-Bhukti). Then follows the standard order of planets.
+________________________________________
+PDF Page 13 (Book Page 447, 448)
+•	Order of Planets:
+o	Sun, Mars, Jupiter, Saturn are outside Earth's orbit. Mercury, Venus are inside.
+o	The Dasa order cycles through the 9 planets 3 times across the 27 stars.
+o	Order: Ketu -> Venus -> Sun -> Moon -> Mars -> Rahu -> Jupiter -> Saturn -> Mercury.
+o	Example: Ashwini (Ketu) -> Bharani (Venus) -> Krittika (Sun)...
+•	Diagrams:
+o	The page contains diagrams showing the Zodiac wheel and Star placement.
+•	Math:
+o	1 Rasi = 30 Degrees.
+o	1 Star = 13 Degrees 20 Minutes.
+o	If Moon is at the start, full Dasa. If in middle, proportional Dasa.
+________________________________________
+PDF Page 14 (Book Page 445, 446)
+•	Astronomical Basis of Dasa:
+o	Moon's path is tilted 5 degrees from the Earth-Sun plane.
+o	It moves up 5 degrees and down 5 degrees (Total 10 deg deviation one way, 20 deg full swing?).
+o	The nodal cycle (Rahu/Ketu) takes roughly 18.5 years.
+o	The calculation of 120 years Dasa system is derived from Moon's lateral movement degrees (360 degrees = 360 years? No, 120 degrees lateral movement = 120 years). The text attempts to explain the astronomical logic of 120 years but says it will be detailed in another book.
+•	Speed & Karaka:
+o	Fastest planet: Moon. Fastest change in us: Mind. So Moon = Mind.
+o	Next speed: Mercury. Next change: Intellect. So Mercury = Intellect.
+o	Venus = Desire. Sun = Knowledge. Mars = Body. Jupiter = Soul (Ullam). Saturn = Livelihood/Karma.
+•	Dasa Philosophy:
+o	Dasa is like the growing evolution of results for the native.
+o	Zodiac is divided into 12 Rasis and 27 Stars.
+o	27 comes from Moon taking 27.3 days to orbit Earth.
+o	Horoscope is the map of planets at birth.
+o	Janma Rasi = Moon's Sign. Janma Nakshatra = Moon's Star.
+o	Each Star has a Lord. 27 stars / 9 planets = 3 stars per planet.
+________________________________________
+PDF Page 15 (Book Page 443, 444)
+•	Types of Dasa Systems:
+o	Ashtottari, Shodashottari, Dwadasottari, Vimshottari (120), Panchottari, etc. (List of many Dasa systems like Kalachakra, Yogini).
+o	Most astrologers don't know the math for all these.
+o	Currently, Vimshottari (120 years) is the most used.
+o	It is used because it's easy to calculate and based on Moon's position.
+•	Our Method:
+o	We can also give predictions using Authority Results without using Dasa/Lagana.
+o	But first, understanding Dasa basics is good.
+•	Why Moon is Key:
+o	Astrology gives importance to Moon because Rasi/Star measurements are centered on it.
+o	Moon's orbit is the reference for the "Zodiac belt".
+o	The Moon's path wobbles (nodes), taking 18.5 years to reset. This is the basis of Rahu/Ketu.
+________________________________________
+PDF Page 16 (Book Page 441, 442)
+•	Business Advice:
+o	Do any business with neatness, involvement, and attention. Don't focus only on money. Keep a good name. Adapt to modern times. Self-satisfaction brings success and fame.
+•	Mahadasa Results based on Authority Planet:
+o	Rajanadi doesn't strictly rely on Dasa Bhukti.
+o	However, since clients ask based on other astrologers' input, knowing it helps.
+o	Standard astrology uses House lordships, Aspects, Stars, etc. for Dasa results. We don't need that.
+o	Our Logic: We use Rajanadi Rules (Authority Planets).
+o	Why? Standard Dasa predictions (like "Education in education age") happen anyway. Bad Dasa at young age still allows growth. So generic age-based results happen regardless.
+o	But Authority Planet based Dasa results help identify the specific flavor of events in that period.
+o	Tajikam: Uses Gochar (Transit) for timing.
+o	We use Dasa as a broad timer.
+________________________________________
+PDF Page 17 (Book Page 439, 440)
+•	Ethics for Astrologers:
+o	Do not strike out or correct the horoscope notebook brought by the client.
+o	Take notes on a separate sheet.
+o	Dhruva (Siblings Count): Do not predict number of siblings (Dhruva) to impress the client. If they ask why you didn't say it, explain you focus on their life. Don't trick people.
+o	Atmosphere: The office should be comforting, not scary (like a magician's den). Be like a relative to the client.
+o	Humility: We are just consultants analyzing probability using math. Don't act like God or claim to change Fate.
+o	Warning: Astrologers who prescribe many remedies often have tragic family lives (Divorce, dull children, unnatural deaths). Their mind is filled with negative words (Dosha, Curse, Death). This negativity manifests in their own lives.
+o	Positive Approach: Use the chart to encourage the client. Point out possibilities for growth. If a bad time is seen, advise caution and minimizing damage, but don't claim to wipe it away. Fate cannot be changed completely.
+________________________________________
+PDF Page 18 (Book Page 437, 438)
+•	Prediction Flow:
+o	
+1.	Check Planetary positions (Conjunctions, Rahu/Ketu links, Retro, Exchange).
+o	
+2.	Confirm with past 2 years' events.
+o	
+3.	Predict current situation.
+o	
+4.	Predict next 2 years (The main reason they came).
+o	Interaction:
+	Give them a chance to ask questions. Don't keep talking yourself.
+	Listen to them fully.
+	Distractions: If accompanying people (elderly women, half-knowledgeable people) interrupt with useless questions, politely silence them or ask to speak to the native alone. They ruin the purpose.
+	Patience: If the client doesn't understand, explain again without anger.
+	Analysis: Don't rush. Take time to analyze the chart before speaking. If needed, write notes first to avoid awkward silence (staring at the chart scares the client). Writing gives the impression of calculation.
+________________________________________
+PDF Page 19 (Book Page 435, 436)
+•	Prasna (Horary) with Authority Planet:
+o	Example: Lost Cell Phone.
+o	If Moon is Authority Planet: Places = Temple, Water, Field, Sea, Restaurant.
+o	Ask client: "Did you go to any of these?"
+o	Direction: Left side window (Moon sign).
+o	Thief: Within 15km. Near Banana/Sugarcane/Drumstick tree. Ash color dress.
+•	Astrologer Etiquette:
+o	Dress well.
+o	Get all birth details at once.
+o	Be kind and hospitable. Remove their mental burden.
+o	Show care for their life.
+o	Avoid jargon. Use simple language.
+o	Check family charts briefly if possible for better insight.
+o	Focus: Speak about Good results for hours and Bad results in seconds (briefly).
+o	Time: 10 minutes prediction is enough. Use rest of time to explain/clarify.
+o	Written Note: Provide a one-page summary in a good white envelope with your address stamped. This serves as a record and marketing.
+________________________________________
+PDF Page 20 (Book Page 433, 434)
+•	Diseases (Medical Astrology):
+o	Mercury: Brain link, Fits, Baldness, Hydrocele, Stammering, Small bones.
+o	Venus: Left nostril, Glands, STD, Leprosy, Vatha, Uterus, Face, Eye, Sperm, Diabetes, Private part infection, Protein in urine.
+o	Mars: Dog bite, Urinary hole, Blood, Tooth, Heart, Eyebrow, Pox, Flu, Heat, Burn, Cut, Joint pain, Appendix, Fight injury, Accident, Chest, Bone marrow.
+o	Jupiter: Nose, Hernia, Stomach, Fat, Jaundice, Internal organs, Brain, Foot, Anxiety, Lower Abdomen, Pus, TB, Liver, Boils, Ear pain.
+o	Saturn: Paralysis, Fall from height, Stone hit, Right ear, Jaw, Buttock, Fits, Hair, Leg, Nerve, Deaf, Blind, Mental depression, Ulcer, Dry skin, Dry tongue, Hip/Spine fracture, Metal implants.
+o	Rahu: Mouth, Breath, Liver, Wart, Wheezing, Unknown disease, Ear, Head, Intestine, Blood/Air block, Hydrocele, Mental instability, Ghost fear, STD, Homosexuality.
+o	Ketu: Brutal attack injury, Complex disease, Implants, Nail, Anus, Secret organ, Virus.
+•	Adhikara Graha Arudam (Instant Prediction):
+o	Check the Authority Planet of the moment (Ruling planet).
+o	The client's questions will relate to that planet.
+o	Client's dress color will match that planet.
+o	Example: Lost item. Check Authority Planet's place, distance, shape, number.
+________________________________________
+PDF Page 21 (Book Page 431, 432)
+•	Body Parts & Planets:
+o	Sun: Reproductive/Non-stop organs. Head, Spine, Heart (Driver organs).
+o	Moon: Organs converting food to energy. Mind/Emotional organs. Fluid-based life systems.
+o	Mercury: Body/Mind coordination. Nerves, Intellect, Communication. Skin (Identity).
+o	Venus: Reproductive organs. Attracting opposite sex. Glands.
+o	Mars: Armor/Working organs. Engineering parts. Bones, Joints, Eyelids, Ribcage, Nails.
+o	Jupiter: "Flesh Intelligence" (Muscle Memory/Function). Internal organs made of automatic muscles.
+o	Saturn: Organs for Work/Karma (Legs, Hands).
+o	Rahu/Ketu: Sudden, incomprehensible effects in body.
+•	Diseases:
+o	Sun: Right eye, Bone, Tooth, Brain, Calcium deficiency, Fear of theft, Snake, Herpes, Govt punishment, Migraine, Bleeding, Reproductive defect, Auto-organ failure.
+o	Moon: Left eye, Stomach, Breast, Heart, Diabetes, Menstrual, Urine, Cold, Sinus, Mind, Horned beast attack, Water danger, Female sex disease, Skin, Spleen, Lung, Laziness.
+o	Mercury: Finger, Left ear, Skin, ENT, Amnesia, Shoulder, Throat, Nerve, Growth defect, Phlegm cyst, TB.
+________________________________________
+PDF Page 22 (Book Page 429, 430)
+•	Medical Astrology - Disease Types:
+o	
+1.	Hereditary (Marabu): From parents/ancestors/karma.
+	Saturn: Slow growing diseases.
+	Sun: Sudden diseases.
+	Mars: Infections/Accidents/Blood/Cuts.
+	Jupiter: Ancestral continuity (only what parents had).
+	Symptoms: Twins, Accidents crushing bones, Suicide. These are painful and incurable.
+o	
+2.	Lifestyle (Vazhviyal):
+	Moon: Food/Intake related.
+	Venus: Desire/Habit related.
+	Mercury: Identity/Action related.
+	Can be cured by changing lifestyle. Fluctuating nature. (Diabetes falls here but can become Hereditary if Sun is involved).
+o	
+3.	Unknown/Sudden:
+	Unknown cause. Discovering one while checking another. Sudden attacks (Gas leak, Nuclear, Corona). No escape.
+	Rahu: No symptoms, cannot be diagnosed easily.
+	Ketu: Disgusting symptoms or hidden diseases.
+________________________________________
+PDF Page 23 (Book Page 193, 194)
+•	[Context: Mercury at Edge?]
+o	Mercury (Continued):
+	Family: Daughter/Sister life full of love/family complications. One sister's life will be tricky.
+	Native: Education/Love obstacles initially, settling later. Lifelong learner.
+	Health: Nerve, Skin issues. Hereditary skin allergies. Reproductive organ issues (Long term, hidden).
+	Property: Better not to have property in own name. If they do, they will have to sell it for debt/emergency. Unnecessary land trouble.
+	Planning: They sell one to buy another, or sell to start a business, take advance, then fail to finish, causing confusion. Planning based on imagination leads to trouble.
+	Advice: Check documents carefully.
+•	[Context: Moon at Edge?]
+o	Moon: House questions. Mental confusion. Stress from work to family. Stomach/Breath/Eye/Kidney/Heart issues. Lack of peace. Complaining nature. IT/Transport/Food/Medical jobs. Desire for long travel. Diabetes/Skin. Trouble from Mother/Mother-in-law.
+________________________________________
+PDF Page 24 (Book Page 191, 192)
+•	Planets at the Edge (Vilimbu Grahangal):
+o	Definition: A planet in the first 1.5 degrees (0 - 1.5) or last 1.5 degrees (28.5 - 30) of a Sign.
+o	Result: These are very important. First, state the Karaka of this planet and say the native struggles with it.
+o	Correction: Always check the chart yourself. Check the date +/- 1 day.
+o	Why? A planet might change signs or Retrogression might end/start on the previous/next day. The birth chart might not show it, but the result will be active in life.
+o	Authority: If a planet is in this state (Edge/Retro/Exchange), it is an Authority Planet.
+•	Results of Edge Planets:
+o	Sun: Delayed child birth. Constant worry about kids. Confusion when shifting from Job to Business. Headaches. Tooth issues. Less benefit from Father. Distance from Father. Father is a key identity. Anger if son doesn't follow wishes. Govt/Own business. Police/Govt help sought immediately for problems. Tension. Conflict with high officials.

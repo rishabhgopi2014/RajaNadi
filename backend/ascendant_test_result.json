@@ -1,0 +1,10 @@
+{
+  "ascendant": {
+    "rasi": 3,
+    "rasi_name": "Gemini",
+    "longitude": 80.2775,
+    "degree": 20.28
+  },
+  "expected": "Rasi 4 (Cancer)",
+  "match": false
+}
