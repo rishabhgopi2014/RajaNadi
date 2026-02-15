@@ -57,6 +57,10 @@ class PredictionRequest(BaseModel):
     current_transits: Optional[Dict] = {}
     category: Optional[str] = "general"
     custom_question: Optional[str] = None
+    # Birth details for age calculation
+    date_of_birth: Optional[str] = None  # Format: YYYY-MM-DD
+    time_of_birth: Optional[str] = None  # Format: HH:MM:SS
+    place_of_birth: Optional[str] = None
 
 class ChartResponse(BaseModel):
     """Response for chart calculation only"""

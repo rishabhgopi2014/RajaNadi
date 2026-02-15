@@ -97,10 +97,11 @@ async def get_prediction(request: PredictionRequest):
         # Prepare birth data
         birth_data = {
             "name": request.name,
-            "date_of_birth": "Unknown",  # Not provided in request
-            "time_of_birth": "Unknown",
-            "place_of_birth": "Unknown"
+            "date_of_birth": request.date_of_birth if request.date_of_birth else "Unknown",
+            "time_of_birth": request.time_of_birth if request.time_of_birth else "Unknown",
+            "place_of_birth": request.place_of_birth if request.place_of_birth else "Unknown"
         }
+
         
         # Prepare chart analysis
         # Extract natal planets from the request dict

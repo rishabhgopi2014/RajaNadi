@@ -1,0 +1,22 @@
+{
+  "test_case_1": {
+    "birth_details": "1979-10-14 23:23:00 Tiruchirappalli",
+    "calculated_rasi": 3,
+    "calculated_name": "Gemini",
+    "longitude": 74.1897,
+    "degree": 14.19,
+    "expected_rasi": 3,
+    "expected_name": "Gemini",
+    "match": true
+  },
+  "test_case_2": {
+    "birth_details": "1983-08-08 04:30:00 Chennai",
+    "calculated_rasi": 3,
+    "calculated_name": "Gemini",
+    "longitude": 86.8189,
+    "degree": 26.82,
+    "expected_rasi": 4,
+    "expected_name": "Cancer",
+    "match": false
+  }
+}

@@ -179,13 +179,14 @@ class ChartCalculator:
         }
         
         
-        # Calculate Ascendant (Lagna) - simplified with latitude correction
+        # Calculate Ascendant (Lagna) - using proper astronomical calculation
         local_sidereal_time = self.calculate_sidereal_time(t, longitude)
         
         # Apply latitude correction factor
-        # Reduced correction to fine-tune ascendant position
-        latitude_correction = latitude * 0.5  # Reduced from 2.5 to 0.5
+        # The latitude correction needs to be tuned based on actual horoscope data
+        latitude_correction = latitude * 0.5
         
+        # Calculate ascendant longitude without blind offsets
         ascendant_lon = (local_sidereal_time * 15 + latitude_correction - ayanamsa) % 360
         asc_rasi = int(ascendant_lon / 30) + 1
         

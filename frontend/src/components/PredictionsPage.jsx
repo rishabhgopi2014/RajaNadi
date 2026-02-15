@@ -8,10 +8,12 @@ const PREDICTION_CATEGORIES = [
     { id: 'marriage', icon: '💑', title: 'Marriage & Relationships', color: '#ec4899' },
     { id: 'career', icon: '💼', title: 'Career & Profession', color: '#8b5cf6' },
     { id: 'health', icon: '🏥', title: 'Health & Wellness', color: '#10b981' },
+    { id: 'education', icon: '📚', title: 'Education & Learning', color: '#3b82f6' },
     { id: 'parents', icon: '👨‍👩‍👦', title: 'Parents & Family', color: '#f59e0b' },
     { id: 'children', icon: '👶', title: 'Children & Progeny', color: '#06b6d4' },
     { id: 'wealth', icon: '💰', title: 'Wealth & Finance', color: '#eab308' },
 ]
+
 
 function PredictionsPage({ chartData }) {
     const navigate = useNavigate()
@@ -40,8 +42,13 @@ function PredictionsPage({ chartData }) {
                 authority_planet: chartData.authority_planet,
                 current_transits: chartData.sign_changes || {},
                 category: category || 'general',
-                custom_question: question
+                custom_question: question,
+                // Include birth details for age calculation
+                date_of_birth: chartData.birthDetails.date_of_birth,
+                time_of_birth: chartData.birthDetails.time_of_birth,
+                place_of_birth: chartData.birthDetails.place_of_birth
             })
+
 
             clearInterval(progressInterval)
             setProgress(100)

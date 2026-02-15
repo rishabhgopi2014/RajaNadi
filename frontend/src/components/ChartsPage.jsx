@@ -1,6 +1,31 @@
 import { useNavigate } from 'react-router-dom'
 import SouthIndianChart from './SouthIndianChart'
 
+// Nakshatra names (27 nakshatras)
+const NAKSHATRAS = [
+    'Ashwini', 'Bharani', 'Krittika', 'Rohini', 'Mrigashira', 'Ardra',
+    'Punarvasu', 'Pushya', 'Ashlesha', 'Magha', 'Purva Phalguni', 'Uttara Phalguni',
+    'Hasta', 'Chitra', 'Swati', 'Vishakha', 'Anuradha', 'Jyeshtha',
+    'Mula', 'Purva Ashadha', 'Uttara Ashadha', 'Shravana', 'Dhanishta', 'Shatabhisha',
+    'Purva Bhadrapada', 'Uttara Bhadrapada', 'Revati'
+]
+
+// Calculate Nakshatra from longitude (0-360 degrees)
+function getNakshatraName(longitude) {
+    // Each nakshatra is 13.333... degrees (360 / 27)
+    const nakshatraDegrees = 360 / 27
+    const nakshatraIndex = Math.floor(longitude / nakshatraDegrees)
+    return NAKSHATRAS[nakshatraIndex] || 'Unknown'
+}
+
+// Calculate Pada (1-4) within a Nakshatra
+function getNakshatraPada(longitude) {
+    const nakshatraDegrees = 360 / 27  // 13.333...
+    const positionInNakshatra = longitude % nakshatraDegrees
+    const pada = Math.floor(positionInNakshatra / (nakshatraDegrees / 4)) + 1
+    return pada
+}
+
 function ChartsPage({ chartData }) {
     const navigate = useNavigate()
 
@@ -10,6 +35,44 @@ function ChartsPage({ chartData }) {
                 <div className="page-header">
                     <button onClick={() => navigate('/')} className="back-btn">← Back</button>
                     <h2>📊 Astrological Charts for {chartData.birthDetails.name}</h2>
+                </div>
+
+                {/* Rasi and Nakshatra Information Section */}
+                <div className="rasi-nakshatra-section">
+                    <div className="info-cards-grid">
+                        <div className="chart-card highlight-card rasi-card">
+                            <h3>🌙 Rasi (Moon Sign)</h3>
+                            {chartData.natal.Moon && (
+                                <>
+                                    <p className="rasi-name-large">{chartData.natal.Moon.rasi_name}</p>
+                                    <p className="chart-desc">Rasi {chartData.natal.Moon.rasi}</p>
+                                    <p className="rasi-degree">Moon at {chartData.natal.Moon.degree.toFixed(2)}°</p>
+                                </>
+                            )}
+                        </div>
+
+                        <div className="chart-card highlight-card nakshatra-card">
+                            <h3>⭐ Nakshatra (Birth Star)</h3>
+                            {chartData.natal.Moon && (
+                                <>
+                                    <p className="nakshatra-name-large">{getNakshatraName(chartData.natal.Moon.longitude)}</p>
+                                    <p className="chart-desc">Pada {getNakshatraPada(chartData.natal.Moon.longitude)}</p>
+                                    <p className="nakshatra-degree">Based on Moon's longitude {chartData.natal.Moon.longitude.toFixed(2)}°</p>
+                                </>
+                            )}
+                        </div>
+
+                        <div className="chart-card highlight-card ascendant-info-card">
+                            <h3>🔺 Ascendant (Lagna)</h3>
+                            {chartData.natal.Ascendant && (
+                                <>
+                                    <p className="rasi-name-large">{chartData.natal.Ascendant.rasi_name}</p>
+                                    <p className="chart-desc">Rasi {chartData.natal.Ascendant.rasi}</p>
+                                    <p className="rasi-degree">At {chartData.natal.Ascendant.degree.toFixed(2)}°</p>
+                                </>
+                            )}
+                        </div>
+                    </div>
                 </div>
 
                 <div className="charts-visual-container">
